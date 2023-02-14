@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zedieresiscyr" format="2">
+  <advance width="601"/>
+  <unicode hex="04DE"/>
+  <outline>
+    <component base="Zecyr"/>
+    <component base="dieresis.case" xOffset="109"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>afii10025+~dieresis.case</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzecyr" format="2">
+  <advance width="515"/>
+  <unicode hex="0455"/>
+  <outline>
+    <component base="s" xOffset="12"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>s%</string>
+  </dict>
+  </lib>
+</glyph>

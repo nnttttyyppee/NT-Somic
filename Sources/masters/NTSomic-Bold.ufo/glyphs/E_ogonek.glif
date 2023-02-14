@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="2">
+  <advance width="588"/>
+  <unicode hex="0118"/>
+  <outline>
+    <component base="E"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>E+uni0328</string>
+  </dict>
+  </lib>
+</glyph>

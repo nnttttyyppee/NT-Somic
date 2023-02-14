@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="2">
+  <advance width="314"/>
+  <unicode hex="0142"/>
+  <outline>
+    <component base="l" xOffset="41"/>
+    <contour>
+      <point x="16" y="237" type="line"/>
+      <point x="298" y="418" type="line"/>
+      <point x="298" y="500" type="line"/>
+      <point x="16" y="319" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>l+endash</string>
+  </dict>
+  </lib>
+</glyph>

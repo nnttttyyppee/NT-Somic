@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shacyr" format="2">
+  <advance width="954"/>
+  <unicode hex="0428"/>
+  <outline>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="876" y="0" type="line"/>
+      <point x="876" y="700" type="line"/>
+      <point x="734" y="700" type="line"/>
+      <point x="734" y="130" type="line"/>
+      <point x="548" y="130" type="line"/>
+      <point x="548" y="700" type="line"/>
+      <point x="406" y="700" type="line"/>
+      <point x="406" y="130" type="line"/>
+      <point x="220" y="130" type="line"/>
+      <point x="220" y="700" type="line"/>
+      <point x="78" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w954m78,0l876,0l876,700l734,700l734,130l548,130l548,700l406,700l406,130l220,130l220,700l78,700</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 130</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 78 142</string>
+          <string>vstem 406 142</string>
+          <string>vstem 734 142</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

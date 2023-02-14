@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacroncyr" format="2">
+  <advance width="751"/>
+  <unicode hex="04E2"/>
+  <outline>
+    <component base="Icyr"/>
+    <component base="macron.case" xOffset="177"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>afii10026+~macron.case</string>
+  </dict>
+  </lib>
+</glyph>

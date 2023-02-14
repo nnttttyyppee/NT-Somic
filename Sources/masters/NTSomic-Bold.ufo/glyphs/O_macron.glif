@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omacron" format="2">
+  <advance width="828"/>
+  <unicode hex="014C"/>
+  <outline>
+    <component base="O"/>
+    <component base="macron.case" xOffset="215"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O+~macron.case</string>
+  </dict>
+  </lib>
+</glyph>

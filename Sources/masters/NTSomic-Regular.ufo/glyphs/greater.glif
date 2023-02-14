@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="2">
+  <advance width="527"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="459" y="320" type="line"/>
+      <point x="459" y="390" type="line"/>
+      <point x="68" y="603" type="line"/>
+      <point x="40" y="539" type="line"/>
+      <point x="399" y="348" type="line"/>
+      <point x="399" y="362" type="line"/>
+      <point x="40" y="171" type="line"/>
+      <point x="68" y="107" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w527m459,320l459,390l68,603l40,539l399,348l399,362l40,171l68,107</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 119 -21</string>
+          <string>hstem 615 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ylongdieresiscyr" format="2">
+  <advance width="879"/>
+  <unicode hex="04F8"/>
+  <outline>
+    <component base="Ylongcyr"/>
+    <component base="dieresis.case" xOffset="248"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>afii10045+~dieresis.case</string>
+  </dict>
+  </lib>
+</glyph>

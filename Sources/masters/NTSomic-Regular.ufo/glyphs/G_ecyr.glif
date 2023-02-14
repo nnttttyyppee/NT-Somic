@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gecyr" format="2">
+  <advance width="540"/>
+  <unicode hex="0413"/>
+  <outline>
+    <contour>
+      <point x="92" y="0" type="line"/>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="622" type="line"/>
+      <point x="502" y="622" type="line"/>
+      <point x="502" y="700" type="line"/>
+      <point x="92" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w540m92,0l176,0l176,622l502,622l502,700l92,700</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 618 82.5</string>
+          <string>vstem 92 86</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

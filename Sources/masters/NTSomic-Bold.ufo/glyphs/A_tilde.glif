@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde" format="2">
+  <advance width="690"/>
+  <unicode hex="00C3"/>
+  <outline>
+    <component base="A"/>
+    <component base="tilde.case" xOffset="110"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+~tilde.case</string>
+  </dict>
+  </lib>
+</glyph>
