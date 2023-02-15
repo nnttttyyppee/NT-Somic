@@ -1,6 +1,6 @@
 ### Say hello to our first official release ever—a modern geometric sans serif NT Somic.
 
-![insta-post-2k-v2Slide1](https://user-images.githubusercontent.com/6182535/218993967-33025d50-aa1a-409c-b63c-6327eae29df4.jpg)
+![insta-post-2k-v22Slide1](https://user-images.githubusercontent.com/6182535/219008111-4fa70715-2045-4a7a-98b1-27bf59cc9e1c.jpg)
 
 It is a fresh, simple workhorse typeface. Its clean and minimalist design is made to be used everywhere: in headlines, small size texts, credits and any other place you would like to add a little bit of simplicity.
 
@@ -16,8 +16,8 @@ One last thing: please don't distribute the font itself to any websites or other
 
 We look forward to hearing from you!
 
-![insta-post-2k-v2Slide2](https://user-images.githubusercontent.com/6182535/218993976-22917f9f-1632-461b-b86e-b5ef95eafee1.jpg)
-![insta-post-2k-v2Slide3](https://user-images.githubusercontent.com/6182535/218993985-eab4f939-8204-402b-b2a7-5c21f2de4ecb.jpg)
-![insta-post-2k-v2Slide4](https://user-images.githubusercontent.com/6182535/218993989-ce8e2e5a-cdcf-49a9-805a-29285b56222c.jpg)
-![insta-post-2k-v2Slide5](https://user-images.githubusercontent.com/6182535/218993994-4a19564e-c63b-45c7-8022-a2ff8b3b5f9d.jpg)
-![insta-post-2k-v2Slide6](https://user-images.githubusercontent.com/6182535/218993999-a24375da-6ddb-4566-b0a6-7cfa9c0ddfa3.jpg)
+![insta-post-2k-v22Slide2](https://user-images.githubusercontent.com/6182535/219008117-ee81a6ae-e0fc-4e77-8bde-47a1222b80ae.jpg)
+![insta-post-2k-v22Slide3](https://user-images.githubusercontent.com/6182535/219008122-44f5ac8d-bffa-4f67-b649-d0ea1da79783.jpg)
+![insta-post-2k-v22Slide4](https://user-images.githubusercontent.com/6182535/219008127-17cce027-b169-40c4-85b6-d16154421d49.jpg)
+![insta-post-2k-v22Slide5](https://user-images.githubusercontent.com/6182535/219008132-8fc09175-1e72-485e-b22d-3b592e990609.jpg)
+![insta-post-2k-v22Slide6](https://user-images.githubusercontent.com/6182535/219008138-df2e8b68-143a-4519-8ca0-bc0bb8443cac.jpg)
