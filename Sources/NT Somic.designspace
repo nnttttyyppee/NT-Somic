@@ -1,40 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis minimum="400" default="400" maximum="700" tag="wght" name="weight">
+  <axis tag="wght" name="weight" minimum="400" maximum="700" default="400">
    <labelname xml:lang="en">Weight</labelname>
   </axis>
  </axes>
  <sources>
-  <source filename="masters/NTSomic-Bold.ufo" familyname="NT Somic" stylename="Bold" name="Bold">
+  <source name="Bold" stylename="Bold" familyname="NT Somic" filename="masters/NTSomic-Bold.ufo">
    <location>
-    <dimension xvalue="700" name="weight"/>
+    <dimension name="weight" xvalue="700"/>
    </location>
   </source>
-  <source filename="masters/NTSomic-Regular.ufo" familyname="NT Somic" stylename="Regular" name="Regular">
+  <source name="Regular" stylename="Regular" familyname="NT Somic" filename="masters/NTSomic-Regular.ufo">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension xvalue="400" name="weight"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </source>
  </sources>
  <instances>
-  <instance filename="instances/NTSomic-Regular.ufo" familyname="NT Somic" stylename="Regular" name="Regular">
+  <instance name="Regular" stylename="Regular" familyname="NT Somic" filename="instances/NTSomic-Regular.ufo">
    <location>
-    <dimension xvalue="400" name="weight"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance filename="instances/NTSomic-Medium.ufo" familyname="NT Somic" stylename="Medium" name="Medium">
+  <instance name="Medium" stylename="Medium" familyname="NT Somic" filename="instances/NTSomic-Medium.ufo">
    <location>
-    <dimension xvalue="600" name="weight"/>
+    <dimension name="weight" xvalue="600"/>
    </location>
   </instance>
-  <instance filename="instances/NTSomic-Bold.ufo" familyname="NT Somic" stylename="Bold" name="Bold">
+  <instance name="Bold" stylename="Bold" familyname="NT Somic" filename="instances/NTSomic-Bold.ufo">
    <location>
-    <dimension xvalue="700" name="weight"/>
+    <dimension name="weight" xvalue="700"/>
    </location>
   </instance>
  </instances>
