@@ -1,6 +1,6 @@
 ### Say hello to our first official release ever—a modern geometric sans serif NT Somic.
 
-![insta-post-2k-v22Slide1](https://user-images.githubusercontent.com/6182535/219008111-4fa70715-2045-4a7a-98b1-27bf59cc9e1c.jpg)
+![insta-post-2k-v22Slide1-min](https://user-images.githubusercontent.com/6182535/219934582-e70253d7-49f7-4c98-a1a8-714d2a645300.jpg)
 
 It is a fresh, simple workhorse typeface. Its clean and minimalist design is made to be used everywhere: in headlines, small size texts, credits and any other place you would like to add a little bit of simplicity.
 
@@ -16,8 +16,8 @@ One last thing: please don't distribute the font itself to any websites or other
 
 We look forward to hearing from you!
 
-![insta-post-2k-v22Slide2](https://user-images.githubusercontent.com/6182535/219008117-ee81a6ae-e0fc-4e77-8bde-47a1222b80ae.jpg)
-![insta-post-2k-v22Slide3](https://user-images.githubusercontent.com/6182535/219008122-44f5ac8d-bffa-4f67-b649-d0ea1da79783.jpg)
-![insta-post-2k-v22Slide4](https://user-images.githubusercontent.com/6182535/219008127-17cce027-b169-40c4-85b6-d16154421d49.jpg)
-![insta-post-2k-v22Slide5](https://user-images.githubusercontent.com/6182535/219008132-8fc09175-1e72-485e-b22d-3b592e990609.jpg)
-![insta-post-2k-v22Slide6](https://user-images.githubusercontent.com/6182535/219008138-df2e8b68-143a-4519-8ca0-bc0bb8443cac.jpg)
+![insta-post-2k-v22Slide2-min](https://user-images.githubusercontent.com/6182535/219934585-e2a2b714-e28a-4938-8ac5-d212317938be.jpg)
+![insta-post-2k-v22Slide3-min](https://user-images.githubusercontent.com/6182535/219934587-bfb2d827-44f9-4106-b7c9-51f8a465e44f.jpg)
+![insta-post-2k-v22Slide4-min](https://user-images.githubusercontent.com/6182535/219934588-c8f8f3cd-5775-4999-bf5b-aec480d15609.jpg)
+![insta-post-2k-v22Slide5-min](https://user-images.githubusercontent.com/6182535/219934590-15163ba0-778d-44ae-a0f1-fe79f63cd4ae.jpg)
+![insta-post-2k-v22Slide6-min](https://user-images.githubusercontent.com/6182535/219934591-b2e4f699-5284-4521-9937-20fb56432477.jpg)
