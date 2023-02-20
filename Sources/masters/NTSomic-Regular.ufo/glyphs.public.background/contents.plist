@@ -4,6 +4,10 @@
 <dict>
   <key>Elcyr</key>
   <string>E_lcyr.glif</string>
+  <key>V</key>
+  <string>V_.glif</string>
+  <key>sterling</key>
+  <string>sterling.glif</string>
   <key>three</key>
   <string>three.glif</string>
 </dict>

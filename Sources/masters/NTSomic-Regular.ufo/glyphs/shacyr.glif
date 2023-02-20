@@ -6,7 +6,7 @@
     <contour>
       <point x="76" y="0" type="line"/>
       <point x="76" y="500" type="line"/>
-      <point x="158" y="500" type="line"/>
+      <point x="156" y="500" type="line"/>
       <point x="156" y="74" type="line"/>
       <point x="338" y="74" type="line"/>
       <point x="338" y="500" type="line"/>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w756m76,0l76,500l158,500l156,74l338,74l338,500l418,500l418,74l600,74l600,500l680,500l680,0</string>
+    <string>w756m76,0l76,500l156,500l156,74l338,74l338,500l418,500l418,74l600,74l600,500l680,500l680,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -31,7 +31,7 @@
       <point x="832" y="700" type="line"/>
       <point x="832" y="0" type="line"/>
       <point x="690" y="0" type="line"/>
-      <point x="690" y="701" type="line"/>
+      <point x="690" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>79a72e61a8b654e3bb09d512840d0e769eb21da1ad2f4c572423b0ff0cf77a6408ba16f4ba119c46bdf1f8279772e1baf21b8f54e46052632cffcebc3b8d7e44</string>
+    <string>8114c4448388f2e475544163f8cacdec8b1cf8d88ba363bba605f5950aa706d283c5f8a98823b5034c773179e7dba6c45939560afaef0eccf0d3b1797a78f3eb</string>
     <key>hintSetList</key>
     <array>
       <dict>
