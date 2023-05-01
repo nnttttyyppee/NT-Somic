@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agrave.ss01" format="2">
+  <advance width="637"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="grave" xOffset="151"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a+grave</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex" format="2">
+  <advance width="270"/>
+  <unicode hex="00CE"/>
+  <outline>
+    <component base="I" xOffset="-1"/>
+    <component base="circumflex.case" xOffset="-93"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I+~circumflex.case</string>
+  </dict>
+  </lib>
+</glyph>

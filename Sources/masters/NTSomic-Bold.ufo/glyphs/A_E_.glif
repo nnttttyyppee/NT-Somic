@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+  <advance width="1001"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="491" y="0" type="line"/>
+      <point x="953" y="0" type="line"/>
+      <point x="953" y="130" type="line"/>
+      <point x="633" y="130" type="line"/>
+      <point x="633" y="298" type="line"/>
+      <point x="913" y="298" type="line"/>
+      <point x="913" y="428" type="line"/>
+      <point x="633" y="428" type="line"/>
+      <point x="633" y="570" type="line"/>
+      <point x="953" y="570" type="line"/>
+      <point x="953" y="700" type="line"/>
+      <point x="446" y="700" type="line"/>
+      <point x="18" y="0" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="255" y="150" type="line"/>
+      <point x="491" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="328" y="274" type="line"/>
+      <point x="491" y="550" type="line"/>
+      <point x="491" y="274" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A_E</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8d209e806834fa1daf2387415183878f08bb19157aee6002d03362395c72cdcf1bd3b966b099c0c0fefed029c1470f3be0e7db6da244b55db3f1ca439d2da3d8</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 150 124</string>
+          <string>hstem 700 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

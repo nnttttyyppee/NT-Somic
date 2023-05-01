@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.case" format="2">
+  <advance width="496"/>
+  <outline>
+    <contour>
+      <point x="30" y="782" type="line"/>
+      <point x="162" y="782" type="line"/>
+      <point x="248" y="854" type="line"/>
+      <point x="334" y="782" type="line"/>
+      <point x="466" y="782" type="line"/>
+      <point x="300" y="938" type="line"/>
+      <point x="196" y="938" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+^circumflex%</string>
+  </dict>
+  </lib>
+</glyph>

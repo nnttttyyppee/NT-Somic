@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yukrcyr" format="2">
+  <advance width="268"/>
+  <unicode hex="0407"/>
+  <outline>
+    <component base="dieresis.case" xOffset="-59"/>
+    <contour>
+      <point x="91" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="178" y="700" type="line"/>
+      <point x="91" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w268m91,0l178,0l178,700l91,700</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 803 121</string>
+          <string>vstem 48.5 57.5</string>
+          <string>vstem 91 87</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

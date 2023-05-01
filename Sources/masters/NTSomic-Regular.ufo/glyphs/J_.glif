@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J" format="2">
+  <advance width="583"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="275" y="68" type="curve" smooth="yes"/>
+      <point x="356" y="68"/>
+      <point x="411" y="127"/>
+      <point x="411" y="220" type="curve" smooth="yes"/>
+      <point x="411" y="700" type="line"/>
+      <point x="497" y="700" type="line"/>
+      <point x="497" y="209" type="line" smooth="yes"/>
+      <point x="497" y="75"/>
+      <point x="408" y="-14"/>
+      <point x="275" y="-14" type="curve" smooth="yes"/>
+      <point x="142" y="-14"/>
+      <point x="53" y="75"/>
+      <point x="53" y="229" type="curve" smooth="yes"/>
+      <point x="53" y="253" type="line"/>
+      <point x="139" y="260" type="line"/>
+      <point x="139" y="236" type="line" smooth="yes"/>
+      <point x="139" y="126"/>
+      <point x="193" y="68"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>374f18b5d201df98ade0fa434c2523033f3487a83f4abe3b4f99190d2a5b60555db8e8f339ec5e6537322d401e1f0e5cb73ce80f7da5a1fb2b95f0365a56f662</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -14 78</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 403 84</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

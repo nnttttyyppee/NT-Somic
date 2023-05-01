@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="2">
+  <advance width="698"/>
+  <unicode hex="00DC"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresis.case" xOffset="156"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>U+~dieresis.case</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="2">
+  <advance width="376"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="85" y="412" type="line"/>
+      <point x="188" y="623" type="line"/>
+      <point x="291" y="412" type="line"/>
+      <point x="366" y="412" type="line"/>
+      <point x="221" y="700" type="line"/>
+      <point x="155" y="700" type="line"/>
+      <point x="10" y="412" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w376m85,412l188,623l291,412l366,412l221,700l155,700l10,412</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 298 -21</string>
+          <string>hstem 700 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

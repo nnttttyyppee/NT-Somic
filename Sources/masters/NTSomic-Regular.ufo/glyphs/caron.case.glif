@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.case" format="2">
+  <advance width="454"/>
+  <outline>
+    <contour>
+      <point x="30" y="931" type="line"/>
+      <point x="190" y="789" type="line"/>
+      <point x="264" y="789" type="line"/>
+      <point x="424" y="931" type="line"/>
+      <point x="330" y="931" type="line"/>
+      <point x="227" y="848" type="line"/>
+      <point x="124" y="931" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+^caron%</string>
+  </dict>
+  </lib>
+</glyph>

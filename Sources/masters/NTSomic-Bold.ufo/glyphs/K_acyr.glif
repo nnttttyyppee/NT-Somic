@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kacyr" format="2">
+  <advance width="675"/>
+  <unicode hex="041A"/>
+  <outline>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="222" y="0" type="line"/>
+      <point x="222" y="304" type="line"/>
+      <point x="356" y="304" type="line"/>
+      <point x="356" y="428" type="line"/>
+      <point x="222" y="428" type="line"/>
+      <point x="222" y="700" type="line"/>
+      <point x="78" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="434" y="368" type="line"/>
+      <point x="653" y="700" type="line"/>
+      <point x="493" y="700" type="line"/>
+      <point x="276" y="366" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="653" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w675m78,0l222,0l222,304l356,304l356,428l222,428l222,700l78,700m434,368l653,700l493,700l276,366l489,0l653,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 304 124</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 78 144</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

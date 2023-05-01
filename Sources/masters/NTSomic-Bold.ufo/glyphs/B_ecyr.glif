@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Becyr" format="2">
+  <advance width="635"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="78" y="700" type="line"/>
+      <point x="535" y="700" type="line"/>
+      <point x="535" y="566" type="line"/>
+      <point x="218" y="566" type="line"/>
+      <point x="218" y="434" type="line"/>
+      <point x="370" y="434" type="line" smooth="yes"/>
+      <point x="506" y="434"/>
+      <point x="597" y="343"/>
+      <point x="597" y="217" type="curve" smooth="yes"/>
+      <point x="597" y="91"/>
+      <point x="506" y="0"/>
+      <point x="370" y="0" type="curve" smooth="yes"/>
+      <point x="78" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="306" type="line"/>
+      <point x="218" y="128" type="line"/>
+      <point x="359" y="128" type="line" smooth="yes"/>
+      <point x="415" y="128"/>
+      <point x="454" y="161"/>
+      <point x="454" y="217" type="curve" smooth="yes"/>
+      <point x="454" y="273"/>
+      <point x="415" y="306"/>
+      <point x="359" y="306" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0f5266ac8f9739c4022aa815240c3a9a606860eee659e5aba30b7560de20870756cfe27ad9f31680ae3cc593a8616be4adc4f0639fc941052462917b4dcc65be</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 128</string>
+          <string>hstem 306 128</string>
+          <string>hstem 566 134</string>
+          <string>vstem 78 140</string>
+          <string>vstem 454 143</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ntilde" format="2">
+  <advance width="575"/>
+  <unicode hex="00F1"/>
+  <outline>
+    <component base="n" xOffset="-2"/>
+    <component base="tilde" xOffset="92"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>n+tilde</string>
+  </dict>
+  </lib>
+</glyph>

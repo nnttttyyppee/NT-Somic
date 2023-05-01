@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pecyr" format="2">
+  <advance width="716"/>
+  <unicode hex="041F"/>
+  <outline>
+    <contour>
+      <point x="92" y="0" type="line"/>
+      <point x="179" y="0" type="line"/>
+      <point x="179" y="619" type="line"/>
+      <point x="537" y="619" type="line"/>
+      <point x="537" y="0" type="line"/>
+      <point x="624" y="0" type="line"/>
+      <point x="624" y="700" type="line"/>
+      <point x="92" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w716m92,0l179,0l179,619l537,619l537,0l624,0l624,700l92,700</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 618 82.5</string>
+          <string>vstem 92 86</string>
+          <string>vstem 473 86</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

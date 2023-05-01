@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+  <advance width="754"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <component base="D" xOffset="37"/>
+    <contour>
+      <point x="36" y="320" type="line"/>
+      <point x="367" y="320" type="line"/>
+      <point x="367" y="398" type="line"/>
+      <point x="36" y="398" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>D+&lt;50~50hyphen%</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w754m36,320l367,320l367,398l36,398</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 266 77.5</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

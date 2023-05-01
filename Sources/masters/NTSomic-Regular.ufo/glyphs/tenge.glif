@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tenge" format="2">
+  <advance width="595"/>
+  <unicode hex="20B8"/>
+  <outline>
+    <contour>
+      <point x="38" y="565" type="line"/>
+      <point x="38" y="484" type="line"/>
+      <point x="254" y="484" type="line"/>
+      <point x="254" y="0" type="line"/>
+      <point x="341" y="0" type="line"/>
+      <point x="341" y="484" type="line"/>
+      <point x="557" y="484" type="line"/>
+      <point x="557" y="565" type="line"/>
+    </contour>
+    <contour>
+      <point x="557" y="625" type="line"/>
+      <point x="557" y="700" type="line"/>
+      <point x="38" y="700" type="line"/>
+      <point x="38" y="625" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w595m38,565l38,484l254,484l254,0l341,0l341,484l557,484l557,565m557,625l557,700l38,700l38,625</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 618 82.5</string>
+          <string>vstem 169 86</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="2">
+  <advance width="234"/>
+  <unicode hex="00ED"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="acute" xOffset="53"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+acute</string>
+  </dict>
+  </lib>
+</glyph>

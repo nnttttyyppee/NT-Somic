@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhecyr" format="2">
+  <advance width="984"/>
+  <unicode hex="0416"/>
+  <outline>
+    <contour>
+      <point x="420" y="0" type="line"/>
+      <point x="564" y="0" type="line"/>
+      <point x="564" y="306" type="line"/>
+      <point x="678" y="306" type="line"/>
+      <point x="678" y="426" type="line"/>
+      <point x="564" y="426" type="line"/>
+      <point x="564" y="700" type="line"/>
+      <point x="420" y="700" type="line"/>
+      <point x="420" y="426" type="line"/>
+      <point x="306" y="426" type="line"/>
+      <point x="306" y="306" type="line"/>
+      <point x="420" y="306" type="line"/>
+    </contour>
+    <contour>
+      <point x="22" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="372" y="366" type="line"/>
+      <point x="180" y="700" type="line"/>
+      <point x="22" y="700" type="line"/>
+      <point x="224" y="366" type="line"/>
+    </contour>
+    <contour>
+      <point x="802" y="0" type="line"/>
+      <point x="962" y="0" type="line"/>
+      <point x="760" y="366" type="line"/>
+      <point x="962" y="700" type="line"/>
+      <point x="804" y="700" type="line"/>
+      <point x="612" y="366" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>eaeefb3b8f09577e753ed48bb3324601c59fbe3ecc4989ad78c9fb01b2ad834273fed9f2a69de0322bc02b4a2d6c83d50ad9326a61747d478342256da9f7f635</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 306 120</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 420 144</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="geupcyr" format="2">
+  <advance width="414"/>
+  <unicode hex="0491"/>
+  <outline>
+    <contour>
+      <point x="274" y="625" type="line" name=".hr02"/>
+      <point x="396" y="625" type="line"/>
+      <point x="396" y="382" type="line"/>
+      <point x="190" y="382" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="60" y="500" type="line" name=".hr01"/>
+      <point x="274" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w414m274,625l396,625l396,382l190,382l190,0l60,0l60,500l274,500</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 382 243</string>
+          <string>vstem 274 122</string>
+          <string>vstem 60 130</string>
+          <string>hstem 21 -21</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 382 118</string>
+          <string>vstem 60 130</string>
+          <string>vstem 274 122</string>
+          <string>hstem 21 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 382 243</string>
+          <string>vstem 274 122</string>
+          <string>hstem 21 -21</string>
+          <string>vstem 60 130</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

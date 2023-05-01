@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hardcyr" format="2">
+  <advance width="750"/>
+  <unicode hex="042A"/>
+  <outline>
+    <contour>
+      <point x="183" y="0" type="line"/>
+      <point x="183" y="568" type="line"/>
+      <point x="36" y="568" type="line"/>
+      <point x="36" y="700" type="line"/>
+      <point x="323" y="700" type="line"/>
+      <point x="323" y="470" type="line"/>
+      <point x="473" y="470" type="line" smooth="yes"/>
+      <point x="617" y="470"/>
+      <point x="714" y="376"/>
+      <point x="714" y="235" type="curve" smooth="yes"/>
+      <point x="714" y="93"/>
+      <point x="618" y="0"/>
+      <point x="472" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="323" y="129" type="line"/>
+      <point x="459" y="129" type="line" smooth="yes"/>
+      <point x="526" y="129"/>
+      <point x="571" y="170"/>
+      <point x="571" y="235" type="curve" smooth="yes"/>
+      <point x="571" y="300"/>
+      <point x="526" y="341"/>
+      <point x="459" y="341" type="curve" smooth="yes"/>
+      <point x="323" y="341" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>167d0154e8e6f2c4dc097479a22c21be1f8be42fb94c2e9402164c9133fa30a5ed33d28459314b53dbef7ac46df6e7ec3467a29d1ab7f10ff1d41890e47c50d0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 128</string>
+          <string>hstem 342 128</string>
+          <string>hstem 568 132</string>
+          <string>vstem 183 140</string>
+          <string>vstem 571 143</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

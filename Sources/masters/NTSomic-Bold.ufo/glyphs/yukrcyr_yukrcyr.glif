@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yukrcyr_yukrcyr" format="2">
+  <advance width="492"/>
+  <outline>
+    <contour>
+      <point x="60" y="500" type="line"/>
+      <point x="186" y="500" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="60" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="500" type="line" name=".hr01"/>
+      <point x="432" y="500" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="306" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="451" y="661" type="curve" smooth="yes"/>
+      <point x="451" y="702"/>
+      <point x="484" y="735"/>
+      <point x="525" y="735" type="curve" smooth="yes"/>
+      <point x="566" y="735"/>
+      <point x="599" y="702"/>
+      <point x="599" y="661" type="curve" smooth="yes"/>
+      <point x="599" y="620"/>
+      <point x="566" y="587"/>
+      <point x="525" y="587" type="curve" smooth="yes"/>
+      <point x="484" y="587"/>
+      <point x="451" y="620"/>
+    </contour>
+    <contour>
+      <point x="265" y="661" type="curve" smooth="yes"/>
+      <point x="265" y="702"/>
+      <point x="298" y="735"/>
+      <point x="339" y="735" type="curve" smooth="yes"/>
+      <point x="380" y="735"/>
+      <point x="413" y="702"/>
+      <point x="413" y="661" type="curve" smooth="yes"/>
+      <point x="413" y="620"/>
+      <point x="380" y="587"/>
+      <point x="339" y="587" type="curve" smooth="yes"/>
+      <point x="298" y="587"/>
+      <point x="265" y="620"/>
+    </contour>
+    <contour>
+      <point x="79" y="661" type="curve" smooth="yes"/>
+      <point x="79" y="702"/>
+      <point x="112" y="735"/>
+      <point x="153" y="735" type="curve" smooth="yes"/>
+      <point x="194" y="735"/>
+      <point x="227" y="702"/>
+      <point x="227" y="661" type="curve" smooth="yes"/>
+      <point x="227" y="620"/>
+      <point x="194" y="587"/>
+      <point x="153" y="587" type="curve" smooth="yes"/>
+      <point x="112" y="587"/>
+      <point x="79" y="620"/>
+    </contour>
+    <contour>
+      <point x="-107" y="661" type="curve" smooth="yes"/>
+      <point x="-107" y="702"/>
+      <point x="-74" y="735"/>
+      <point x="-33" y="735" type="curve" smooth="yes"/>
+      <point x="8" y="735"/>
+      <point x="41" y="702"/>
+      <point x="41" y="661" type="curve" smooth="yes"/>
+      <point x="41" y="620"/>
+      <point x="8" y="587"/>
+      <point x="-33" y="587" type="curve" smooth="yes"/>
+      <point x="-74" y="587"/>
+      <point x="-107" y="620"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>yukrcyr_yukrcyr</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f5bad1e4b0745793b71caab97bff6f46bd033e09ba61fea2836aa7b052c47b023734de124a23c879ffaf86fcb6c715283f0bf79eb47be301c8d2bc627f665413</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 582 142</string>
+          <string>vstem 60 126</string>
+          <string>vstem 269 142</string>
+          <string>hstem 21 -21</string>
+          <string>vstem -107 142</string>
+          <string>vstem 457 142</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 582 142</string>
+          <string>vstem 306 126</string>
+          <string>vstem 81 142</string>
+          <string>hstem 21 -21</string>
+          <string>vstem 457 142</string>
+          <string>vstem -107 142</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="2">
+  <advance width="332"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="30" y="611" type="line"/>
+      <point x="302" y="611" type="line"/>
+      <point x="302" y="677" type="line"/>
+      <point x="30" y="677" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+uni0304</string>
+  </dict>
+  </lib>
+</glyph>

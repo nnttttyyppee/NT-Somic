@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="2">
+  <advance width="430"/>
+  <unicode hex="0165"/>
+  <outline>
+    <component base="quoteright" xOffset="182"/>
+    <contour>
+      <point x="16" y="426" type="line"/>
+      <point x="128" y="426" type="line"/>
+      <point x="128" y="500" type="line"/>
+      <point x="16" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="184" y="186" type="curve" smooth="yes" name=".hr01"/>
+      <point x="184" y="640" type="line"/>
+      <point x="104" y="640" type="line"/>
+      <point x="104" y="181" type="line" smooth="yes"/>
+      <point x="104" y="57"/>
+      <point x="169" y="-6"/>
+      <point x="284" y="-6" type="curve" smooth="yes"/>
+      <point x="350" y="-6" type="line"/>
+      <point x="350" y="70" type="line"/>
+      <point x="292" y="70" type="line" smooth="yes"/>
+      <point x="219" y="70"/>
+      <point x="184" y="108"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>t_quoteright</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d7f31a5bda73428369fca4d401d7bc11a24853cc067844a5016dbacfd72d4ab0c4c9adc387e513d68ee687d4ebe65f0562d4058bd0d0c64ca51b6d704af14344</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 77</string>
+          <string>vstem 103 234</string>
+          <string>hstem 423 77</string>
+          <string>hstem 640 -20</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 77</string>
+          <string>vstem 103 80.5</string>
+          <string>hstem 640 -20</string>
+          <string>hstem 423 77</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

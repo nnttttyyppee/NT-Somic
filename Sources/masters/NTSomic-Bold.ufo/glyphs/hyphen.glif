@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="2">
+  <advance width="357"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="46" y="213" type="line"/>
+      <point x="311" y="213" type="line"/>
+      <point x="311" y="321" type="line"/>
+      <point x="46" y="321" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w357m46,213l311,213l311,321l46,321</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 213 108</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

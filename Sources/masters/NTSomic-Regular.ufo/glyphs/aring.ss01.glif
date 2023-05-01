@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aring.ss01" format="2">
+  <advance width="637"/>
+  <outline>
+    <component base="ring" xOffset="172"/>
+    <component base="a.ss01"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a+ring</string>
+  </dict>
+  </lib>
+</glyph>

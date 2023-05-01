@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwadieresiscyr" format="2">
+  <advance width="799"/>
+  <unicode hex="04DA"/>
+  <outline>
+    <component base="Schwacyr"/>
+    <component base="dieresis.case" xOffset="207"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni04D8+~dieresis.case</string>
+  </dict>
+  </lib>
+</glyph>

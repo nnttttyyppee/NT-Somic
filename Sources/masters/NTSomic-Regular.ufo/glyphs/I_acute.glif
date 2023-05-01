@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute" format="2">
+  <advance width="270"/>
+  <unicode hex="00CD"/>
+  <outline>
+    <component base="I" xOffset="-1"/>
+    <component base="acute.case" xOffset="68"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I+~acute.case</string>
+  </dict>
+  </lib>
+</glyph>

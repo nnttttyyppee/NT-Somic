@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsecyr" format="2">
+  <advance width="602"/>
+  <unicode hex="0446"/>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="76" y="500" type="line"/>
+      <point x="157" y="500" type="line"/>
+      <point x="157" y="75" type="line"/>
+      <point x="415" y="75" type="line"/>
+      <point x="415" y="500" type="line"/>
+      <point x="496" y="500" type="line"/>
+      <point x="496" y="75" type="line"/>
+      <point x="574" y="75" type="line"/>
+      <point x="574" y="-130" type="line"/>
+      <point x="494" y="-130" type="line"/>
+      <point x="494" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w602m76,0l76,500l157,500l157,75l415,75l415,500l496,500l496,75l574,75l574,-130l494,-130l494,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -126 204</string>
+          <string>hstem 0 78.5</string>
+          <string>hstem 500 -20</string>
+          <string>vstem 81 79.5</string>
+          <string>vstem 337.5 79.5</string>
+          <string>vstem 424 75</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
