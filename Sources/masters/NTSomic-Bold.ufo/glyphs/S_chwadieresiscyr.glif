@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Schwadieresiscyr" format="2">
-  <advance width="800"/>
+  <advance width="796"/>
   <unicode hex="04DA"/>
   <outline>
     <component base="Schwacyr"/>
-    <component base="dieresis.case" xOffset="173"/>
+    <component base="dieresis.case" xOffset="169"/>
   </outline>
   <lib>
   <dict>

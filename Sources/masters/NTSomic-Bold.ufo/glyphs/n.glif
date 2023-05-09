@@ -9,7 +9,7 @@
       <point x="520" y="319" type="line" smooth="yes"/>
       <point x="520" y="435"/>
       <point x="444" y="514"/>
-      <point x="333.495" y="514" type="curve" smooth="yes"/>
+      <point x="333" y="514" type="curve" smooth="yes"/>
       <point x="261" y="514"/>
       <point x="208" y="480"/>
       <point x="172" y="410" type="curve"/>
@@ -21,7 +21,7 @@
       <point x="190" y="273" type="line" smooth="yes"/>
       <point x="190" y="351"/>
       <point x="234" y="394"/>
-      <point x="297.244" y="394" type="curve" smooth="yes"/>
+      <point x="297" y="394" type="curve" smooth="yes"/>
       <point x="359" y="394"/>
       <point x="390" y="353"/>
       <point x="390" y="282" type="curve" smooth="yes"/>
@@ -34,7 +34,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b585d4fc5cb10be0d9ff5cc899b98a2638719040d5a64c03b20873a981728a5c5b234f82f97d1495e86fdcc7dda7d3e9049015ec586668432121d07bfe16245a</string>
+    <string>db951bb22c52ba5c0a2d09092b6e6f0f3854a93a59f0df2f86ceafeef6eff09bc393f43a08da2b487497d776a792d112f153a42d7cdc27796ecf553c1517b5a8</string>
     <key>hintSetList</key>
     <array>
       <dict>

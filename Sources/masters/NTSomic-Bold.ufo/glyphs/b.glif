@@ -10,16 +10,16 @@
       <point x="60" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="355.789" y="-14" type="curve" smooth="yes"/>
+      <point x="356" y="-14" type="curve" smooth="yes"/>
       <point x="490" y="-14"/>
-      <point x="590" y="94" name=".hr01"/>
-      <point x="590" y="249.612" type="curve" smooth="yes"/>
+      <point x="590" y="94"/>
+      <point x="590" y="250" type="curve" smooth="yes"/>
       <point x="590" y="406"/>
       <point x="489" y="514"/>
-      <point x="354.789" y="514" type="curve" smooth="yes"/>
+      <point x="355" y="514" type="curve" smooth="yes"/>
       <point x="225" y="514"/>
       <point x="139" y="413"/>
-      <point x="139" y="250.471" type="curve" smooth="yes"/>
+      <point x="139" y="250" type="curve" smooth="yes"/>
       <point x="139" y="87"/>
       <point x="226" y="-14"/>
     </contour>
@@ -45,30 +45,20 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7cabfcc5a7a25748537acf0c3261aa2bd7785978c988286c8929c180ca3304efa7e29306a4af457dd3f41596abe8175982c1280d34840955f2a1bc19588c3cde</string>
+    <string>60e7724b1c7d8addb5017ccfc5b24c6740742363b589f94f266129e3e8b26383e0693f6dac3bd35f79ff28520d7d295262d6fdf3e6b67cdd668b5ee5d8993d06</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 700 -20</string>
-          <string>vstem 134 126</string>
-          <string>vstem 534 128</string>
           <string>hstem -14 124</string>
           <string>hstem 390 124</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 700 -20</string>
+          <string>vstem 40 126</string>
+          <string>vstem 134 126</string>
           <string>vstem 468 122</string>
-          <string>vstem 134 126</string>
-          <string>hstem 390 124</string>
-          <string>hstem -14 124</string>
+          <string>vstem 534 128</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

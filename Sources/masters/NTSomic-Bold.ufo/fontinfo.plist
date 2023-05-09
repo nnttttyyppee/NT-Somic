@@ -42,7 +42,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2023/02/20 12:56:36</string>
+  <string>2023/05/09 16:06:05</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -70,7 +70,7 @@ https://scripts.sil.org/OFL
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameVersion</key>
-  <string>Version 0.62</string>
+  <string>Version 0.7</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -164,7 +164,7 @@ https://scripts.sil.org/OFL
   <key>versionMajor</key>
   <integer>0</integer>
   <key>versionMinor</key>
-  <integer>62</integer>
+  <integer>7</integer>
   <key>xHeight</key>
   <integer>500</integer>
 </dict>

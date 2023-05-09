@@ -57,13 +57,6 @@
     <key>public.kern2._O_right</key>
     <integer>-6</integer>
   </dict>
-  <key>Decyr</key>
-  <dict>
-    <key>ereversedcyr</key>
-    <integer>-10</integer>
-    <key>yacyr</key>
-    <integer>-20</integer>
-  </dict>
   <key>Djecyr</key>
   <dict>
     <key>Checyr</key>
@@ -72,6 +65,18 @@
     <integer>-60</integer>
     <key>Tshecyr</key>
     <integer>-60</integer>
+    <key>checyr</key>
+    <integer>-18</integer>
+    <key>djecyr</key>
+    <integer>-28</integer>
+    <key>hardcyr</key>
+    <integer>-24</integer>
+    <key>tecyr</key>
+    <integer>-34</integer>
+    <key>tshecyr</key>
+    <integer>-28</integer>
+    <key>yacyr</key>
+    <integer>-5</integer>
     <key>public.kern2._Geupcyr2_right</key>
     <integer>-70</integer>
     <key>public.kern2._K_right</key>
@@ -80,6 +85,10 @@
     <integer>-10</integer>
     <key>public.kern2._Ucyr</key>
     <integer>-72</integer>
+    <key>public.kern2._k_rightside</key>
+    <integer>-14</integer>
+    <key>public.kern2._y_right</key>
+    <integer>-41</integer>
   </dict>
   <key>Efcyr</key>
   <dict>
@@ -101,10 +110,14 @@
     <integer>-12</integer>
     <key>decyr</key>
     <integer>-30</integer>
+    <key>djecyr</key>
+    <integer>-16</integer>
     <key>elcyr</key>
     <integer>-40</integer>
+    <key>ljecyr</key>
+    <integer>-40</integer>
     <key>yacyr</key>
-    <integer>-10</integer>
+    <integer>-7</integer>
     <key>public.kern2._A</key>
     <integer>-51</integer>
     <key>public.kern2._Geupcyr2_right</key>
@@ -116,7 +129,14 @@
     <key>public.kern2._Ucyr</key>
     <integer>-56</integer>
     <key>public.kern2._k_rightside</key>
+    <integer>-20</integer>
+    <key>public.kern2._y_right</key>
     <integer>-10</integer>
+  </dict>
+  <key>Encyr</key>
+  <dict>
+    <key>yukrcyr</key>
+    <integer>8</integer>
   </dict>
   <key>Ercyr</key>
   <dict>
@@ -130,8 +150,14 @@
     <integer>-42</integer>
     <key>decyr</key>
     <integer>-42</integer>
+    <key>elcyr</key>
+    <integer>-35</integer>
+    <key>ljecyr</key>
+    <integer>-35</integer>
     <key>yacyr</key>
     <integer>-20</integer>
+    <key>yukrcyr</key>
+    <integer>4</integer>
     <key>public.kern2._A</key>
     <integer>-45</integer>
     <key>public.kern2._J_right</key>
@@ -184,6 +210,8 @@
     <integer>-30</integer>
     <key>z</key>
     <integer>-50</integer>
+    <key>public.kern2._A</key>
+    <integer>-57</integer>
     <key>public.kern2._O_right</key>
     <integer>-20</integer>
     <key>public.kern2._a</key>
@@ -304,9 +332,9 @@
     <key>becyr</key>
     <integer>-20</integer>
     <key>checyr</key>
-    <integer>-42</integer>
+    <integer>-46</integer>
     <key>yacyr</key>
-    <integer>-20</integer>
+    <integer>-16</integer>
   </dict>
   <key>Tshecyr</key>
   <dict>
@@ -314,10 +342,20 @@
     <integer>-64</integer>
     <key>Djecyr</key>
     <integer>-60</integer>
+    <key>djecyr</key>
+    <integer>-36</integer>
+    <key>hardcyr</key>
+    <integer>-29</integer>
+    <key>tecyr</key>
+    <integer>-22</integer>
+    <key>tshecyr</key>
+    <integer>-36</integer>
     <key>public.kern2._Geupcyr2_right</key>
     <integer>-70</integer>
     <key>public.kern2._Ucyr</key>
     <integer>-72</integer>
+    <key>public.kern2._y_right</key>
+    <integer>-48</integer>
   </dict>
   <key>U</key>
   <dict>
@@ -429,14 +467,20 @@
     <integer>-10</integer>
     <key>Hardcyr</key>
     <integer>-20</integer>
+    <key>decyr</key>
+    <integer>-10</integer>
     <key>ereversedcyr</key>
-    <integer>-20</integer>
+    <integer>-14</integer>
     <key>yacyr</key>
-    <integer>-20</integer>
+    <integer>-12</integer>
+    <key>yukrcyr</key>
+    <integer>6</integer>
     <key>public.kern2._A</key>
     <integer>-15</integer>
     <key>public.kern2._Ucyr</key>
     <integer>-24</integer>
+    <key>public.kern2._k_rightside</key>
+    <integer>-6</integer>
   </dict>
   <key>a</key>
   <dict>
@@ -523,8 +567,6 @@
     <integer>-20</integer>
     <key>decyr</key>
     <integer>-20</integer>
-    <key>tecyr</key>
-    <integer>-20</integer>
   </dict>
   <key>eukrcyr</key>
   <dict>
@@ -576,7 +618,7 @@
     <key>public.kern2._k_rightside</key>
     <integer>-12</integer>
     <key>public.kern2._o_rightside</key>
-    <integer>-8</integer>
+    <integer>-20</integer>
   </dict>
   <key>g</key>
   <dict>
@@ -617,7 +659,9 @@
     <key>public.kern2._a</key>
     <integer>-9</integer>
     <key>public.kern2._o_rightside</key>
-    <integer>-22</integer>
+    <integer>-27</integer>
+    <key>public.kern2._s_right</key>
+    <integer>-23</integer>
     <key>public.kern2._y_right</key>
     <integer>-8</integer>
   </dict>
@@ -721,7 +765,7 @@
     <key>public.kern2._a</key>
     <integer>-6</integer>
     <key>public.kern2._o_rightside</key>
-    <integer>-10</integer>
+    <integer>-24</integer>
   </dict>
   <key>shacyr</key>
   <dict>
@@ -749,7 +793,7 @@
     <key>public.kern2._W_right</key>
     <integer>-13</integer>
     <key>public.kern2._o_rightside</key>
-    <integer>-4</integer>
+    <integer>-8</integer>
   </dict>
   <key>tecyr</key>
   <dict>
@@ -814,6 +858,8 @@
     <integer>-22</integer>
     <key>public.kern2._k_rightside</key>
     <integer>-20</integer>
+    <key>public.kern2._y_right</key>
+    <integer>-20</integer>
   </dict>
   <key>w</key>
   <dict>
@@ -844,7 +890,7 @@
     <key>public.kern2._a</key>
     <integer>-10</integer>
     <key>public.kern2._o_rightside</key>
-    <integer>-22</integer>
+    <integer>-24</integer>
   </dict>
   <key>yacyr</key>
   <dict>
@@ -936,7 +982,9 @@
     <key>Y</key>
     <integer>-80</integer>
     <key>becyr</key>
-    <integer>-25</integer>
+    <integer>-32</integer>
+    <key>checyr</key>
+    <integer>-52</integer>
     <key>f</key>
     <integer>-20</integer>
     <key>t</key>
@@ -945,6 +993,8 @@
     <integer>-18</integer>
     <key>w</key>
     <integer>-58</integer>
+    <key>zecyr</key>
+    <integer>-2</integer>
     <key>public.kern2._Geupcyr2_right</key>
     <integer>-60</integer>
     <key>public.kern2._J_right</key>
@@ -960,11 +1010,11 @@
     <key>public.kern2._W_right</key>
     <integer>-70</integer>
     <key>public.kern2._a</key>
-    <integer>-18</integer>
+    <integer>-15</integer>
     <key>public.kern2._o_rightside</key>
-    <integer>-26</integer>
+    <integer>-24</integer>
     <key>public.kern2._s_right</key>
-    <integer>-19</integer>
+    <integer>-18</integer>
     <key>public.kern2._y_right</key>
     <integer>-66</integer>
   </dict>
@@ -976,8 +1026,12 @@
     <integer>-26</integer>
     <key>t</key>
     <integer>-6</integer>
+    <key>tecyr</key>
+    <integer>-18</integer>
     <key>w</key>
     <integer>-22</integer>
+    <key>yacyr</key>
+    <integer>-20</integer>
     <key>z</key>
     <integer>-20</integer>
     <key>public.kern2._A</key>
@@ -991,7 +1045,7 @@
     <key>public.kern2._V_right</key>
     <integer>-22</integer>
     <key>public.kern2._k_rightside</key>
-    <integer>-24</integer>
+    <integer>-22</integer>
     <key>public.kern2._s_right</key>
     <integer>-10</integer>
     <key>public.kern2._y_right</key>
@@ -999,18 +1053,26 @@
   </dict>
   <key>public.kern1._E_left</key>
   <dict>
+    <key>djecyr</key>
+    <integer>-14</integer>
     <key>f</key>
     <integer>-8</integer>
     <key>g</key>
     <integer>-6</integer>
+    <key>hardcyr</key>
+    <integer>-14</integer>
     <key>s</key>
     <integer>-10</integer>
     <key>t</key>
     <integer>-12</integer>
+    <key>tshecyr</key>
+    <integer>-15</integer>
     <key>u</key>
     <integer>-10</integer>
     <key>w</key>
     <integer>-19</integer>
+    <key>yukrcyr</key>
+    <integer>32</integer>
     <key>public.kern2._J_right</key>
     <integer>-20</integer>
     <key>public.kern2._O_right</key>
@@ -1034,10 +1096,14 @@
     <integer>-60</integer>
     <key>Yacyr</key>
     <integer>-6</integer>
+    <key>becyr</key>
+    <integer>-40</integer>
     <key>checyr</key>
     <integer>-60</integer>
     <key>decyr</key>
     <integer>-70</integer>
+    <key>dzhecyr</key>
+    <integer>-60</integer>
     <key>elcyr</key>
     <integer>-80</integer>
     <key>emcyr</key>
@@ -1058,9 +1124,13 @@
     <integer>-60</integer>
     <key>kacyr</key>
     <integer>-60</integer>
+    <key>ljecyr</key>
+    <integer>-80</integer>
     <key>m</key>
     <integer>-60</integer>
     <key>n</key>
+    <integer>-60</integer>
+    <key>njecyr</key>
     <integer>-60</integer>
     <key>p</key>
     <integer>-60</integer>
@@ -1094,6 +1164,8 @@
     <integer>-60</integer>
     <key>yucyr</key>
     <integer>-60</integer>
+    <key>yukrcyr</key>
+    <integer>40</integer>
     <key>z</key>
     <integer>-60</integer>
     <key>zecyr</key>
@@ -1114,6 +1186,8 @@
     <integer>-66</integer>
     <key>public.kern2._o_rightside</key>
     <integer>-80</integer>
+    <key>public.kern2._s_right</key>
+    <integer>-70</integer>
     <key>public.kern2._y_right</key>
     <integer>-74</integer>
   </dict>
@@ -1146,7 +1220,21 @@
     <integer>-60</integer>
     <key>Yacyr</key>
     <integer>-14</integer>
+    <key>decyr</key>
+    <integer>-10</integer>
+    <key>djecyr</key>
+    <integer>-25</integer>
+    <key>elcyr</key>
+    <integer>-14</integer>
+    <key>hardcyr</key>
+    <integer>-8</integer>
+    <key>ljecyr</key>
+    <integer>-6</integer>
     <key>tecyr</key>
+    <integer>-8</integer>
+    <key>tshecyr</key>
+    <integer>-25</integer>
+    <key>yacyr</key>
     <integer>-6</integer>
     <key>public.kern2._A</key>
     <integer>-18</integer>
@@ -1160,11 +1248,19 @@
     <integer>-60</integer>
     <key>public.kern2._k_rightside</key>
     <integer>-32</integer>
+    <key>public.kern2._s_right</key>
+    <integer>-4</integer>
     <key>public.kern2._y_right</key>
     <integer>-30</integer>
   </dict>
   <key>public.kern1._J_left</key>
   <dict>
+    <key>decyr</key>
+    <integer>-26</integer>
+    <key>elcyr</key>
+    <integer>-26</integer>
+    <key>ereversedcyr</key>
+    <integer>-10</integer>
     <key>g</key>
     <integer>-16</integer>
     <key>public.kern2._A</key>
@@ -1174,8 +1270,14 @@
   <dict>
     <key>Efcyr</key>
     <integer>-52</integer>
+    <key>becyr</key>
+    <integer>-50</integer>
+    <key>checyr</key>
+    <integer>-62</integer>
+    <key>djecyr</key>
+    <integer>-10</integer>
     <key>ereversedcyr</key>
-    <integer>-20</integer>
+    <integer>-22</integer>
     <key>f</key>
     <integer>-17</integer>
     <key>hardcyr</key>
@@ -1186,12 +1288,16 @@
     <integer>-34</integer>
     <key>tecyr</key>
     <integer>-30</integer>
+    <key>tshecyr</key>
+    <integer>-10</integer>
     <key>u</key>
     <integer>-22</integer>
     <key>w</key>
     <integer>-48</integer>
+    <key>yukrcyr</key>
+    <integer>40</integer>
     <key>zecyr</key>
-    <integer>-4</integer>
+    <integer>-18</integer>
     <key>public.kern2._J_right</key>
     <integer>-44</integer>
     <key>public.kern2._O_right</key>
@@ -1201,7 +1307,9 @@
     <key>public.kern2._a</key>
     <integer>-22</integer>
     <key>public.kern2._o_rightside</key>
-    <integer>-28</integer>
+    <integer>-35</integer>
+    <key>public.kern2._s_right</key>
+    <integer>-27</integer>
     <key>public.kern2._y_right</key>
     <integer>-54</integer>
   </dict>
@@ -1227,16 +1335,28 @@
     <integer>-7</integer>
     <key>decyr</key>
     <integer>-30</integer>
+    <key>djecyr</key>
+    <integer>-24</integer>
+    <key>elcyr</key>
+    <integer>-18</integer>
     <key>g</key>
     <integer>-12</integer>
     <key>j</key>
     <integer>-2</integer>
+    <key>ljecyr</key>
+    <integer>-18</integer>
     <key>s</key>
     <integer>-10</integer>
     <key>t</key>
     <integer>-4</integer>
+    <key>tshecyr</key>
+    <integer>-24</integer>
     <key>w</key>
     <integer>-12</integer>
+    <key>yacyr</key>
+    <integer>-6</integer>
+    <key>yukrcyr</key>
+    <integer>-4</integer>
     <key>z</key>
     <integer>-8</integer>
     <key>public.kern2._A</key>
@@ -1259,6 +1379,8 @@
     <integer>-24</integer>
     <key>public.kern2._o_rightside</key>
     <integer>-2</integer>
+    <key>public.kern2._s_right</key>
+    <integer>-7</integer>
     <key>public.kern2._y_right</key>
     <integer>-16</integer>
   </dict>
@@ -1266,12 +1388,18 @@
   <dict>
     <key>Y</key>
     <integer>-42</integer>
+    <key>decyr</key>
+    <integer>-14</integer>
+    <key>elcyr</key>
+    <integer>-14</integer>
     <key>g</key>
     <integer>-13</integer>
     <key>s</key>
     <integer>-8</integer>
     <key>t</key>
     <integer>-9</integer>
+    <key>yacyr</key>
+    <integer>-6</integer>
     <key>z</key>
     <integer>-14</integer>
     <key>public.kern2._A</key>
@@ -1285,9 +1413,9 @@
     <key>public.kern2._W_right</key>
     <integer>-10</integer>
     <key>public.kern2._k_rightside</key>
-    <integer>-22</integer>
+    <integer>-18</integer>
     <key>public.kern2._y_right</key>
-    <integer>-32</integer>
+    <integer>-30</integer>
   </dict>
   <key>public.kern1._V_left</key>
   <dict>
@@ -1389,6 +1517,8 @@
     <integer>-60</integer>
     <key>decyr</key>
     <integer>-88</integer>
+    <key>dzhecyr</key>
+    <integer>-60</integer>
     <key>elcyr</key>
     <integer>-90</integer>
     <key>emcyr</key>
@@ -1406,6 +1536,10 @@
     <key>ishortcyr</key>
     <integer>-60</integer>
     <key>kacyr</key>
+    <integer>-60</integer>
+    <key>ljecyr</key>
+    <integer>-82</integer>
+    <key>njecyr</key>
     <integer>-60</integer>
     <key>pecyr</key>
     <integer>-60</integer>
@@ -1427,6 +1561,8 @@
     <integer>-70</integer>
     <key>yucyr</key>
     <integer>-60</integer>
+    <key>yukrcyr</key>
+    <integer>50</integer>
     <key>zecyr</key>
     <integer>-80</integer>
     <key>public.kern2._A</key>
@@ -1445,6 +1581,8 @@
     <integer>-72</integer>
     <key>public.kern2._o_rightside</key>
     <integer>-92</integer>
+    <key>public.kern2._s_right</key>
+    <integer>-73</integer>
     <key>public.kern2._y_right</key>
     <integer>-50</integer>
   </dict>
@@ -1481,6 +1619,8 @@
     <integer>-88</integer>
     <key>question</key>
     <integer>-20</integer>
+    <key>tecyr</key>
+    <integer>-16</integer>
     <key>w</key>
     <integer>-24</integer>
     <key>yacyr</key>
@@ -1599,19 +1739,21 @@
     <key>elcyr</key>
     <integer>-12</integer>
     <key>f</key>
-    <integer>-2</integer>
+    <integer>-4</integer>
     <key>g</key>
-    <integer>-6</integer>
+    <integer>-8</integer>
     <key>hardcyr</key>
     <integer>-8</integer>
     <key>parenright</key>
     <integer>-10</integer>
     <key>question</key>
     <integer>-62</integer>
+    <key>t</key>
+    <integer>-10</integer>
     <key>tecyr</key>
     <integer>-14</integer>
     <key>w</key>
-    <integer>-19</integer>
+    <integer>-24</integer>
     <key>yacyr</key>
     <integer>-4</integer>
     <key>z</key>
@@ -1637,7 +1779,7 @@
     <key>public.kern2._k_rightside</key>
     <integer>-32</integer>
     <key>public.kern2._y_right</key>
-    <integer>-26</integer>
+    <integer>-21</integer>
   </dict>
   <key>public.kern1._plecho2_left</key>
   <dict>
@@ -1655,8 +1797,20 @@
     <integer>-10</integer>
     <key>checyr</key>
     <integer>-22</integer>
+    <key>djecyr</key>
+    <integer>-35</integer>
+    <key>ereversedcyr</key>
+    <integer>-8</integer>
+    <key>hardcyr</key>
+    <integer>-35</integer>
+    <key>jecyr</key>
+    <integer>30</integer>
     <key>tecyr</key>
     <integer>-40</integer>
+    <key>tshecyr</key>
+    <integer>-35</integer>
+    <key>yacyr</key>
+    <integer>-15</integer>
     <key>public.kern2._Geupcyr2_right</key>
     <integer>-30</integer>
     <key>public.kern2._J_right</key>
@@ -1696,6 +1850,8 @@
     <integer>-80</integer>
     <key>public.kern2._o_rightside</key>
     <integer>-8</integer>
+    <key>public.kern2._y_right</key>
+    <integer>-22</integer>
   </dict>
   <key>public.kern1._s_left</key>
   <dict>
@@ -1732,6 +1888,8 @@
     <integer>-60</integer>
     <key>braceright</key>
     <integer>-30</integer>
+    <key>decyr</key>
+    <integer>-35</integer>
     <key>g</key>
     <integer>-29</integer>
     <key>parenright</key>
@@ -1761,7 +1919,7 @@
     <key>public.kern2._a</key>
     <integer>-16</integer>
     <key>public.kern2._o_rightside</key>
-    <integer>-24</integer>
+    <integer>-21</integer>
   </dict>
 </dict>
 </plist>
