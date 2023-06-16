@@ -410,6 +410,10 @@
     <string>tenge</string>
     <string>turkishlira</string>
     <string>manat</string>
+    <string>zacute</string>
+    <string>nacute</string>
+    <string>zdotaccent</string>
+    <string>sacute</string>
   </array>
 </dict>
 </plist>

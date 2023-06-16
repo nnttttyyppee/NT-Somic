@@ -4,26 +4,26 @@
   <unicode hex="0259"/>
   <outline>
     <contour>
-      <point x="284" y="-14" type="curve" smooth="yes"/>
+      <point x="284.028" y="-14" type="curve" smooth="yes"/>
       <point x="440" y="-14"/>
       <point x="547" y="93"/>
       <point x="547" y="251" type="curve" smooth="yes"/>
       <point x="547" y="409"/>
       <point x="440" y="514"/>
-      <point x="283" y="514" type="curve" smooth="yes"/>
+      <point x="283.124" y="514" type="curve" smooth="yes"/>
       <point x="190" y="514"/>
       <point x="115" y="477"/>
       <point x="63" y="406" type="curve"/>
       <point x="157" y="336" type="line"/>
       <point x="187" y="382"/>
       <point x="228" y="404"/>
-      <point x="282" y="404" type="curve" smooth="yes"/>
+      <point x="282.031" y="404" type="curve" smooth="yes"/>
       <point x="369" y="404"/>
       <point x="423" y="347"/>
-      <point x="422" y="251" type="curve" smooth="yes"/>
+      <point x="422.494" y="250.825" type="curve" smooth="yes"/>
       <point x="422" y="157"/>
       <point x="370" y="96"/>
-      <point x="285" y="96" type="curve" smooth="yes"/>
+      <point x="285.103" y="96" type="curve" smooth="yes"/>
       <point x="213" y="96"/>
       <point x="166" y="140"/>
       <point x="161" y="211" type="curve"/>
@@ -33,7 +33,7 @@
       <point x="38" y="292" type="line"/>
       <point x="35" y="272"/>
       <point x="34" y="255"/>
-      <point x="34" y="240" type="curve" smooth="yes"/>
+      <point x="34" y="239.545" type="curve" smooth="yes"/>
       <point x="34" y="85"/>
       <point x="134" y="-14"/>
     </contour>
@@ -45,7 +45,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>827f0861584f21c2d1b75d746efaf6dfe284c7664fd482a40c691682a76f6fd023c2bdcae1f5221d6d317e4df6013d0e85bab1be6445ca499577eb15f391b9ec</string>
+    <string>9d4b8b8a7aaedfa3e7a14e4c89cc39946be5e844ac86cd79db6555d0bd6512e48d7b1f600b63fd37ae0aabf5b5b60141c9f615dc89c13978969f557a3c2de615</string>
     <key>hintSetList</key>
     <array>
       <dict>

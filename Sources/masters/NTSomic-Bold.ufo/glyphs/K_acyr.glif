@@ -6,19 +6,19 @@
     <contour>
       <point x="78" y="0" type="line"/>
       <point x="222" y="0" type="line"/>
-      <point x="222" y="304" type="line"/>
-      <point x="356" y="304" type="line"/>
-      <point x="356" y="428" type="line"/>
-      <point x="222" y="428" type="line"/>
+      <point x="222" y="303" type="line"/>
+      <point x="356" y="303" type="line"/>
+      <point x="356" y="427" type="line"/>
+      <point x="222" y="427" type="line"/>
       <point x="222" y="700" type="line"/>
       <point x="78" y="700" type="line"/>
     </contour>
     <contour>
       <point x="434" y="368" type="line"/>
       <point x="653" y="700" type="line"/>
-      <point x="493" y="700" type="line"/>
-      <point x="276" y="366" type="line"/>
-      <point x="489" y="0" type="line"/>
+      <point x="497" y="700" type="line"/>
+      <point x="280" y="366" type="line"/>
+      <point x="495" y="0" type="line"/>
       <point x="653" y="0" type="line"/>
     </contour>
   </outline>
@@ -29,14 +29,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w675m81,0l225,0l225,304l359,304l359,428l225,428l225,700l81,700m437,368l656,700l496,700l279,366l492,0l656,0</string>
+    <string>w675m78,0l222,0l222,303l356,303l356,427l222,427l222,700l78,700m434,368l653,700l497,700l280,366l495,0l653,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 21 -21</string>
-          <string>hstem 304 124</string>
+          <string>hstem 303 124</string>
           <string>hstem 700 -20</string>
           <string>vstem 78 144</string>
         </array>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash" format="2">
-  <advance width="445"/>
+  <advance width="444"/>
   <unicode hex="002F"/>
   <outline>
     <contour>
-      <point x="103" y="-183" type="line"/>
-      <point x="416" y="742" type="line"/>
+      <point x="103" y="-182" type="line"/>
+      <point x="416" y="743" type="line"/>
       <point x="343" y="764" type="line"/>
       <point x="30" y="-161" type="line"/>
     </contour>
@@ -17,7 +17,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w445m103,-183l416,742l343,764l30,-161</string>
+    <string>w444m103,-182l416,743l343,764l30,-161</string>
     <key>hintSetList</key>
     <array>
       <dict>

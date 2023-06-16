@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="2">
-  <advance width="638"/>
+  <advance width="633"/>
   <unicode hex="0071"/>
   <outline>
-    <component base="p" xScale="-1" xOffset="639"/>
+    <component base="p" xScale="-1" xOffset="633"/>
   </outline>
   <lib>
   <dict>
@@ -12,7 +12,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w638</string>
+    <string>w633</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -21,8 +21,8 @@
           <string>hstem -179 -21</string>
           <string>hstem -14 78</string>
           <string>hstem 436 78</string>
-          <string>vstem 47 81.5</string>
-          <string>vstem 491 80.5</string>
+          <string>vstem 41 81.5</string>
+          <string>vstem 485 80.5</string>
         </array>
       </dict>
     </array>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Becyr" format="2">
-  <advance width="596"/>
+  <advance width="614"/>
   <unicode hex="0411"/>
   <outline>
     <contour>
-      <point x="78" y="700" type="line"/>
-      <point x="502" y="700" type="line"/>
-      <point x="502" y="618" type="line"/>
+      <point x="79" y="700" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="345" y="0" type="line" smooth="yes"/>
+      <point x="480" y="0"/>
+      <point x="566" y="83"/>
+      <point x="566" y="206" type="curve" smooth="yes"/>
+      <point x="566" y="331"/>
+      <point x="480" y="414"/>
+      <point x="345" y="414" type="curve" smooth="yes"/>
+      <point x="162" y="414" type="line"/>
       <point x="162" y="618" type="line"/>
-      <point x="162" y="410" type="line"/>
-      <point x="345" y="410" type="line" smooth="yes"/>
-      <point x="476" y="410"/>
-      <point x="560" y="330"/>
-      <point x="560" y="205" type="curve" smooth="yes"/>
-      <point x="560" y="79"/>
-      <point x="477" y="0"/>
-      <point x="345" y="0" type="curve" smooth="yes"/>
-      <point x="78" y="0" type="line"/>
+      <point x="502" y="618" type="line"/>
+      <point x="502" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="162" y="331" type="line"/>
-      <point x="162" y="79" type="line"/>
-      <point x="344" y="79" type="line" smooth="yes"/>
-      <point x="419" y="79"/>
-      <point x="476" y="131"/>
-      <point x="476" y="206" type="curve" smooth="yes"/>
-      <point x="476" y="278"/>
-      <point x="419" y="331"/>
-      <point x="344" y="331" type="curve" smooth="yes"/>
+      <point x="162" y="334" type="line"/>
+      <point x="344" y="334" type="line" smooth="yes"/>
+      <point x="427" y="334"/>
+      <point x="482" y="285"/>
+      <point x="482" y="207" type="curve" smooth="yes"/>
+      <point x="482" y="132"/>
+      <point x="426" y="80"/>
+      <point x="344" y="80" type="curve" smooth="yes"/>
+      <point x="162" y="80" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>03eaec410a93e3d61165e79675a14b5486ff40a449058773e5b8a6506ca6511459cc300e58b080a736a7eccb9d17b5bcef37359a1ce8454c2b43f94a1de13d6d</string>
+    <string>4cd02f4a5652232b45bfaef9234eed9aa363496f70c299dcdc20c14f97158f164d9ec5dbe717248db9c44fe8ab85a5b7776cb3b709994f6a704445145a528b4c</string>
     <key>hintSetList</key>
     <array>
       <dict>

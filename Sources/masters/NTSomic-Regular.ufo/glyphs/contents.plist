@@ -600,6 +600,8 @@
   <string>multiply.glif</string>
   <key>n</key>
   <string>n.glif</string>
+  <key>nacute</key>
+  <string>nacute.glif</string>
   <key>ncaron</key>
   <string>ncaron.glif</string>
   <key>nine</key>
@@ -694,6 +696,8 @@
   <string>ruble.glif</string>
   <key>s</key>
   <string>s.glif</string>
+  <key>sacute</key>
+  <string>sacute.glif</string>
   <key>scaron</key>
   <string>scaron.glif</string>
   <key>scedilla</key>
@@ -804,8 +808,12 @@
   <string>yukrcyr_yukrcyr.glif</string>
   <key>z</key>
   <string>z.glif</string>
+  <key>zacute</key>
+  <string>zacute.glif</string>
   <key>zcaron</key>
   <string>zcaron.glif</string>
+  <key>zdotaccent</key>
+  <string>zdotaccent.glif</string>
   <key>zecyr</key>
   <string>zecyr.glif</string>
   <key>zedieresiscyr</key>

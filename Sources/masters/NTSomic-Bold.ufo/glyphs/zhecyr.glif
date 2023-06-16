@@ -6,32 +6,32 @@
     <contour>
       <point x="319" y="0" type="line"/>
       <point x="447" y="0" type="line"/>
-      <point x="447" y="206" type="line"/>
-      <point x="511" y="206" type="line"/>
-      <point x="511" y="312" type="line"/>
-      <point x="447" y="312" type="line"/>
+      <point x="447" y="205" type="line"/>
+      <point x="511" y="205" type="line"/>
+      <point x="511" y="313" type="line"/>
+      <point x="447" y="313" type="line"/>
       <point x="447" y="500" type="line"/>
       <point x="319" y="500" type="line"/>
-      <point x="319" y="312" type="line"/>
-      <point x="255" y="312" type="line"/>
-      <point x="255" y="206" type="line"/>
-      <point x="319" y="206" type="line"/>
+      <point x="319" y="313" type="line"/>
+      <point x="255" y="313" type="line"/>
+      <point x="255" y="205" type="line"/>
+      <point x="319" y="205" type="line"/>
     </contour>
     <contour>
-      <point x="465" y="259" type="line"/>
-      <point x="610" y="0" type="line"/>
+      <point x="466" y="258" type="line"/>
+      <point x="612" y="0" type="line"/>
       <point x="750" y="0" type="line"/>
-      <point x="595" y="262" type="line"/>
+      <point x="597" y="261" type="line"/>
       <point x="745" y="500" type="line"/>
       <point x="613" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="302" y="259" type="line"/>
-      <point x="154" y="500" type="line"/>
+      <point x="300" y="258" type="line"/>
+      <point x="153" y="500" type="line"/>
       <point x="21" y="500" type="line"/>
-      <point x="171" y="262" type="line"/>
+      <point x="169" y="261" type="line"/>
       <point x="16" y="0" type="line"/>
-      <point x="157" y="0" type="line"/>
+      <point x="154" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,14 +41,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f0252d3eed8b0357da993945d51716ccadd2bf39a47070f429bbbe375a3880a84856fd4f16cb15da01ed7ce6fb2c9c321da8a937529113cc7f693aed7e685b98</string>
+    <string>de2bd48c6fc5ebf8afab3adeaa6a511dab929b53f97262c17b00ff18f97a742d003b155394e960a8b702d3d3bc7d32dc01fe2661f0edaa7de25afc56862a8a51</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 21 -21</string>
-          <string>hstem 206 106</string>
+          <string>hstem 205 108</string>
           <string>hstem 500 -20</string>
           <string>vstem 319 128</string>
         </array>

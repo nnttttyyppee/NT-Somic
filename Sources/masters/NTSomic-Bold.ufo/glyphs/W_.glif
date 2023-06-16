@@ -12,12 +12,12 @@
       <point x="809" y="0" type="line"/>
       <point x="1004" y="700" type="line"/>
       <point x="847" y="700" type="line"/>
-      <point x="716" y="197" type="line"/>
-      <point x="728" y="197" type="line"/>
+      <point x="718" y="193" type="line"/>
+      <point x="730" y="193" type="line"/>
       <point x="592" y="700" type="line"/>
       <point x="430" y="700" type="line"/>
-      <point x="295" y="198" type="line"/>
-      <point x="306" y="198" type="line"/>
+      <point x="293" y="195" type="line"/>
+      <point x="304" y="195" type="line"/>
       <point x="175" y="700" type="line"/>
       <point x="18" y="700" type="line"/>
     </contour>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1022m213,0l370,0l515,531l507,531l652,0l809,0l1004,700l847,700l716,197l728,197l592,700l430,700l295,198l306,198l175,700l18,700</string>
+    <string>w1022m213,0l370,0l515,531l507,531l652,0l809,0l1004,700l847,700l718,193l730,193l592,700l430,700l293,195l304,195l175,700l18,700</string>
     <key>hintSetList</key>
     <array>
       <dict>

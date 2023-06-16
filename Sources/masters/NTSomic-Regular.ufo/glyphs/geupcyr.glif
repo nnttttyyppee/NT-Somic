@@ -4,8 +4,8 @@
   <unicode hex="0491"/>
   <outline>
     <contour>
-      <point x="308" y="612" type="line" name=".hr02"/>
-      <point x="382" y="612" type="line"/>
+      <point x="308" y="610" type="line"/>
+      <point x="382" y="610" type="line"/>
       <point x="382" y="425" type="line"/>
       <point x="157" y="425" type="line"/>
       <point x="157" y="0" type="line"/>
@@ -21,7 +21,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w402m308,612l382,612l382,425l157,425l157,0l76,0l76,500l308,500</string>
+    <string>w402m308,610l382,610l382,425l157,425l157,0l76,0l76,500l308,500</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -43,17 +43,6 @@
         </array>
         <key>pointTag</key>
         <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 423 189</string>
-          <string>hstem 21 -21</string>
-          <string>vstem 76 79.5</string>
-          <string>vstem 302 79.5</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>
