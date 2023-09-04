@@ -42,7 +42,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2023/05/09 16:06:05</string>
+  <string>2023/09/04 20:47:45</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -54,17 +54,33 @@
   <integer>-250</integer>
   <key>openTypeHheaLineGap</key>
   <integer>100</integer>
+  <key>openTypeNameDescription</key>
+  <string>It is a fresh, simple workhorse typeface. Its clean and minimalist design is made to be used everywhere: in headlines, small size texts, credits and any other place you would like to add a little bit of simplicity.
+
+NT Somic comes in 3 weights from Regular to Bold, and is also variable. Currently it consists of basic Latin and Cyrillic sets of glyphs and supports a couple of OpenType features such as alternate single storey -a- and ligatures for Ukrainian language.
+
+Give yourself a fresh look at design with NT Somic, free of charge. This versatile typeface is a blank slate, perfect for almost* any scenario.
+
+*Note that it is still under development, next planned additions are: Extended Latin set, Extended Cyrillic set, more currencies, additional sets of numbers and alternates.
+
+If you&#39;d like to send us any early projects that are using NT Somic, we would really appreciate it! Those would be great examples of how the font works in practice. We also would be more than happy if you could let us know if you do find any bugs or problems with the fonts, so we can fix them before anyone else stumbles upon them.
+
+One last thing: please don&#39;t distribute the font itself to any websites or other third parties; if someone asks for it, please direct them here.
+
+We look forward to hearing from you!</string>
   <key>openTypeNameDesigner</key>
-  <string>NT Type</string>
+  <string>Ravid Balaliev</string>
   <key>openTypeNameDesignerURL</key>
   <string>https://t.me/nnttttyyppee</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright 2022 The NT Somic Project Authors (https://github.com/nt-type/NT-Somic)
+  <string>Copyright 2022 The NT Somic Project Authors (https://github.com/nnttttyyppee/NT-Somic)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 https://scripts.sil.org/OFL
 </string>
+  <key>openTypeNameManufacturer</key>
+  <string>NT Type</string>
   <key>openTypeNamePreferredFamilyName</key>
   <string>NT Somic</string>
   <key>openTypeNamePreferredSubfamilyName</key>
@@ -170,7 +186,7 @@ https://scripts.sil.org/OFL
   <key>openTypeOS2TypoLineGap</key>
   <integer>100</integer>
   <key>openTypeOS2VendorID</key>
-  <string>NT</string>
+  <string>NNTT</string>
   <key>openTypeOS2WeightClass</key>
   <integer>700</integer>
   <key>openTypeOS2WidthClass</key>

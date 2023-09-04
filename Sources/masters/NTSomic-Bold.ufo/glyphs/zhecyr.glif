@@ -7,14 +7,14 @@
       <point x="319" y="0" type="line"/>
       <point x="447" y="0" type="line"/>
       <point x="447" y="205" type="line"/>
-      <point x="511" y="205" type="line"/>
-      <point x="511" y="313" type="line"/>
+      <point x="541" y="205" type="line"/>
+      <point x="541" y="313" type="line"/>
       <point x="447" y="313" type="line"/>
       <point x="447" y="500" type="line"/>
       <point x="319" y="500" type="line"/>
       <point x="319" y="313" type="line"/>
-      <point x="255" y="313" type="line"/>
-      <point x="255" y="205" type="line"/>
+      <point x="225" y="313" type="line"/>
+      <point x="225" y="205" type="line"/>
       <point x="319" y="205" type="line"/>
     </contour>
     <contour>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>de2bd48c6fc5ebf8afab3adeaa6a511dab929b53f97262c17b00ff18f97a742d003b155394e960a8b702d3d3bc7d32dc01fe2661f0edaa7de25afc56862a8a51</string>
+    <string>5f2d430acdfef1ec6066c9d4b739fd8b686d31e93f9a3c1ebe17cd4d34ffac464324fdeb442a25162a689d570411a8cb5ff685bcb55056d76aca3afd5589bae5</string>
     <key>hintSetList</key>
     <array>
       <dict>

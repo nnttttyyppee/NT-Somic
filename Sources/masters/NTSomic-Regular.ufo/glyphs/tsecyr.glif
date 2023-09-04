@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tsecyr" format="2">
-  <advance width="602"/>
+  <advance width="598"/>
   <unicode hex="0446"/>
   <outline>
     <contour>
@@ -8,14 +8,14 @@
       <point x="76" y="500" type="line"/>
       <point x="157" y="500" type="line"/>
       <point x="157" y="75" type="line"/>
-      <point x="415" y="75" type="line"/>
-      <point x="415" y="500" type="line"/>
-      <point x="496" y="500" type="line"/>
-      <point x="496" y="75" type="line"/>
-      <point x="574" y="75" type="line"/>
-      <point x="574" y="-130" type="line"/>
-      <point x="494" y="-130" type="line"/>
-      <point x="494" y="0" type="line"/>
+      <point x="411" y="75" type="line"/>
+      <point x="411" y="500" type="line"/>
+      <point x="492" y="500" type="line"/>
+      <point x="492" y="75" type="line"/>
+      <point x="570" y="75" type="line"/>
+      <point x="570" y="-130" type="line"/>
+      <point x="490" y="-130" type="line"/>
+      <point x="490" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w602m76,0l76,500l157,500l157,75l415,75l415,500l496,500l496,75l574,75l574,-130l494,-130l494,0</string>
+    <string>w598m76,0l76,500l157,500l157,75l411,75l411,500l492,500l492,75l570,75l570,-130l490,-130l490,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

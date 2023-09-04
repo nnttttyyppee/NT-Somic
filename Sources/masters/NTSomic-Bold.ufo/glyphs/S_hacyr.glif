@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Shacyr" format="2">
-  <advance width="956"/>
+  <advance width="976"/>
   <unicode hex="0428"/>
   <outline>
     <contour>
       <point x="78" y="0" type="line"/>
-      <point x="878" y="0" type="line"/>
-      <point x="878" y="700" type="line"/>
-      <point x="734" y="700" type="line"/>
-      <point x="734" y="132" type="line"/>
-      <point x="550" y="132" type="line"/>
-      <point x="550" y="700" type="line"/>
-      <point x="406" y="700" type="line"/>
-      <point x="406" y="132" type="line"/>
+      <point x="898" y="0" type="line"/>
+      <point x="898" y="700" type="line"/>
+      <point x="754" y="700" type="line"/>
+      <point x="754" y="132" type="line"/>
+      <point x="560" y="132" type="line"/>
+      <point x="560" y="700" type="line"/>
+      <point x="416" y="700" type="line"/>
+      <point x="416" y="132" type="line"/>
       <point x="222" y="132" type="line"/>
       <point x="222" y="700" type="line"/>
       <point x="78" y="700" type="line"/>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w956m78,0l878,0l878,700l734,700l734,132l550,132l550,700l406,700l406,132l222,132l222,700l78,700</string>
+    <string>w976m78,0l898,0l898,700l754,700l754,132l560,132l560,700l416,700l416,132l222,132l222,700l78,700</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -34,8 +34,8 @@
           <string>hstem 0 132</string>
           <string>hstem 700 -20</string>
           <string>vstem 78 144</string>
-          <string>vstem 406 144</string>
-          <string>vstem 734 144</string>
+          <string>vstem 416 144</string>
+          <string>vstem 754 144</string>
         </array>
       </dict>
     </array>

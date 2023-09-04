@@ -4,12 +4,12 @@
   <unicode hex="0061"/>
   <outline>
     <contour>
-      <point x="32" y="141.092" type="curve" smooth="yes"/>
-      <point x="32" y="54"/>
-      <point x="95" y="-14"/>
-      <point x="206.949" y="-14" type="curve" smooth="yes"/>
-      <point x="297" y="-14"/>
-      <point x="360" y="30"/>
+      <point x="32" y="140.046" type="curve" smooth="yes"/>
+      <point x="32" y="48"/>
+      <point x="101" y="-14"/>
+      <point x="207.395" y="-14" type="curve" smooth="yes"/>
+      <point x="296" y="-14"/>
+      <point x="360" y="29"/>
       <point x="393" y="112" type="curve"/>
       <point x="366" y="112" type="line"/>
       <point x="366" y="0" type="line"/>
@@ -23,29 +23,28 @@
       <point x="47" y="387" type="curve"/>
       <point x="149" y="337" type="line"/>
       <point x="171" y="384"/>
-      <point x="211" y="410"/>
-      <point x="263.141" y="410" type="curve" smooth="yes"/>
-      <point x="327" y="410"/>
+      <point x="211" y="408"/>
+      <point x="262.748" y="408" type="curve" smooth="yes"/>
+      <point x="327" y="408"/>
       <point x="366" y="371"/>
       <point x="366" y="315" type="curve" smooth="yes"/>
       <point x="366" y="220" type="line" smooth="yes"/>
-      <point x="366" y="142"/>
-      <point x="312" y="90"/>
-      <point x="238.729" y="90" type="curve" smooth="yes"/>
-      <point x="190" y="90"/>
-      <point x="158" y="113"/>
-      <point x="158" y="149.073" type="curve" smooth="yes"/>
-      <point x="158" y="184"/>
-      <point x="188" y="213"/>
-      <point x="281" y="217" type="curve" smooth="yes" name=".hr01"/>
+      <point x="366" y="143"/>
+      <point x="315" y="92"/>
+      <point x="239.023" y="92" type="curve" smooth="yes"/>
+      <point x="188" y="92"/>
+      <point x="158" y="115"/>
+      <point x="158" y="151.698" type="curve" smooth="yes"/>
+      <point x="158" y="193"/>
+      <point x="196" y="214"/>
+      <point x="266" y="217" type="curve" smooth="yes" name=".hr01"/>
       <point x="426" y="223" type="line"/>
       <point x="426" y="313" type="line"/>
       <point x="259" y="307" type="line" smooth="yes"/>
-      <point x="110" y="302"/>
-      <point x="32" y="238"/>
+      <point x="115" y="302"/>
+      <point x="32" y="241"/>
     </contour>
   </outline>
-  <guideline angle="90" x="-820" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -53,7 +52,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>14338bdb1759efe368cf0c31dfdeab472ae1879fc4cfc83e461ecfe2d42a73d1a8327604d9d1f87851326f4cc8d6a2f3f0218d6340936ac0814fd40719ea1f7b</string>
+    <string>c41c665269c99ac39d608f0291592d940cf87e6d3aaf8dcd07da2d0a4bdcea72f34df0540c39fe9f8eb1712ea984efc44fcceb6a0969581dfd8ab74cd93382d5</string>
     <key>hintSetList</key>
     <array>
       <dict>

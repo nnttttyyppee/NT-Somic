@@ -3,10 +3,10 @@
   <advance width="238"/>
   <unicode hex="0021"/>
   <outline>
-    <component base="period" xOffset="-1"/>
+    <component base="period" xOffset="7"/>
     <contour>
-      <point x="81" y="170" type="line"/>
-      <point x="157" y="170" type="line"/>
+      <point x="81" y="176" type="line"/>
+      <point x="157" y="176" type="line"/>
       <point x="160" y="700" type="line"/>
       <point x="78" y="700" type="line"/>
     </contour>
@@ -18,7 +18,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w238m81,170l157,170l160,700l78,700</string>
+    <string>w238m81,176l157,176l160,700l78,700</string>
     <key>hintSetList</key>
     <array>
       <dict>

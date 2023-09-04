@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Shchacyr" format="2">
-  <advance width="1006"/>
+  <advance width="1026"/>
   <unicode hex="0429"/>
   <outline>
     <contour>
       <point x="78" y="0" type="line"/>
-      <point x="828" y="0" type="line"/>
-      <point x="828" y="-142" type="line"/>
-      <point x="972" y="-142" type="line"/>
-      <point x="972" y="132" type="line"/>
-      <point x="878" y="132" type="line" name=".hr01"/>
-      <point x="878" y="700" type="line"/>
-      <point x="734" y="700" type="line"/>
-      <point x="734" y="132" type="line"/>
-      <point x="550" y="132" type="line"/>
-      <point x="550" y="700" type="line"/>
-      <point x="406" y="700" type="line"/>
-      <point x="406" y="132" type="line"/>
+      <point x="848" y="0" type="line"/>
+      <point x="848" y="-146" type="line"/>
+      <point x="992" y="-146" type="line"/>
+      <point x="992" y="132" type="line"/>
+      <point x="898" y="132" type="line" name=".hr01"/>
+      <point x="898" y="700" type="line"/>
+      <point x="754" y="700" type="line"/>
+      <point x="754" y="132" type="line"/>
+      <point x="560" y="132" type="line"/>
+      <point x="560" y="700" type="line"/>
+      <point x="416" y="700" type="line"/>
+      <point x="416" y="132" type="line"/>
       <point x="222" y="132" type="line"/>
       <point x="222" y="700" type="line"/>
       <point x="78" y="700" type="line"/>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>71c29fc064b8fa2e536f205c0d4e1d563933653e9adf3f824fe4cf1db0d43d95b2c7bdce36b9c631b1bee2acd5e2e7c796851cf46620d6cb8f9da982c95e1486</string>
+    <string>cf1b5fc28bc8ba4259102345f9c5cc29d10894731465e072b0d6a1cb2493959bd1e9a1d9a87ca7206e3db59c752d2d539c992fbf7d5714e1e812cfb04931a604</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -37,21 +37,21 @@
         <array>
           <string>hstem 0 132</string>
           <string>vstem 78 144</string>
-          <string>vstem 828 144</string>
-          <string>hstem -121 -21</string>
+          <string>vstem 848 144</string>
+          <string>hstem -125 -21</string>
           <string>hstem 700 -20</string>
-          <string>vstem 406 144</string>
+          <string>vstem 416 144</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 132</string>
-          <string>vstem 734 144</string>
+          <string>vstem 754 144</string>
           <string>hstem 700 -20</string>
-          <string>vstem 406 144</string>
+          <string>vstem 416 144</string>
           <string>vstem 78 144</string>
-          <string>hstem -121 -21</string>
+          <string>hstem -125 -21</string>
         </array>
         <key>pointTag</key>
         <string>.hr01</string>

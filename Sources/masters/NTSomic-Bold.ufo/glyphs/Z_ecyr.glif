@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zecyr" format="2">
-  <advance width="639"/>
+  <advance width="637"/>
   <unicode hex="0417"/>
   <outline>
     <contour>
@@ -13,22 +13,22 @@
       <point x="465" y="366" type="curve"/>
       <point x="469" y="358" type="line"/>
       <point x="544" y="387"/>
-      <point x="585" y="440"/>
-      <point x="585" y="515.156" type="curve" smooth="yes"/>
-      <point x="585" y="636"/>
-      <point x="479" y="716"/>
-      <point x="317.749" y="716" type="curve" smooth="yes"/>
-      <point x="189" y="716"/>
-      <point x="99" y="665"/>
-      <point x="40" y="560" type="curve"/>
-      <point x="157" y="492" type="line"/>
-      <point x="191" y="558"/>
-      <point x="240" y="589"/>
-      <point x="314.812" y="589" type="curve" smooth="yes"/>
-      <point x="392" y="589"/>
-      <point x="441" y="556"/>
-      <point x="441" y="502.295" type="curve" smooth="yes"/>
-      <point x="441" y="455"/>
+      <point x="583" y="440"/>
+      <point x="583" y="514.001" type="curve" smooth="yes"/>
+      <point x="583" y="636"/>
+      <point x="477" y="716"/>
+      <point x="315.749" y="716" type="curve" smooth="yes"/>
+      <point x="187" y="716"/>
+      <point x="97" y="665"/>
+      <point x="38" y="560" type="curve"/>
+      <point x="155" y="492" type="line"/>
+      <point x="189" y="558"/>
+      <point x="238" y="589"/>
+      <point x="312.812" y="589" type="curve" smooth="yes"/>
+      <point x="390" y="589"/>
+      <point x="439" y="556"/>
+      <point x="439" y="501.615" type="curve" smooth="yes"/>
+      <point x="439" y="455"/>
       <point x="403" y="424"/>
       <point x="340" y="424" type="curve" smooth="yes"/>
       <point x="205" y="424" type="line"/>
@@ -55,7 +55,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>eb6907007994570522ebaa0754b9d40e4e2f6b02f6a8a6569daa4d17f4e72abf5ea185660a2c2dc310be61eebd2dcd7c165ed2037936acbee12e531ca3e767ed</string>
+    <string>f369ba38f3598cf0f7acfac5fa8a90853a5838d679ef932fd50545e6c3ecc00bb60d4312c585128f10b520bceecfdf4bdc5402c24138d7f8c702f5c63e12c1e8</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Decyr" format="2">
-  <advance width="788"/>
+  <advance width="792"/>
   <unicode hex="0414"/>
   <outline>
     <contour>
       <point x="178" y="0" type="line"/>
-      <point x="610" y="0" type="line"/>
-      <point x="610" y="-142" type="line"/>
-      <point x="754" y="-142" type="line"/>
-      <point x="754" y="132" type="line"/>
-      <point x="660" y="132" type="line" name=".hr01"/>
-      <point x="660" y="701" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="614" y="-146" type="line"/>
+      <point x="758" y="-146" type="line"/>
+      <point x="758" y="132" type="line"/>
+      <point x="664" y="132" type="line" name=".hr01"/>
+      <point x="664" y="701" type="line"/>
       <point x="151" y="701" type="line"/>
       <point x="151" y="500" type="line" smooth="yes"/>
       <point x="151" y="343"/>
       <point x="136" y="195"/>
       <point x="98" y="132" type="curve"/>
       <point x="34" y="132" type="line" name=".hr02"/>
-      <point x="34" y="-142" type="line"/>
-      <point x="178" y="-142" type="line"/>
+      <point x="34" y="-146" type="line"/>
+      <point x="178" y="-146" type="line"/>
     </contour>
     <contour>
       <point x="250" y="132" type="line"/>
@@ -26,8 +26,8 @@
       <point x="294" y="333" name=".hr03"/>
       <point x="294" y="479" type="curve" smooth="yes"/>
       <point x="294" y="569" type="line"/>
-      <point x="514" y="569" type="line"/>
-      <point x="514" y="132" type="line"/>
+      <point x="518" y="569" type="line"/>
+      <point x="518" y="132" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>1d35d597da672bb801c50b687bd4632ce4dbb38987f4bc2384c23157d0815306fb9535891dcab9f8f5f1aadfacc429c6edd86bc39b1b09a79832e16ab502d76b</string>
+    <string>8d8ce4ef19313084ad20ec4701d133023ab6a4b363e71b834aafb66ca6b3be1ab2b6bf1532b6ca0772b71aece351287ca35bfa8b48483becbb881ad852cdfcf3</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -45,8 +45,8 @@
         <array>
           <string>hstem 0 132</string>
           <string>vstem 34 144</string>
-          <string>vstem 610 144</string>
-          <string>hstem -121 -21</string>
+          <string>vstem 614 144</string>
+          <string>hstem -125 -21</string>
           <string>hstem 569 132</string>
         </array>
       </dict>
@@ -54,10 +54,10 @@
         <key>stems</key>
         <array>
           <string>hstem 0 132</string>
-          <string>vstem 514 146</string>
+          <string>vstem 518 146</string>
           <string>hstem 569 132</string>
           <string>vstem 151 143</string>
-          <string>hstem -121 -21</string>
+          <string>hstem -125 -21</string>
         </array>
         <key>pointTag</key>
         <string>.hr01</string>
@@ -67,9 +67,9 @@
         <array>
           <string>hstem 0 132</string>
           <string>vstem 34 144</string>
-          <string>hstem -121 -21</string>
+          <string>hstem -125 -21</string>
           <string>hstem 569 132</string>
-          <string>vstem 514 146</string>
+          <string>vstem 518 146</string>
         </array>
         <key>pointTag</key>
         <string>.hr02</string>
@@ -79,9 +79,9 @@
         <array>
           <string>vstem 151 143</string>
           <string>hstem 569 132</string>
-          <string>vstem 514 146</string>
+          <string>vstem 518 146</string>
           <string>hstem 0 132</string>
-          <string>hstem -121 -21</string>
+          <string>hstem -125 -21</string>
         </array>
         <key>pointTag</key>
         <string>.hr03</string>

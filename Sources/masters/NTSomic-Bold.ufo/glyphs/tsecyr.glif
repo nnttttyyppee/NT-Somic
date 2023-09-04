@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tsecyr" format="2">
-  <advance width="616"/>
+  <advance width="612"/>
   <unicode hex="0446"/>
   <outline>
     <contour>
@@ -8,14 +8,14 @@
       <point x="60" y="500" type="line"/>
       <point x="190" y="500" type="line"/>
       <point x="190" y="118" type="line"/>
-      <point x="386" y="118" type="line"/>
-      <point x="386" y="500" type="line"/>
-      <point x="516" y="500" type="line"/>
-      <point x="516" y="118" type="line"/>
-      <point x="590" y="118" type="line" name=".hr01"/>
-      <point x="590" y="-120" type="line"/>
-      <point x="462" y="-120" type="line"/>
-      <point x="462" y="0" type="line" name=".hr02"/>
+      <point x="382" y="118" type="line"/>
+      <point x="382" y="500" type="line"/>
+      <point x="512" y="500" type="line"/>
+      <point x="512" y="118" type="line"/>
+      <point x="586" y="118" type="line" name=".hr01"/>
+      <point x="586" y="-124" type="line"/>
+      <point x="458" y="-124" type="line"/>
+      <point x="458" y="0" type="line" name=".hr02"/>
     </contour>
   </outline>
   <lib>
@@ -25,23 +25,23 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w616m60,0l60,500l190,500l190,118l386,118l386,500l516,500l516,118l590,118l590,-120l462,-120l462,0</string>
+    <string>w612m60,0l60,500l190,500l190,118l382,118l382,500l512,500l512,118l586,118l586,-124l458,-124l458,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -120 238</string>
+          <string>hstem -124 242</string>
           <string>vstem 60 130</string>
           <string>hstem 500 -20</string>
-          <string>vstem 386 130</string>
+          <string>vstem 382 130</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -120 238</string>
-          <string>vstem 462 128</string>
+          <string>hstem -124 242</string>
+          <string>vstem 458 128</string>
           <string>hstem 500 -20</string>
           <string>vstem 60 130</string>
         </array>
@@ -52,7 +52,7 @@
         <key>stems</key>
         <array>
           <string>hstem 0 118</string>
-          <string>vstem 462 128</string>
+          <string>vstem 458 128</string>
           <string>vstem 60 130</string>
           <string>hstem 500 -20</string>
         </array>

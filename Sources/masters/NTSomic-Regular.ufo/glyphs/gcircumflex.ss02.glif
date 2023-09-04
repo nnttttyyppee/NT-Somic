@@ -2,7 +2,7 @@
 <glyph name="gcircumflex.ss02" format="2">
   <advance width="617"/>
   <outline>
-    <component base="g.ss02"/>
+    <component base="g.ss02" xOffset="1"/>
     <component base="circumflex" xOffset="114"/>
   </outline>
   <lib>

@@ -2,8 +2,8 @@
 <glyph name="adieresis.ss01" format="2">
   <advance width="626"/>
   <outline>
-    <component base="a.ss01"/>
-    <component base="dieresis" xOffset="86"/>
+    <component base="a.ss01" xOffset="4"/>
+    <component base="dieresis" xOffset="88"/>
   </outline>
   <lib>
   <dict>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="2">
-  <advance width="260"/>
+  <advance width="264"/>
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="50" y="71" type="curve" smooth="yes"/>
-      <point x="50" y="116"/>
-      <point x="86" y="150"/>
-      <point x="130" y="150" type="curve" smooth="yes"/>
-      <point x="174" y="150"/>
-      <point x="210" y="116"/>
-      <point x="210" y="71" type="curve" smooth="yes"/>
-      <point x="210" y="26"/>
-      <point x="174" y="-8"/>
-      <point x="130" y="-8" type="curve" smooth="yes"/>
+      <point x="50" y="74" type="curve" smooth="yes"/>
+      <point x="50" y="122"/>
+      <point x="86" y="156"/>
+      <point x="132" y="156" type="curve" smooth="yes"/>
+      <point x="178" y="156"/>
+      <point x="214" y="122"/>
+      <point x="214" y="74" type="curve" smooth="yes"/>
+      <point x="214" y="26"/>
+      <point x="178" y="-8"/>
+      <point x="132" y="-8" type="curve" smooth="yes"/>
       <point x="86" y="-8"/>
       <point x="50" y="26"/>
     </contour>
@@ -25,14 +25,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w260m50,71c50,116 86,150 130,150c174,150 210,116 210,71c210,26 174,-8 130,-8c86,-8 50,26 50,71</string>
+    <string>w264m45,74c45,122 81,156 127,156c173,156 209,122 209,74c209,26 173,-8 127,-8c81,-8 45,26 45,74</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -8 158</string>
-          <string>vstem 50 160</string>
+          <string>hstem -8 164</string>
+          <string>vstem 50 164</string>
         </array>
       </dict>
     </array>
