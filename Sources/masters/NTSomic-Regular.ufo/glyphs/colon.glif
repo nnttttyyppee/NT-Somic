@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon" format="2">
-  <advance width="226"/>
+  <advance width="218"/>
   <unicode hex="003A"/>
   <outline>
     <component base="period" yOffset="400"/>
@@ -13,7 +13,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w226</string>
+    <string>w218</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -21,7 +21,7 @@
         <array>
           <string>hstem -7 122.5</string>
           <string>hstem 393 122.5</string>
-          <string>vstem 56 122.5</string>
+          <string>vstem 52 122.5</string>
         </array>
       </dict>
     </array>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="comma" format="2">
-  <advance width="272"/>
+  <advance width="228"/>
   <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="50" y="74" type="curve" smooth="yes"/>
-      <point x="50" y="120"/>
-      <point x="86" y="154"/>
-      <point x="132" y="154" type="curve" smooth="yes"/>
-      <point x="184" y="154"/>
-      <point x="222" y="111"/>
-      <point x="222" y="44" type="curve" smooth="yes"/>
-      <point x="222" y="-26"/>
-      <point x="181" y="-104"/>
-      <point x="109" y="-167" type="curve"/>
-      <point x="54" y="-114" type="line"/>
-      <point x="101" y="-71"/>
-      <point x="128" y="-34"/>
-      <point x="140" y="7" type="curve"/>
-      <point x="159" y="0" type="line"/>
-      <point x="154" y="-2"/>
-      <point x="144" y="-6"/>
-      <point x="129" y="-6" type="curve" smooth="yes"/>
-      <point x="83" y="-6"/>
-      <point x="50" y="30"/>
+      <point x="28" y="74.0213" type="curve" smooth="yes"/>
+      <point x="28" y="120"/>
+      <point x="64" y="154"/>
+      <point x="110.127" y="154" type="curve" smooth="yes"/>
+      <point x="162" y="154"/>
+      <point x="200" y="111"/>
+      <point x="200" y="43.8011" type="curve" smooth="yes"/>
+      <point x="200" y="-26"/>
+      <point x="159" y="-104"/>
+      <point x="87" y="-167" type="curve"/>
+      <point x="32" y="-114" type="line"/>
+      <point x="79" y="-71"/>
+      <point x="106" y="-34"/>
+      <point x="118" y="7" type="curve"/>
+      <point x="137" y="0" type="line"/>
+      <point x="132" y="-2"/>
+      <point x="122" y="-6"/>
+      <point x="106.75" y="-6" type="curve" smooth="yes"/>
+      <point x="61" y="-6"/>
+      <point x="28" y="30"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>36773ca0922ac62f6a07ee470c143b63fbf1fc50000b77d894a37bca3845c873125c71e592371df2fc980fa0c819521bd1989c1650462176d2abfd65eb17ccff</string>
+    <string>5d27a0c8bab316f2563374435feed60ce96e700b00c72c5953e48ca0986a1e3b4068aa74b1b0a84c253b39d6ae65e398a6fcb144ee370eba3ec9346ee6c1743c</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -41,7 +41,7 @@
         <array>
           <string>hstem -146 -21</string>
           <string>hstem -6 160</string>
-          <string>vstem 50 172</string>
+          <string>vstem 28 172</string>
         </array>
       </dict>
     </array>

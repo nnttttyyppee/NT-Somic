@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tenge" format="2">
-  <advance width="595"/>
+  <advance width="555"/>
   <unicode hex="20B8"/>
   <outline>
     <contour>
       <point x="38" y="565" type="line"/>
       <point x="38" y="484" type="line"/>
-      <point x="254" y="484" type="line"/>
-      <point x="254" y="0" type="line"/>
-      <point x="341" y="0" type="line"/>
-      <point x="341" y="484" type="line"/>
-      <point x="557" y="484" type="line"/>
-      <point x="557" y="565" type="line"/>
+      <point x="234" y="484" type="line"/>
+      <point x="234" y="0" type="line"/>
+      <point x="321" y="0" type="line"/>
+      <point x="321" y="484" type="line"/>
+      <point x="517" y="484" type="line"/>
+      <point x="517" y="565" type="line"/>
     </contour>
     <contour>
-      <point x="557" y="625" type="line"/>
-      <point x="557" y="700" type="line"/>
+      <point x="517" y="625" type="line"/>
+      <point x="517" y="700" type="line"/>
       <point x="38" y="700" type="line"/>
       <point x="38" y="625" type="line"/>
     </contour>
@@ -27,7 +27,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w595m38,565l38,484l254,484l254,0l341,0l341,484l557,484l557,565m557,625l557,700l38,700l38,625</string>
+    <string>w555m47,565l47,484l243,484l243,0l330,0l330,484l526,484l526,565m526,625l526,700l47,700l47,625</string>
     <key>hintSetList</key>
     <array>
       <dict>

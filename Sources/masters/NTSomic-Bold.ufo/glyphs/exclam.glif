@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="2">
-  <advance width="256"/>
+  <advance width="260"/>
   <unicode hex="0021"/>
   <outline>
-    <component base="period" xOffset="-6"/>
+    <component base="period" xOffset="20"/>
     <contour>
-      <point x="68" y="212" type="line"/>
-      <point x="188" y="212" type="line"/>
-      <point x="197" y="700" type="line"/>
-      <point x="59" y="700" type="line"/>
+      <point x="72" y="204" type="line"/>
+      <point x="192" y="204" type="line"/>
+      <point x="201" y="700" type="line"/>
+      <point x="63" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,7 +18,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w256m68,212l188,212l197,700l59,700</string>
+    <string>w260m72,204l192,204l201,700l63,700</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -26,8 +26,8 @@
         <array>
           <string>hstem 0 162</string>
           <string>hstem 0 -20</string>
-          <string>vstem 0 162</string>
-          <string>vstem 0 126</string>
+          <string>vstem 4 162</string>
+          <string>vstem 4 126</string>
         </array>
       </dict>
     </array>

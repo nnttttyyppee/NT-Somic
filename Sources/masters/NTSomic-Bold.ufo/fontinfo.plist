@@ -42,7 +42,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2023/09/04 20:47:45</string>
+  <string>2023/09/05 17:47:54</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -57,7 +57,7 @@
   <key>openTypeNameDescription</key>
   <string>It is a fresh, simple workhorse typeface. Its clean and minimalist design is made to be used everywhere: in headlines, small size texts, credits and any other place you would like to add a little bit of simplicity.
 
-NT Somic comes in 3 weights from Regular to Bold, and is also variable. Currently it consists of basic Latin and Cyrillic sets of glyphs and supports a couple of OpenType features such as alternate single storey -a- and ligatures for Ukrainian language.
+NT Somic comes in 4 weights from Regular to Bold, and is also variable. Currently it consists of basic Latin and Cyrillic sets of glyphs and supports a couple of OpenType features such as alternate single storey -a- and ligatures for Ukrainian language.
 
 Give yourself a fresh look at design with NT Somic, free of charge. This versatile typeface is a blank slate, perfect for almost* any scenario.
 
@@ -69,7 +69,9 @@ One last thing: please don&#39;t distribute the font itself to any websites or o
 
 We look forward to hearing from you!</string>
   <key>openTypeNameDesigner</key>
-  <string>Ravid Balaliev</string>
+  <string>Ravid Balaliev — lead type designer, mastering
+Michael Voronin — secret advisor, marketing
+Ivan Kovalenko — best boy</string>
   <key>openTypeNameDesignerURL</key>
   <string>https://t.me/nnttttyyppee</string>
   <key>openTypeNameLicense</key>
@@ -85,57 +87,6 @@ https://scripts.sil.org/OFL
   <string>NT Somic</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
-  <key>openTypeNameRecords</key>
-  <array>
-  <dict>
-    <key>nameID</key>
-    <integer>256</integer>
-    <key>platformID</key>
-    <integer>1</integer>
-    <key>encodingID</key>
-    <integer>0</integer>
-    <key>languageID</key>
-    <integer>0</integer>
-    <key>string</key>
-    <string>Alt a</string>
-  </dict>
-  <dict>
-    <key>nameID</key>
-    <integer>256</integer>
-    <key>platformID</key>
-    <integer>3</integer>
-    <key>encodingID</key>
-    <integer>1</integer>
-    <key>languageID</key>
-    <integer>1033</integer>
-    <key>string</key>
-    <string>Alt a</string>
-  </dict>
-  <dict>
-    <key>nameID</key>
-    <integer>257</integer>
-    <key>platformID</key>
-    <integer>1</integer>
-    <key>encodingID</key>
-    <integer>0</integer>
-    <key>languageID</key>
-    <integer>0</integer>
-    <key>string</key>
-    <string>Alt g</string>
-  </dict>
-  <dict>
-    <key>nameID</key>
-    <integer>257</integer>
-    <key>platformID</key>
-    <integer>3</integer>
-    <key>encodingID</key>
-    <integer>1</integer>
-    <key>languageID</key>
-    <integer>1033</integer>
-    <key>string</key>
-    <string>Alt g</string>
-  </dict>
-  </array>
   <key>openTypeNameVersion</key>
   <string>Version 0.7</string>
   <key>openTypeOS2Panose</key>
