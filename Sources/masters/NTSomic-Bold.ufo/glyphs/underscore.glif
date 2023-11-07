@@ -4,8 +4,8 @@
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="43" y="-139" type="line"/>
-      <point x="524" y="-139" type="line"/>
+      <point x="43" y="-131" type="line"/>
+      <point x="524" y="-131" type="line"/>
       <point x="524" y="-19" type="line"/>
       <point x="43" y="-19" type="line"/>
     </contour>
@@ -17,13 +17,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w567m43,-139l524,-139l524,-19l43,-19</string>
+    <string>w567m43,-131l524,-131l524,-19l43,-19</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -139 120</string>
+          <string>hstem -131 112</string>
         </array>
       </dict>
     </array>

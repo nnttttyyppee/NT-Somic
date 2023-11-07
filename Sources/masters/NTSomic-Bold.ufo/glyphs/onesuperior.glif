@@ -2,16 +2,26 @@
 <glyph name="onesuperior" format="2">
   <advance width="244"/>
   <unicode hex="00B9"/>
-  <outline>
-    <contour>
-      <point x="104" y="324" type="line"/>
-      <point x="188" y="324" type="line"/>
-      <point x="188" y="700" type="line"/>
-      <point x="108" y="700" type="line"/>
-      <point x="2" y="629" type="line"/>
-      <point x="41" y="556" type="line"/>
-      <point x="129" y="616" type="line"/>
-      <point x="104" y="628" type="line"/>
-    </contour>
-  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w244</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 419.76 -21</string>
+          <string>hstem 788.8 -20</string>
+          <string>vstem 109.76 75.04</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

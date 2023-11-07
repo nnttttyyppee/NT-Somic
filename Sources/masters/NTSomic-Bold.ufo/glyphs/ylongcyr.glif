@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ylongcyr" format="2">
-  <advance width="732"/>
+  <advance width="731"/>
   <unicode hex="044B"/>
   <outline>
     <contour>
-      <point x="542" y="500" type="line"/>
-      <point x="672" y="500" type="line"/>
-      <point x="672" y="0" type="line"/>
-      <point x="542" y="0" type="line"/>
+      <point x="541" y="500" type="line"/>
+      <point x="671" y="500" type="line"/>
+      <point x="671" y="0" type="line"/>
+      <point x="541" y="0" type="line"/>
     </contour>
     <contour>
       <point x="180" y="108" type="line"/>
-      <point x="281" y="108" type="line" smooth="yes"/>
-      <point x="328" y="108"/>
-      <point x="356" y="136"/>
-      <point x="356" y="176" type="curve" smooth="yes"/>
-      <point x="356" y="216"/>
-      <point x="328" y="244"/>
-      <point x="281" y="244" type="curve" smooth="yes"/>
+      <point x="280" y="108" type="line" smooth="yes"/>
+      <point x="327" y="108"/>
+      <point x="355" y="136"/>
+      <point x="355" y="176" type="curve" smooth="yes"/>
+      <point x="355" y="216"/>
+      <point x="327" y="244"/>
+      <point x="280" y="244" type="curve" smooth="yes"/>
       <point x="180" y="244" type="line"/>
     </contour>
     <contour>
-      <point x="297" y="0" type="curve" smooth="yes"/>
+      <point x="296" y="0" type="curve" smooth="yes"/>
       <point x="60" y="0" type="line"/>
       <point x="60" y="500" type="line"/>
       <point x="180" y="500" type="line"/>
       <point x="180" y="352" type="line"/>
-      <point x="297" y="352" type="line" smooth="yes"/>
-      <point x="406" y="352"/>
-      <point x="478" y="277"/>
-      <point x="478" y="176" type="curve" smooth="yes"/>
-      <point x="478" y="75"/>
-      <point x="406" y="0"/>
+      <point x="296" y="352" type="line" smooth="yes"/>
+      <point x="405" y="352"/>
+      <point x="477" y="277"/>
+      <point x="477" y="176" type="curve" smooth="yes"/>
+      <point x="477" y="75"/>
+      <point x="405" y="0"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>26110a347e3092fabadc38a4698a467f8f79e13e4df60e9f1b9e85cdf561d1c94613d2b1d4ec8eecf3d37e6ba548fa191f7d863d33e88e14dda54141e0b01d76</string>
+    <string>dec28d2884ebf230774ed2ea790661777ae390cc1484d44b2ce7f84f5aca5edeaa36acab70b313257973b7b7314c104e23ccdd6e2779aa464c6bc021e5f438af</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -51,8 +51,8 @@
           <string>hstem 244 108</string>
           <string>hstem 500 -20</string>
           <string>vstem 60 120</string>
-          <string>vstem 356 122</string>
-          <string>vstem 542 130</string>
+          <string>vstem 355 122</string>
+          <string>vstem 541 130</string>
         </array>
       </dict>
     </array>
