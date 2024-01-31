@@ -3,7 +3,7 @@
   <advance width="601"/>
   <unicode hex="04DE"/>
   <outline>
-    <component base="Zecyr" xOffset="-4"/>
+    <component base="Zecyr" xOffset="-93"/>
     <component base="dieresis.case" xOffset="108"/>
   </outline>
   <lib>

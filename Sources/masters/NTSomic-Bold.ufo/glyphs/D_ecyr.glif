@@ -4,6 +4,8 @@
   <unicode hex="0414"/>
   <outline>
     <contour>
+      <point x="34" y="-146" type="line"/>
+      <point x="178" y="-146" type="line"/>
       <point x="178" y="0" type="line"/>
       <point x="614" y="0" type="line"/>
       <point x="614" y="-146" type="line"/>
@@ -13,17 +15,15 @@
       <point x="664" y="701" type="line"/>
       <point x="151" y="701" type="line"/>
       <point x="151" y="500" type="line" smooth="yes"/>
-      <point x="151" y="343"/>
-      <point x="136" y="195"/>
-      <point x="98" y="132" type="curve"/>
+      <point x="151" y="341.408"/>
+      <point x="136.797" y="194.189"/>
+      <point x="96.4238" y="132" type="curve"/>
       <point x="34" y="132" type="line" name=".hr02"/>
-      <point x="34" y="-146" type="line"/>
-      <point x="178" y="-146" type="line"/>
     </contour>
     <contour>
-      <point x="250" y="132" type="line"/>
-      <point x="277" y="195"/>
-      <point x="294" y="333" name=".hr03"/>
+      <point x="248.926" y="132" type="line"/>
+      <point x="278.065" y="194.438"/>
+      <point x="294" y="322.181" name=".hr03"/>
       <point x="294" y="479" type="curve" smooth="yes"/>
       <point x="294" y="569" type="line"/>
       <point x="518" y="569" type="line"/>
@@ -37,16 +37,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8d8ce4ef19313084ad20ec4701d133023ab6a4b363e71b834aafb66ca6b3be1ab2b6bf1532b6ca0772b71aece351287ca35bfa8b48483becbb881ad852cdfcf3</string>
+    <string>b8ab551ea6b490b58eff667fe5af40bef2989eacdc35b082ba558817ac5b36aae4e928c1116b924ff2a60dafad613a93318609e9e95f260fec28b5201c8a4c35</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 132</string>
-          <string>vstem 34 144</string>
-          <string>vstem 614 144</string>
           <string>hstem -125 -21</string>
+          <string>vstem 34 144</string>
+          <string>hstem 0 132</string>
+          <string>vstem 614 144</string>
           <string>hstem 569 132</string>
         </array>
       </dict>

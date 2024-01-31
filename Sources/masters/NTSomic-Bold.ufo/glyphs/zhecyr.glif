@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zhecyr" format="2">
-  <advance width="766"/>
+  <advance width="798"/>
   <unicode hex="0436"/>
   <outline>
     <contour>
-      <point x="319" y="0" type="line"/>
-      <point x="447" y="0" type="line"/>
-      <point x="447" y="205" type="line"/>
-      <point x="541" y="205" type="line"/>
-      <point x="541" y="313" type="line"/>
-      <point x="447" y="313" type="line"/>
-      <point x="447" y="500" type="line"/>
-      <point x="319" y="500" type="line"/>
-      <point x="319" y="313" type="line"/>
+      <point x="335" y="0" type="line"/>
+      <point x="463" y="0" type="line"/>
+      <point x="463" y="205" type="line"/>
+      <point x="573" y="205" type="line"/>
+      <point x="573" y="313" type="line"/>
+      <point x="463" y="313" type="line"/>
+      <point x="463" y="500" type="line"/>
+      <point x="335" y="500" type="line"/>
+      <point x="335" y="313" type="line"/>
       <point x="225" y="313" type="line"/>
       <point x="225" y="205" type="line"/>
-      <point x="319" y="205" type="line"/>
+      <point x="335" y="205" type="line"/>
     </contour>
     <contour>
-      <point x="466" y="258" type="line"/>
-      <point x="612" y="0" type="line"/>
-      <point x="750" y="0" type="line"/>
-      <point x="597" y="261" type="line"/>
-      <point x="745" y="500" type="line"/>
-      <point x="613" y="500" type="line"/>
+      <point x="498" y="258" type="line"/>
+      <point x="644" y="0" type="line"/>
+      <point x="782" y="0" type="line"/>
+      <point x="629" y="261" type="line"/>
+      <point x="777" y="500" type="line"/>
+      <point x="645" y="500" type="line"/>
     </contour>
     <contour>
       <point x="300" y="258" type="line"/>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5f2d430acdfef1ec6066c9d4b739fd8b686d31e93f9a3c1ebe17cd4d34ffac464324fdeb442a25162a689d570411a8cb5ff685bcb55056d76aca3afd5589bae5</string>
+    <string>a8c2966f47c5a04abd8eb9a1c7ea8a7ab9fc38be440fd82e2e1a524fb601082705403a50afb5707bf4e56dcaafc60f3ba9b24fe3445bb1f93c2c84fbe834f822</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -50,7 +50,7 @@
           <string>hstem 21 -21</string>
           <string>hstem 205 108</string>
           <string>hstem 500 -20</string>
-          <string>vstem 319 128</string>
+          <string>vstem 335 128</string>
         </array>
       </dict>
     </array>

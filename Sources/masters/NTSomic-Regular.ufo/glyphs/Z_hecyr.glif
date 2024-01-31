@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zhecyr" format="2">
-  <advance width="907"/>
+  <advance width="955"/>
   <unicode hex="0416"/>
   <outline>
     <contour>
-      <point x="410" y="0" type="line"/>
-      <point x="497" y="0" type="line"/>
-      <point x="497" y="326" type="line"/>
-      <point x="631" y="326" type="line"/>
-      <point x="631" y="407" type="line"/>
-      <point x="497" y="407" type="line"/>
-      <point x="497" y="700" type="line"/>
-      <point x="410" y="700" type="line"/>
-      <point x="410" y="407" type="line"/>
+      <point x="434" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="521" y="326" type="line"/>
+      <point x="679" y="326" type="line"/>
+      <point x="679" y="407" type="line"/>
+      <point x="521" y="407" type="line"/>
+      <point x="521" y="700" type="line"/>
+      <point x="434" y="700" type="line"/>
+      <point x="434" y="407" type="line"/>
       <point x="276" y="407" type="line"/>
       <point x="276" y="326" type="line"/>
-      <point x="410" y="326" type="line"/>
+      <point x="434" y="326" type="line"/>
     </contour>
     <contour>
       <point x="26" y="0" type="line"/>
@@ -26,12 +26,12 @@
       <point x="249" y="368" type="line"/>
     </contour>
     <contour>
-      <point x="779" y="0" type="line"/>
-      <point x="881" y="0" type="line"/>
-      <point x="658" y="368" type="line"/>
-      <point x="870" y="700" type="line"/>
-      <point x="768" y="700" type="line"/>
-      <point x="561" y="366" type="line"/>
+      <point x="827" y="0" type="line"/>
+      <point x="929" y="0" type="line"/>
+      <point x="706" y="368" type="line"/>
+      <point x="918" y="700" type="line"/>
+      <point x="816" y="700" type="line"/>
+      <point x="609" y="366" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>07e9a29ae81451ad0f4eb58c4a755a9af1866da0ad8c3fdd09131a39d3d4159e38d85d1f10c9b06e7aa17ea761112ee8ec69bd726e5da88daec2ec0e46f59878</string>
+    <string>bd7723f69a7a61d93e916399d374a2aa184c54c8e69c0439ef2287fbb34add91acc494984adfdbfe63149d8973c5bd85f5683fa4eac9ab89b2555dd2077f2fb2</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -50,7 +50,7 @@
           <string>hstem 21 -21</string>
           <string>hstem 325 82.5</string>
           <string>hstem 700 -20</string>
-          <string>vstem 410 86</string>
+          <string>vstem -155 86</string>
         </array>
       </dict>
     </array>
