@@ -6,9 +6,9 @@
     <component base="l" xOffset="42"/>
     <contour>
       <point x="16" y="237" type="line"/>
-      <point x="298" y="418" type="line"/>
+      <point x="335" y="442" type="line"/>
       <point x="298" y="500" type="line"/>
-      <point x="16" y="319" type="line"/>
+      <point x="-21" y="296" type="line"/>
     </contour>
   </outline>
   <lib>

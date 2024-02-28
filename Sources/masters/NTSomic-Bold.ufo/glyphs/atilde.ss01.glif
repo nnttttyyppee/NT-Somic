@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="atilde.ss01" format="2">
-  <advance width="626"/>
+  <advance width="622"/>
   <outline>
-    <component base="a.ss01" xOffset="4"/>
-    <component base="tilde" xOffset="107"/>
+    <component base="a.ss01"/>
+    <component base="tilde" xOffset="90"/>
   </outline>
   <lib>
   <dict>

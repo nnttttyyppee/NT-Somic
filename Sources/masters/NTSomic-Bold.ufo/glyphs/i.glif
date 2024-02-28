@@ -3,27 +3,12 @@
   <advance width="250"/>
   <unicode hex="0069"/>
   <outline>
+    <component base="dotaccent"/>
     <contour>
       <point x="60" y="500" type="line"/>
       <point x="190" y="500" type="line"/>
       <point x="190" y="0" type="line"/>
       <point x="60" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="126" y="573" type="line" smooth="yes"/>
-      <point x="170" y="573"/>
-      <point x="205" y="607"/>
-      <point x="205" y="653" type="curve" smooth="yes"/>
-      <point x="205" y="699"/>
-      <point x="170" y="733"/>
-      <point x="126" y="733" type="curve" smooth="yes"/>
-      <point x="124" y="733" type="line" smooth="yes"/>
-      <point x="80" y="733"/>
-      <point x="45" y="699"/>
-      <point x="45" y="653" type="curve" smooth="yes"/>
-      <point x="45" y="607"/>
-      <point x="80" y="573"/>
-      <point x="124" y="573" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +18,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9bf84eb37ce4860da0247115a0f7208e0bedf81803baa274c90778a12270b81f6299fdf14e2eaae41b1e8772a42e42abcd019761941e9519ec550078995252d3</string>
+    <string>w250m60,500l190,500l190,0l60,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="2">
-  <advance width="208"/>
+  <advance width="256"/>
   <unicode hex="00B4"/>
   <outline>
-    <contour>
-      <point x="20" y="598" type="line"/>
-      <point x="98" y="598" type="line"/>
-      <point x="188" y="744" type="line"/>
-      <point x="104" y="744" type="line"/>
-    </contour>
+    <component base="grave" xScale="-1" xOffset="256"/>
   </outline>
   <lib>
   <dict>

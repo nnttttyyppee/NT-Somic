@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kacyr" format="2">
-  <advance width="645"/>
+  <advance width="649"/>
   <unicode hex="041A"/>
   <outline>
     <contour>
       <point x="92" y="0" type="line"/>
       <point x="179" y="0" type="line"/>
       <point x="179" y="326" type="line"/>
-      <point x="332" y="326" type="line"/>
-      <point x="332" y="407" type="line"/>
+      <point x="336" y="326" type="line"/>
+      <point x="336" y="407" type="line"/>
       <point x="179" y="407" type="line"/>
       <point x="179" y="700" type="line"/>
       <point x="92" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="364" y="370" type="line"/>
-      <point x="617" y="700" type="line"/>
-      <point x="513" y="700" type="line"/>
-      <point x="261" y="368" type="line"/>
-      <point x="514" y="0" type="line"/>
-      <point x="619" y="0" type="line"/>
+      <point x="367" y="369" type="line"/>
+      <point x="621" y="700" type="line"/>
+      <point x="519" y="700" type="line"/>
+      <point x="265" y="366" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="623" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w645m92,0l179,0l179,326l332,326l332,407l179,407l179,700l92,700m364,370l617,700l513,700l261,368l514,0l619,0</string>
+    <string>w649m92,0l179,0l179,326l336,326l336,407l179,407l179,700l92,700m367,369l621,700l519,700l265,366l517,0l623,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

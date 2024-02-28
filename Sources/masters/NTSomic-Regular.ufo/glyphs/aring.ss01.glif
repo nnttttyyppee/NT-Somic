@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aring.ss01" format="2">
-  <advance width="637"/>
+  <advance width="633"/>
   <outline>
-    <component base="ring" xOffset="172"/>
-    <component base="a.ss01" xOffset="4"/>
+    <component base="ring" xOffset="168"/>
+    <component base="a.ss01"/>
   </outline>
   <lib>
   <dict>

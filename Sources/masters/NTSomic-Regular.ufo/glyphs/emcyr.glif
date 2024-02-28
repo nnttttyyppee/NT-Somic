@@ -5,20 +5,20 @@
   <outline>
     <contour>
       <point x="345" y="159" type="line"/>
-      <point x="178" y="500" type="line"/>
+      <point x="180" y="500" type="line"/>
       <point x="76" y="500" type="line"/>
       <point x="76" y="0" type="line"/>
       <point x="154" y="0" type="line"/>
-      <point x="154" y="388" type="line"/>
-      <point x="147" y="394" type="line"/>
-      <point x="308" y="69" type="line"/>
-      <point x="372" y="69" type="line"/>
-      <point x="533" y="394" type="line"/>
-      <point x="526" y="388" type="line"/>
+      <point x="154" y="394" type="line"/>
+      <point x="150" y="394" type="line"/>
+      <point x="309" y="69" type="line"/>
+      <point x="371" y="69" type="line"/>
+      <point x="530" y="394" type="line"/>
+      <point x="526" y="394" type="line"/>
       <point x="526" y="0" type="line"/>
       <point x="604" y="0" type="line"/>
       <point x="604" y="500" type="line"/>
-      <point x="504" y="500" type="line"/>
+      <point x="502" y="500" type="line"/>
       <point x="337" y="159" type="line"/>
     </contour>
   </outline>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w680m345,159l178,500l76,500l76,0l154,0l154,388l147,394l308,69l372,69l533,394l526,388l526,0l604,0l604,500l504,500l337,159</string>
+    <string>w680m345,159l180,500l76,500l76,0l154,0l154,394l150,394l309,69l371,69l530,394l526,394l526,0l604,0l604,500l502,500l337,159</string>
     <key>hintSetList</key>
     <array>
       <dict>

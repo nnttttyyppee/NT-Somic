@@ -10,10 +10,10 @@
       <point x="92" y="0" type="line"/>
       <point x="178" y="0" type="line"/>
       <point x="178" y="608" type="line"/>
-      <point x="166" y="598" type="line"/>
-      <point x="405" y="81" type="line"/>
-      <point x="473" y="81" type="line"/>
-      <point x="712" y="598" type="line"/>
+      <point x="165" y="598" type="line"/>
+      <point x="404" y="81" type="line"/>
+      <point x="474" y="81" type="line"/>
+      <point x="713" y="598" type="line"/>
       <point x="700" y="608" type="line"/>
       <point x="700" y="0" type="line"/>
       <point x="786" y="0" type="line"/>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w878m444,187l206,700l92,700l92,0l178,0l178,608l166,598l405,81l473,81l712,598l700,608l700,0l786,0l786,700l674,700l436,187</string>
+    <string>w878m444,187l206,700l92,700l92,0l178,0l178,608l165,598l404,81l474,81l713,598l700,608l700,0l786,0l786,700l674,700l436,187</string>
     <key>hintSetList</key>
     <array>
       <dict>

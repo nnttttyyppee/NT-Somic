@@ -87,57 +87,6 @@ https://scripts.sil.org/OFL
   <string>NT Somic</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
-  <key>openTypeNameRecords</key>
-  <array>
-  <dict>
-    <key>nameID</key>
-    <integer>256</integer>
-    <key>platformID</key>
-    <integer>1</integer>
-    <key>encodingID</key>
-    <integer>0</integer>
-    <key>languageID</key>
-    <integer>0</integer>
-    <key>string</key>
-    <string>Alt a</string>
-  </dict>
-  <dict>
-    <key>nameID</key>
-    <integer>256</integer>
-    <key>platformID</key>
-    <integer>3</integer>
-    <key>encodingID</key>
-    <integer>1</integer>
-    <key>languageID</key>
-    <integer>1033</integer>
-    <key>string</key>
-    <string>Alt a</string>
-  </dict>
-  <dict>
-    <key>nameID</key>
-    <integer>257</integer>
-    <key>platformID</key>
-    <integer>1</integer>
-    <key>encodingID</key>
-    <integer>0</integer>
-    <key>languageID</key>
-    <integer>0</integer>
-    <key>string</key>
-    <string>Alt g</string>
-  </dict>
-  <dict>
-    <key>nameID</key>
-    <integer>257</integer>
-    <key>platformID</key>
-    <integer>3</integer>
-    <key>encodingID</key>
-    <integer>1</integer>
-    <key>languageID</key>
-    <integer>1033</integer>
-    <key>string</key>
-    <string>Alt g</string>
-  </dict>
-  </array>
   <key>openTypeNameVersion</key>
   <string>Version 0.7</string>
   <key>openTypeOS2Panose</key>

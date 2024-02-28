@@ -2,10 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>Elcyr</key>
+  <string>E_lcyr.glif</string>
   <key>V</key>
   <string>V_.glif</string>
   <key>sterling</key>
   <string>sterling.glif</string>
+  <key>three</key>
+  <string>three.glif</string>
   <key>yukrcyr_yukrcyr</key>
   <string>yukrcyr_yukrcyr.glif</string>
 </dict>

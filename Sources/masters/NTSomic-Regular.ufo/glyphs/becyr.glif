@@ -4,13 +4,13 @@
   <unicode hex="0431"/>
   <outline>
     <contour>
-      <point x="314" y="-14" type="curve" smooth="yes"/>
+      <point x="314.219" y="-14" type="curve" smooth="yes"/>
       <point x="464" y="-14"/>
       <point x="565" y="90"/>
-      <point x="565" y="242" type="curve" smooth="yes"/>
+      <point x="565" y="242.02" type="curve" smooth="yes"/>
       <point x="565" y="391"/>
       <point x="468" y="495"/>
-      <point x="327" y="495" type="curve" smooth="yes"/>
+      <point x="326.862" y="495" type="curve" smooth="yes"/>
       <point x="229" y="495"/>
       <point x="156" y="445"/>
       <point x="120" y="356" type="curve"/>
@@ -23,19 +23,19 @@
       <point x="352" y="704" type="line" smooth="yes"/>
       <point x="143" y="687"/>
       <point x="56" y="576"/>
-      <point x="56" y="330" type="curve" smooth="yes"/>
-      <point x="56" y="298" type="line" smooth="yes"/>
+      <point x="56" y="329" type="curve" smooth="yes"/>
+      <point x="56" y="299" type="line" smooth="yes"/>
       <point x="56" y="105"/>
       <point x="154" y="-14"/>
     </contour>
     <contour>
-      <point x="315" y="61" type="curve" smooth="yes"/>
+      <point x="314.5" y="61" type="curve" smooth="yes"/>
       <point x="215" y="61"/>
       <point x="145" y="135"/>
       <point x="145" y="241" type="curve" smooth="yes"/>
       <point x="145" y="347"/>
       <point x="215" y="421"/>
-      <point x="315" y="421" type="curve" smooth="yes"/>
+      <point x="314.5" y="421" type="curve" smooth="yes"/>
       <point x="414" y="421"/>
       <point x="484" y="347"/>
       <point x="484" y="241" type="curve" smooth="yes"/>
@@ -50,7 +50,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f5820d7aa56933d20db26e08d6148937b00671d0943100900e4b7be29f8038273cbd540deb92349de1a4bdd2c5c878c4095e9a35a0dcfef354c2c958b90173b9</string>
+    <string>47df842d963988586a1c62a5993409ae05b2661b1afa59eb491a7c135cb3e9b44188e8422df19019770af50e2c0f3af438e16217c4d9e506731c16b2d65b0dfe</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -5,12 +5,12 @@
   <outline>
     <contour>
       <point x="190" y="500" type="line"/>
-      <point x="190" y="188" type="line"/>
+      <point x="190" y="190" type="line"/>
       <point x="391" y="500" type="line"/>
       <point x="520" y="500" type="line"/>
       <point x="520" y="0" type="line"/>
       <point x="390" y="0" type="line"/>
-      <point x="390" y="312" type="line"/>
+      <point x="390" y="310" type="line"/>
       <point x="189" y="0" type="line"/>
       <point x="60" y="0" type="line"/>
       <point x="60" y="500" type="line"/>
@@ -23,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w580m190,500l190,188l391,500l520,500l520,0l390,0l390,312l189,0l60,0l60,500</string>
+    <string>w580m190,500l190,190l391,500l520,500l520,0l390,0l390,310l189,0l60,0l60,500</string>
     <key>hintSetList</key>
     <array>
       <dict>

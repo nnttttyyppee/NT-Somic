@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcircumflex.ss02" format="2">
-  <advance width="610"/>
+  <advance width="608"/>
   <outline>
-    <component base="g.ss02" xOffset="2"/>
-    <component base="circumflex" xOffset="93"/>
+    <component base="g.ss02"/>
+    <component base="circumflex" xOffset="82"/>
   </outline>
   <lib>
   <dict>

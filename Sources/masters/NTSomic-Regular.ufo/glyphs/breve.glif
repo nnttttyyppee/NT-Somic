@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breve" format="2">
-  <advance width="389"/>
+  <advance width="388"/>
   <unicode hex="02D8"/>
   <outline>
     <contour>
-      <point x="194" y="607" type="curve" smooth="yes"/>
-      <point x="287" y="607"/>
-      <point x="349" y="660"/>
-      <point x="359" y="746" type="curve"/>
-      <point x="284" y="746" type="line"/>
-      <point x="278" y="699"/>
-      <point x="243" y="671"/>
-      <point x="194" y="671" type="curve" smooth="yes"/>
-      <point x="145" y="671"/>
-      <point x="110" y="699"/>
-      <point x="104" y="746" type="curve"/>
-      <point x="29" y="746" type="line"/>
-      <point x="39" y="660"/>
-      <point x="101" y="607"/>
+      <point x="194" y="581" type="curve" smooth="yes"/>
+      <point x="285" y="581"/>
+      <point x="347" y="632"/>
+      <point x="362" y="711" type="curve"/>
+      <point x="287" y="724" type="line"/>
+      <point x="277" y="676"/>
+      <point x="245" y="648"/>
+      <point x="194" y="648" type="curve" smooth="yes"/>
+      <point x="143" y="648"/>
+      <point x="111" y="676"/>
+      <point x="101" y="724" type="curve"/>
+      <point x="26" y="711" type="line"/>
+      <point x="41" y="632"/>
+      <point x="103" y="581"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w389m194,607c287,607 349,660 359,746l284,746c278,699 243,671 194,671c145,671 110,699 104,746l29,746c39,660 101,607 194,607</string>
+    <string>w388m195,581c286,581 348,632 363,711l288,724c278,676 246,648 195,648c144,648 112,676 102,724l27,711c42,632 104,581 195,581</string>
     <key>hintSetList</key>
     <array>
       <dict>

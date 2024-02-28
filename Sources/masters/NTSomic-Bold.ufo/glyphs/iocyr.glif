@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iocyr" format="2">
-  <advance width="585"/>
+  <advance width="578"/>
   <unicode hex="0451"/>
   <outline>
     <component base="iecyr"/>
-    <component base="dieresis" xOffset="87"/>
+    <component base="dieresis" xOffset="83"/>
   </outline>
   <lib>
   <dict>
@@ -13,7 +13,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w585</string>
+    <string>w578</string>
     <key>hintSetList</key>
     <array>
       <dict>
