@@ -2,6 +2,7 @@
 <glyph name="Kacyr" format="2">
   <advance width="681"/>
   <unicode hex="041A"/>
+  <anchor x="361" y="700" name="top"/>
   <outline>
     <contour>
       <point x="78" y="0" type="line"/>
@@ -16,9 +17,9 @@
     <contour>
       <point x="440" y="368" type="line"/>
       <point x="659" y="700" type="line"/>
-      <point x="501" y="700" type="line"/>
-      <point x="284" y="366" type="line"/>
-      <point x="499" y="0" type="line"/>
+      <point x="500" y="700" type="line"/>
+      <point x="283" y="366" type="line"/>
+      <point x="498" y="0" type="line"/>
       <point x="659" y="0" type="line"/>
     </contour>
   </outline>
@@ -29,7 +30,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w681m78,0l222,0l222,303l362,303l362,427l222,427l222,700l78,700m440,368l659,700l501,700l284,366l499,0l659,0</string>
+    <string>w681m78,0l222,0l222,303l362,303l362,427l222,427l222,700l78,700m440,368l659,700l500,700l283,366l498,0l659,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

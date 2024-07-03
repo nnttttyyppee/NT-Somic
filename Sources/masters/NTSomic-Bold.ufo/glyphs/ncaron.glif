@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ncaron" format="2">
-  <advance width="575"/>
+  <advance width="576"/>
   <unicode hex="0148"/>
   <outline>
-    <component base="n" xOffset="-2"/>
-    <component base="caron" xOffset="81"/>
+    <component base="n"/>
+    <component base="caron" xOffset="88"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>n+caron</string>
   </dict>

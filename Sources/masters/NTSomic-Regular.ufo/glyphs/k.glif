@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="2">
-  <advance width="522"/>
+  <advance width="524"/>
   <unicode hex="006B"/>
   <outline>
     <contour>
@@ -10,10 +10,10 @@
       <point x="157" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="407" y="0" type="line"/>
-      <point x="502" y="0" type="line"/>
-      <point x="292" y="296" type="line"/>
-      <point x="237" y="246" type="line"/>
+      <point x="409" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="294" y="296" type="line"/>
+      <point x="239" y="246" type="line"/>
     </contour>
     <contour>
       <point x="397" y="500" type="line"/>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w522m157,722l76,722l76,0l157,0m407,0l502,0l292,296l237,246m397,500l150,237l150,132l500,500</string>
+    <string>w524m157,722l76,722l76,0l157,0m409,0l504,0l294,296l239,246m397,500l150,237l150,132l500,500</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -4,10 +4,12 @@
   <unicode hex="017E"/>
   <outline>
     <component base="z"/>
-    <component base="caron" xOffset="58"/>
+    <component base="caron" xOffset="62"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>z+caron</string>
   </dict>

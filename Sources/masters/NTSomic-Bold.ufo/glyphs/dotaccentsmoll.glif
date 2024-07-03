@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentsmoll" format="2">
+  <advance width="250"/>
+  <anchor x="125" y="500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="125" y="576" type="curve" smooth="yes"/>
+      <point x="168" y="576"/>
+      <point x="204" y="610"/>
+      <point x="204" y="655" type="curve" smooth="yes"/>
+      <point x="204" y="700"/>
+      <point x="168" y="734"/>
+      <point x="125" y="734" type="curve" smooth="yes"/>
+      <point x="82" y="734"/>
+      <point x="46" y="700"/>
+      <point x="46" y="655" type="curve" smooth="yes"/>
+      <point x="46" y="610"/>
+      <point x="82" y="576"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+uni0307</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iukrcyr" format="2">
-  <advance width="233"/>
+  <advance width="232"/>
   <unicode hex="0456"/>
   <outline>
-    <component base="i"/>
+    <component base="dotlessi"/>
+    <component base="dotaccent"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+dotaccent</string>
+  </dict>
+  </lib>
 </glyph>

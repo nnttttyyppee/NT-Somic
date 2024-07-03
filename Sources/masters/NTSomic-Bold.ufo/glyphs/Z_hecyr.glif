@@ -2,9 +2,9 @@
 <glyph name="Zhecyr" format="2">
   <advance width="1012"/>
   <unicode hex="0416"/>
+  <anchor x="506" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="434" y="0" type="line"/>
       <point x="578" y="0" type="line"/>
       <point x="578" y="304" type="line"/>
       <point x="706" y="304" type="line"/>
@@ -16,22 +16,23 @@
       <point x="306" y="428" type="line"/>
       <point x="306" y="304" type="line"/>
       <point x="434" y="304" type="line"/>
+      <point x="434" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="22" y="0" type="line"/>
-      <point x="181" y="0" type="line"/>
-      <point x="377" y="366" type="line"/>
-      <point x="179" y="700" type="line"/>
-      <point x="22" y="700" type="line"/>
-      <point x="224" y="366" type="line"/>
-    </contour>
-    <contour>
-      <point x="831" y="0" type="line"/>
       <point x="990" y="0" type="line"/>
       <point x="788" y="366" type="line"/>
       <point x="990" y="700" type="line"/>
       <point x="833" y="700" type="line"/>
       <point x="635" y="366" type="line"/>
+      <point x="831" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="181" y="0" type="line"/>
+      <point x="377" y="366" type="line"/>
+      <point x="179" y="700" type="line"/>
+      <point x="22" y="700" type="line"/>
+      <point x="224" y="366" type="line"/>
+      <point x="22" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +42,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ae6398cee9fa8fd16e17aa63a0234d8e2b5c96c083f3fb7c5b1da3601b2c2577f6a3cd74420d34f7702f17f0de2e05ee5891b7d57f9933c2f0966c0ba148d7f0</string>
+    <string>5d3515e0a45b390f60f60765abf5524fc146d6839fb0e0715244c4a43d885d9941f0fabaa8c07222fe4875472f46cf4eb2d0eaee43a0b8b3dab580996b2c417f</string>
     <key>hintSetList</key>
     <array>
       <dict>

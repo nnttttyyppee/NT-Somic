@@ -2,4 +2,28 @@
 <glyph name="threesuperior" format="2">
   <advance width="334"/>
   <unicode hex="00B3"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w334</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 400.16 73.92</string>
+          <string>hstem 570.96 71.68</string>
+          <string>hstem 733.92 73.92</string>
+          <string>vstem 242.64 80.64</string>
+          <string>vstem 251.04 80.08</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

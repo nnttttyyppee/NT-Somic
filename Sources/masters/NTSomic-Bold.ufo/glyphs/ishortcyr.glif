@@ -6,4 +6,10 @@
     <component base="icyr"/>
     <component base="breve" xOffset="85"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

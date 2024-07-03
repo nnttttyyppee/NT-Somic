@@ -3,32 +3,15 @@
   <advance width="578"/>
   <unicode hex="0451"/>
   <outline>
-    <component base="iecyr"/>
-    <component base="dieresis" xOffset="83"/>
+    <component base="e"/>
+    <component base="dieresis" xOffset="82"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w578</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -14 112</string>
-          <string>hstem 216 92</string>
-          <string>hstem 406 108</string>
-          <string>hstem 566 156</string>
-          <string>vstem 107 156</string>
-          <string>vstem 337 156</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+dieresis</string>
   </dict>
   </lib>
 </glyph>

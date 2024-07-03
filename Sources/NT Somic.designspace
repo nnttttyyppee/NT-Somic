@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis maximum="700" default="400" minimum="400" tag="wght" name="weight">
+  <axis minimum="400" name="weight" default="400" maximum="700" tag="wght">
    <labelname xml:lang="en">Weight</labelname>
   </axis>
  </axes>
  <sources>
-  <source filename="masters/NTSomic-Bold.ufo" stylename="Bold" familyname="NT Somic" name="Bold">
+  <source name="Bold" familyname="NT Somic" stylename="Bold" filename="masters/NTSomic-Bold.ufo">
    <location>
-    <dimension xvalue="700" name="weight"/>
+    <dimension name="weight" xvalue="700"/>
    </location>
   </source>
-  <source filename="masters/NTSomic-Regular.ufo" stylename="Regular" familyname="NT Somic" name="Regular">
+  <source name="Regular" familyname="NT Somic" stylename="Regular" filename="masters/NTSomic-Regular.ufo">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension xvalue="400" name="weight"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </source>
  </sources>
  <instances>
-  <instance filename="instances/NTSomic-Regular.ufo" stylename="Regular" familyname="NT Somic" name="Regular">
+  <instance name="Regular" familyname="NT Somic" stylename="Regular" filename="instances/NTSomic-Regular.ufo">
    <location>
-    <dimension xvalue="400" name="weight"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance filename="instances/NTSomic-Medium.ufo" stylename="Medium" familyname="NT Somic" name="Medium">
+  <instance name="Medium" familyname="NT Somic" stylename="Medium" filename="instances/NTSomic-Medium.ufo">
    <location>
-    <dimension xvalue="500" name="weight"/>
+    <dimension name="weight" xvalue="500"/>
    </location>
   </instance>
-  <instance filename="instances/NTSomic-Semibold.ufo" stylename="Semibold" familyname="NT Somic" name="Semibold">
+  <instance name="Semibold" familyname="NT Somic" stylename="Semibold" filename="instances/NTSomic-Semibold.ufo">
    <location>
-    <dimension xvalue="600" name="weight"/>
+    <dimension name="weight" xvalue="600"/>
    </location>
   </instance>
-  <instance filename="instances/NTSomic-Bold.ufo" stylename="Bold" familyname="NT Somic" name="Bold">
+  <instance name="Bold" familyname="NT Somic" stylename="Bold" filename="instances/NTSomic-Bold.ufo">
    <location>
-    <dimension xvalue="700" name="weight"/>
+    <dimension name="weight" xvalue="700"/>
    </location>
   </instance>
  </instances>

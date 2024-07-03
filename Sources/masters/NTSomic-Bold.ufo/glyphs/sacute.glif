@@ -2,12 +2,15 @@
 <glyph name="sacute" format="2">
   <advance width="503"/>
   <unicode hex="015B"/>
+  <anchor x="265" y="0" name="bottom"/>
   <outline>
     <component base="s"/>
-    <component base="acute" xOffset="120"/>
+    <component base="acute" xOffset="113"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>s+acute</string>
   </dict>

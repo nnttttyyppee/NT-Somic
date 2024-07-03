@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gbreve" format="2">
-  <advance width="802"/>
+  <advance width="795"/>
   <unicode hex="011E"/>
   <outline>
     <component base="G"/>
-    <component base="breve.case" xOffset="161"/>
+    <component base="breve.case" xOffset="165"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>G+~breve.case</string>
   </dict>

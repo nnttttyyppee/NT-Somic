@@ -4,10 +4,12 @@
   <unicode hex="0101"/>
   <outline>
     <component base="a"/>
-    <component base="macron" xOffset="93"/>
+    <component base="macron" xOffset="87" yOffset="-1"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>a+macron</string>
   </dict>

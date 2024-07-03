@@ -4,10 +4,12 @@
   <unicode hex="00D2"/>
   <outline>
     <component base="O"/>
-    <component base="grave.case" xOffset="189"/>
+    <component base="grave.case" xOffset="248"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>O+~grave.case</string>
   </dict>

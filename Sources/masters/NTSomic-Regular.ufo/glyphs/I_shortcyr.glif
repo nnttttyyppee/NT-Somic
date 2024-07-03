@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ishortcyr" format="2">
-  <advance width="740"/>
+  <advance width="724"/>
   <unicode hex="0419"/>
   <outline>
-    <component base="Icyr" xOffset="-8"/>
-    <component base="breve.case" xOffset="154"/>
+    <component base="Icyr"/>
+    <component base="breve.case" xOffset="146"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

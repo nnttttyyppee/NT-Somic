@@ -2,12 +2,15 @@
 <glyph name="cdotaccent" format="2">
   <advance width="566"/>
   <unicode hex="010B"/>
+  <anchor x="304" y="0" name="bottom"/>
   <outline>
     <component base="c"/>
-    <component base="dotaccent" xOffset="173"/>
+    <component base="dotaccent" xOffset="174"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>c+dotaccent</string>
   </dict>

@@ -2,12 +2,15 @@
 <glyph name="ccedilla" format="2">
   <advance width="566"/>
   <unicode hex="00E7"/>
+  <anchor x="299" y="500" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="cedilla" xOffset="165"/>
+    <component base="cedilla" xOffset="153"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>c+cedilla</string>
   </dict>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Shchacyr" format="2">
-  <advance width="1026"/>
+  <advance width="1028"/>
   <unicode hex="0429"/>
   <outline>
     <contour>
       <point x="78" y="0" type="line"/>
-      <point x="848" y="0" type="line"/>
-      <point x="848" y="-146" type="line"/>
-      <point x="992" y="-146" type="line"/>
-      <point x="992" y="132" type="line"/>
-      <point x="898" y="132" type="line" name=".hr01"/>
+      <point x="852" y="0" type="line"/>
+      <point x="852" y="-148" type="line"/>
+      <point x="994" y="-148" type="line"/>
+      <point x="994" y="132" type="line"/>
+      <point x="898" y="132" type="line"/>
       <point x="898" y="700" type="line"/>
       <point x="754" y="700" type="line"/>
       <point x="754" y="132" type="line"/>
@@ -29,32 +29,20 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>cf1b5fc28bc8ba4259102345f9c5cc29d10894731465e072b0d6a1cb2493959bd1e9a1d9a87ca7206e3db59c752d2d539c992fbf7d5714e1e812cfb04931a604</string>
+    <string>40e0249b9d68201cc4549314cabfb5c85b92f0155ca20924353345e511f20c1e841aaf606fc3c44f11c3dee2682787ea8dda4770835bf0b03712c01403195dbb</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -127 -21</string>
           <string>hstem 0 132</string>
-          <string>vstem 78 144</string>
-          <string>vstem 848 144</string>
-          <string>hstem -125 -21</string>
           <string>hstem 700 -20</string>
+          <string>vstem 78 144</string>
           <string>vstem 416 144</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 132</string>
           <string>vstem 754 144</string>
-          <string>hstem 700 -20</string>
-          <string>vstem 416 144</string>
-          <string>vstem 78 144</string>
-          <string>hstem -125 -21</string>
+          <string>vstem 852 142</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

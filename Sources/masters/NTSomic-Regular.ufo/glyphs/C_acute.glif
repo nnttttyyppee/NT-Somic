@@ -2,12 +2,15 @@
 <glyph name="Cacute" format="2">
   <advance width="760"/>
   <unicode hex="0106"/>
+  <anchor x="421" y="0" name="bottom"/>
   <outline>
     <component base="C"/>
-    <component base="acute.case" xOffset="338"/>
+    <component base="acute.case" xOffset="280"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>C+~acute.case</string>
   </dict>

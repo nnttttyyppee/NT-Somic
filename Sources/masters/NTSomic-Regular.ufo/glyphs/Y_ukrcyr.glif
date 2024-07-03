@@ -1,37 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yukrcyr" format="2">
-  <advance width="267"/>
+  <advance width="268"/>
   <unicode hex="0407"/>
   <outline>
-    <component base="dieresis.case" xOffset="-59"/>
-    <contour>
-      <point x="90" y="0" type="line"/>
-      <point x="177" y="0" type="line"/>
-      <point x="177" y="700" type="line"/>
-      <point x="90" y="700" type="line"/>
-    </contour>
+    <component base="Iukrcyr"/>
+    <component base="dieresis.case" xOffset="-58"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w267m90,0l177,0l177,700l90,700</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 803 121</string>
-          <string>vstem 47.5 57.5</string>
-          <string>vstem 90 87</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   </dict>
   </lib>
 </glyph>

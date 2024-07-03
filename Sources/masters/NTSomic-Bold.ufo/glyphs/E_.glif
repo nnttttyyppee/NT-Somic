@@ -2,6 +2,7 @@
 <glyph name="E" format="2">
   <advance width="588"/>
   <unicode hex="0045"/>
+  <anchor x="320" y="700" name="top"/>
   <outline>
     <contour>
       <point x="78" y="0" type="line"/>
@@ -25,7 +26,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w588m78,0l540,0l540,132l222,132l222,297l500,297l500,429l222,429l222,568l540,568l540,700l78,700</string>
+    <string>w588m77,0l539,0l539,132l221,132l221,297l499,297l499,429l221,429l221,568l539,568l539,700l77,700</string>
     <key>hintSetList</key>
     <array>
       <dict>

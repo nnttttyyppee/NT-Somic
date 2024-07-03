@@ -4,10 +4,12 @@
   <unicode hex="04DE"/>
   <outline>
     <component base="Zecyr"/>
-    <component base="dieresis.case" xOffset="117"/>
+    <component base="dieresis.case" xOffset="111"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>afii10025+~dieresis.case</string>
   </dict>

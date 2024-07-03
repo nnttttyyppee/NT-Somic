@@ -3,24 +3,24 @@
   <advance width="622"/>
   <outline>
     <contour>
-      <point x="432" y="0" type="line"/>
       <point x="562" y="0" type="line"/>
       <point x="562" y="500" type="line"/>
       <point x="432" y="500" type="line"/>
+      <point x="432" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="269.194" y="-14" type="curve" smooth="yes"/>
-      <point x="398" y="-14"/>
+      <point x="268.194" y="-14" type="curve" smooth="yes"/>
+      <point x="397" y="-14"/>
       <point x="483" y="87"/>
-      <point x="483" y="249.523" type="curve" smooth="yes"/>
+      <point x="483" y="250.477" type="curve" smooth="yes"/>
       <point x="483" y="413"/>
-      <point x="397" y="514"/>
-      <point x="268.194" y="514" type="curve" smooth="yes"/>
-      <point x="135" y="514"/>
+      <point x="398" y="514"/>
+      <point x="269.194" y="514" type="curve" smooth="yes"/>
+      <point x="136" y="514"/>
       <point x="36" y="406"/>
-      <point x="36" y="250.392" type="curve" smooth="yes"/>
+      <point x="36" y="249.608" type="curve" smooth="yes"/>
       <point x="36" y="94"/>
-      <point x="136" y="-14"/>
+      <point x="135" y="-14"/>
     </contour>
     <contour>
       <point x="299" y="106" type="curve" smooth="yes"/>
@@ -44,7 +44,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0857053fb2bf337f2562afc49097cd2cdc9c4dd9af17bf766efd9c2cbb9de1d6ad1200f5bc044e0696840a5fcdc45919671c791b34adfd4044c30f3e919d9212</string>
+    <string>624b54a35ffb5fc595f61f57cc8f9937157a235a0f67b6fc904ea05452ad78f0d67496b0292c2333932952b87191919af7357a96105c31b62982a80ef0f528fc</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Shchacyr" format="2">
-  <advance width="997"/>
+  <advance width="1003"/>
   <unicode hex="0429"/>
   <outline>
     <contour>
       <point x="92" y="0" type="line"/>
-      <point x="869" y="0" type="line"/>
-      <point x="869" y="-154" type="line"/>
-      <point x="955" y="-154" type="line"/>
-      <point x="955" y="80" type="line"/>
+      <point x="875" y="0" type="line"/>
+      <point x="875" y="-154" type="line"/>
+      <point x="961" y="-154" type="line"/>
+      <point x="961" y="80" type="line"/>
       <point x="861" y="80" type="line"/>
       <point x="861" y="700" type="line"/>
       <point x="774" y="700" type="line"/>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w997m92,0l869,0l869,-154l955,-154l955,80l861,80l861,700l774,700l774,80l520,80l520,700l433,700l433,80l179,80l179,700l92,700</string>
+    <string>w1003m92,0l875,0l875,-154l961,-154l961,80l861,80l861,700l774,700l774,80l520,80l520,700l433,700l433,80l179,80l179,700l92,700</string>
     <key>hintSetList</key>
     <array>
       <dict>

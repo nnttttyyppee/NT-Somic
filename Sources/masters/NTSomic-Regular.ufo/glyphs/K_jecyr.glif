@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kjecyr" format="2">
-  <advance width="641"/>
+  <advance width="649"/>
   <unicode hex="040C"/>
   <outline>
-    <component base="Kacyr" xOffset="-4"/>
-    <component base="acute.case" xOffset="261"/>
+    <component base="Kacyr"/>
+    <component base="acute.case" xOffset="215"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>afii10028+acute</string>
+  <string>afii10028+acute.case</string>
   </dict>
   </lib>
 </glyph>

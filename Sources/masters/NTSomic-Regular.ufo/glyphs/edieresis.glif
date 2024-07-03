@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edieresis" format="2">
-  <advance width="584"/>
+  <advance width="580"/>
   <unicode hex="00EB"/>
   <outline>
     <component base="e"/>
@@ -8,6 +8,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>e+dieresis</string>
   </dict>

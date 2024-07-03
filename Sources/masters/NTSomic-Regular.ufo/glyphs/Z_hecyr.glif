@@ -1,37 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zhecyr" format="2">
-  <advance width="963"/>
+  <advance width="962"/>
   <unicode hex="0416"/>
+  <anchor x="481" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="438" y="0" type="line"/>
-      <point x="525" y="0" type="line"/>
-      <point x="525" y="326" type="line"/>
-      <point x="687" y="326" type="line"/>
-      <point x="687" y="407" type="line"/>
-      <point x="525" y="407" type="line"/>
-      <point x="525" y="700" type="line"/>
-      <point x="438" y="700" type="line"/>
-      <point x="438" y="407" type="line"/>
-      <point x="276" y="407" type="line"/>
-      <point x="276" y="326" type="line"/>
-      <point x="438" y="326" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="524" y="326" type="line"/>
+      <point x="686" y="326" type="line"/>
+      <point x="686" y="407" type="line"/>
+      <point x="524" y="407" type="line"/>
+      <point x="524" y="700" type="line"/>
+      <point x="437" y="700" type="line"/>
+      <point x="437" y="407" type="line"/>
+      <point x="275" y="407" type="line"/>
+      <point x="275" y="326" type="line"/>
+      <point x="437" y="326" type="line"/>
+      <point x="437" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="26" y="0" type="line"/>
+      <point x="936" y="0" type="line"/>
+      <point x="713" y="368" type="line"/>
+      <point x="925" y="700" type="line"/>
+      <point x="821" y="700" type="line"/>
+      <point x="615" y="366" type="line"/>
+      <point x="832" y="0" type="line"/>
+    </contour>
+    <contour>
       <point x="130" y="0" type="line"/>
       <point x="347" y="366" type="line"/>
       <point x="141" y="700" type="line"/>
       <point x="37" y="700" type="line"/>
       <point x="249" y="368" type="line"/>
-    </contour>
-    <contour>
-      <point x="833" y="0" type="line"/>
-      <point x="937" y="0" type="line"/>
-      <point x="714" y="368" type="line"/>
-      <point x="926" y="700" type="line"/>
-      <point x="822" y="700" type="line"/>
-      <point x="615" y="366" type="line"/>
+      <point x="26" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +42,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>95aad9cf0d5dad3c1e457d32a0aa1c8078dcfb1ce334b9ca31dd54b60c4562a10d39c2d7630c5f05c9c1826531c48c3d042cebe807f340674b6d74692c7ffe93</string>
+    <string>565f8a3273b42e2a676432d5c67d72b384e6a5c66fb92126b6a47774e86d40ad4d46269599539788f5c2ad8905ebc7c93ca3aba8fb1f2eae4ccb508d7769865e</string>
     <key>hintSetList</key>
     <array>
       <dict>

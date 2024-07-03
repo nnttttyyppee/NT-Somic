@@ -2,12 +2,13 @@
 <glyph name="circumflex" format="2">
   <advance width="380"/>
   <unicode hex="02C6"/>
+  <anchor x="190" y="500" name="_top"/>
   <outline>
     <contour>
-      <point x="58" y="565" type="line"/>
-      <point x="203" y="674" type="line"/>
-      <point x="177" y="674" type="line"/>
-      <point x="322" y="565" type="line"/>
+      <point x="58" y="566" type="line"/>
+      <point x="203" y="675" type="line"/>
+      <point x="177" y="675" type="line"/>
+      <point x="322" y="566" type="line"/>
       <point x="364" y="620" type="line"/>
       <point x="190" y="752" type="line"/>
       <point x="16" y="620" type="line"/>

@@ -4,10 +4,12 @@
   <unicode hex="00ED"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="acute" xOffset="11"/>
+    <component base="acute" xOffset="-29"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>dotlessi+acute</string>
   </dict>

@@ -11,14 +11,14 @@
       <point x="678" y="0" type="line"/>
       <point x="773" y="0" type="line"/>
       <point x="984" y="700" type="line"/>
-      <point x="890" y="700" type="line"/>
+      <point x="892" y="700" type="line"/>
       <point x="715" y="91" type="line"/>
-      <point x="731" y="91" type="line"/>
-      <point x="550" y="700" type="line"/>
-      <point x="460" y="700" type="line"/>
-      <point x="280" y="91" type="line"/>
-      <point x="297" y="91" type="line"/>
-      <point x="121" y="700" type="line"/>
+      <point x="729" y="91" type="line"/>
+      <point x="547" y="700" type="line"/>
+      <point x="462" y="700" type="line"/>
+      <point x="279" y="89" type="line"/>
+      <point x="297" y="89" type="line"/>
+      <point x="119" y="700" type="line"/>
       <point x="26" y="700" type="line"/>
     </contour>
   </outline>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1010m237,0l331,0l514,601l496,601l678,0l773,0l984,700l890,700l715,91l731,91l550,700l460,700l280,91l297,91l121,700l26,700</string>
+    <string>w1010m237,0l331,0l514,601l496,601l678,0l773,0l984,700l892,700l715,91l729,91l547,700l462,700l279,89l297,89l119,700l26,700</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w716m54,0l141,0l141,330l499,330l499,0l586,0l586,700l499,700l499,411l141,411l141,700l54,700</string>
+    <string>w716m92,0l179,0l179,330l537,330l537,0l624,0l624,700l537,700l537,411l179,411l179,700l92,700</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -34,7 +34,7 @@
           <string>hstem 21 -21</string>
           <string>hstem 321 82.5</string>
           <string>hstem 700 -20</string>
-          <string>vstem 93 86</string>
+          <string>vstem 92 87</string>
           <string>vstem 553 86</string>
         </array>
       </dict>

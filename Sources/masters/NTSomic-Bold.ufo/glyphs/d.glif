@@ -5,4 +5,28 @@
   <outline>
     <component base="b" xScale="-1" xOffset="622"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w622</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -14 124</string>
+          <string>hstem 390 124</string>
+          <string>hstem 514 -20</string>
+          <string>vstem 44 122</string>
+          <string>vstem 444 128</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

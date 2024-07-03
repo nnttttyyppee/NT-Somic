@@ -2,12 +2,15 @@
 <glyph name="Ccircumflex" format="2">
   <advance width="760"/>
   <unicode hex="0108"/>
+  <anchor x="421" y="0" name="bottom"/>
   <outline>
     <component base="C"/>
-    <component base="circumflex.case" xOffset="188"/>
+    <component base="circumflex.case" xOffset="186"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>C+~circumflex.case</string>
   </dict>

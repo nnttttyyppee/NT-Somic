@@ -961,7 +961,7 @@
     <key>public.kern2._Ucyr</key>
     <integer>-80</integer>
     <key>public.kern2._k_rightside</key>
-    <integer>-20</integer>
+    <integer>-14</integer>
     <key>public.kern2._y_right</key>
     <integer>-24</integer>
   </dict>
@@ -1305,7 +1305,7 @@
     <key>public.kern2._J_right</key>
     <integer>-44</integer>
     <key>public.kern2._O_right</key>
-    <integer>-45</integer>
+    <integer>-34</integer>
     <key>public.kern2._S_right</key>
     <integer>-18</integer>
     <key>public.kern2._a</key>
@@ -1370,7 +1370,7 @@
     <key>public.kern2._J_right</key>
     <integer>-10</integer>
     <key>public.kern2._K_right</key>
-    <integer>-45</integer>
+    <integer>-34</integer>
     <key>public.kern2._Ucyr</key>
     <integer>-40</integer>
     <key>public.kern2._V_right</key>
@@ -1702,7 +1702,7 @@
     <key>u</key>
     <integer>-12</integer>
     <key>zecyr</key>
-    <integer>-19</integer>
+    <integer>-13</integer>
     <key>public.kern2._Geupcyr2_right</key>
     <integer>-66</integer>
     <key>public.kern2._J_right</key>
@@ -1720,7 +1720,7 @@
     <key>public.kern2._a</key>
     <integer>-12</integer>
     <key>public.kern2._o_rightside</key>
-    <integer>-34</integer>
+    <integer>-26</integer>
   </dict>
   <key>public.kern1._o_leftside</key>
   <dict>
@@ -1781,7 +1781,7 @@
     <key>public.kern2._W_right</key>
     <integer>-48</integer>
     <key>public.kern2._k_rightside</key>
-    <integer>-32</integer>
+    <integer>-24</integer>
     <key>public.kern2._y_right</key>
     <integer>-21</integer>
   </dict>

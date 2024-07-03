@@ -41,14 +41,14 @@
     <contour>
       <point x="35" y="363" type="line"/>
       <point x="427" y="363" type="line"/>
-      <point x="427" y="431" type="line"/>
-      <point x="35" y="431" type="line"/>
+      <point x="427" y="434" type="line"/>
+      <point x="35" y="434" type="line"/>
     </contour>
     <contour>
       <point x="35" y="217" type="line"/>
       <point x="427" y="217" type="line"/>
-      <point x="427" y="285" type="line"/>
-      <point x="35" y="285" type="line"/>
+      <point x="427" y="288" type="line"/>
+      <point x="35" y="288" type="line"/>
     </contour>
   </outline>
   <lib>

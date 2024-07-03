@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abrevecyr" format="2">
+  <advance width="540"/>
+  <unicode hex="04D1"/>
+  <outline>
+    <component base="a"/>
+    <component base="breve" xOffset="69"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+breve</string>
+  </dict>
+  </lib>
+</glyph>

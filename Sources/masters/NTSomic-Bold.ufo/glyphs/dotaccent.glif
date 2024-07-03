@@ -2,22 +2,21 @@
 <glyph name="dotaccent" format="2">
   <advance width="250"/>
   <unicode hex="02D9"/>
+  <anchor x="125" y="500" name="_top"/>
   <outline>
     <contour>
-      <point x="126" y="565" type="line" smooth="yes"/>
-      <point x="170" y="565"/>
-      <point x="205" y="599"/>
-      <point x="205" y="645" type="curve" smooth="yes"/>
-      <point x="205" y="691"/>
-      <point x="170" y="725"/>
-      <point x="126" y="725" type="curve" smooth="yes"/>
-      <point x="124" y="725" type="line" smooth="yes"/>
-      <point x="80" y="725"/>
-      <point x="45" y="691"/>
-      <point x="45" y="645" type="curve" smooth="yes"/>
-      <point x="45" y="599"/>
-      <point x="80" y="565"/>
-      <point x="124" y="565" type="curve" smooth="yes"/>
+      <point x="126" y="574" type="curve" smooth="yes"/>
+      <point x="172" y="574"/>
+      <point x="206" y="608"/>
+      <point x="206" y="655" type="curve" smooth="yes"/>
+      <point x="206" y="702"/>
+      <point x="172" y="736"/>
+      <point x="126" y="736" type="curve" smooth="yes"/>
+      <point x="80" y="736"/>
+      <point x="44" y="702"/>
+      <point x="44" y="655" type="curve" smooth="yes"/>
+      <point x="44" y="608"/>
+      <point x="80" y="574"/>
     </contour>
   </outline>
   <lib>

@@ -3,11 +3,13 @@
   <advance width="270"/>
   <unicode hex="00CF"/>
   <outline>
-    <component base="I" xOffset="-1"/>
-    <component base="dieresis.case" xOffset="-59"/>
+    <component base="I"/>
+    <component base="dieresis.case" xOffset="-57"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>I+~dieresis.case</string>
   </dict>

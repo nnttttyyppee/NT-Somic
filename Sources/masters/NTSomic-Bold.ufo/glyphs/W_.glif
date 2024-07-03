@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="2">
-  <advance width="1022"/>
+  <advance width="1021"/>
   <unicode hex="0057"/>
   <outline>
     <contour>
-      <point x="213" y="0" type="line"/>
-      <point x="370" y="0" type="line"/>
-      <point x="515" y="531" type="line"/>
-      <point x="507" y="531" type="line"/>
-      <point x="652" y="0" type="line"/>
-      <point x="809" y="0" type="line"/>
-      <point x="1004" y="700" type="line"/>
-      <point x="847" y="700" type="line"/>
-      <point x="718" y="193" type="line"/>
-      <point x="730" y="193" type="line"/>
-      <point x="592" y="700" type="line"/>
-      <point x="430" y="700" type="line"/>
-      <point x="293" y="195" type="line"/>
-      <point x="304" y="195" type="line"/>
-      <point x="175" y="700" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="366" y="0" type="line"/>
+      <point x="518" y="554" type="line"/>
+      <point x="503" y="554" type="line"/>
+      <point x="655" y="0" type="line"/>
+      <point x="807" y="0" type="line"/>
+      <point x="1003" y="700" type="line"/>
+      <point x="853" y="700" type="line"/>
+      <point x="709" y="162" type="line"/>
+      <point x="736" y="162" type="line"/>
+      <point x="587" y="700" type="line"/>
+      <point x="433" y="700" type="line"/>
+      <point x="285" y="159" type="line"/>
+      <point x="314" y="159" type="line"/>
+      <point x="169" y="700" type="line"/>
       <point x="18" y="700" type="line"/>
     </contour>
   </outline>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1022m213,0l370,0l515,531l507,531l652,0l809,0l1004,700l847,700l718,193l730,193l592,700l430,700l293,195l304,195l175,700l18,700</string>
+    <string>w1021m214,0l366,0l518,554l503,554l655,0l807,0l1003,700l853,700l709,162l736,162l587,700l433,700l285,159l314,159l169,700l18,700</string>
     <key>hintSetList</key>
     <array>
       <dict>

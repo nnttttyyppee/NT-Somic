@@ -4,10 +4,12 @@
   <unicode hex="00E2"/>
   <outline>
     <component base="a"/>
-    <component base="circumflex" xOffset="60"/>
+    <component base="circumflex" xOffset="58"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>a+circumflex</string>
   </dict>

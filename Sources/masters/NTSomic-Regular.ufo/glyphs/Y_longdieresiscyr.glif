@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ylongdieresiscyr" format="2">
-  <advance width="879"/>
+  <advance width="864"/>
   <unicode hex="04F8"/>
   <outline>
-    <component base="Ylongcyr" xOffset="5"/>
-    <component base="dieresis.case" xOffset="247"/>
+    <component base="Ylongcyr"/>
+    <component base="dieresis.case" xOffset="240"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>afii10045+~dieresis.case</string>
   </dict>

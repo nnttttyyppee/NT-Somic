@@ -2,6 +2,10 @@
 <glyph name="Yukrcyr_Yukrcyr" format="2">
   <advance width="596"/>
   <outline>
+    <component base="dotaccentsmoll.case" xOffset="475"/>
+    <component base="dotaccentsmoll.case" xOffset="273"/>
+    <component base="dotaccentsmoll.case" xOffset="73"/>
+    <component base="dotaccentsmoll.case" xOffset="-129"/>
     <contour>
       <point x="78" y="0" type="line"/>
       <point x="220" y="0" type="line"/>
@@ -9,66 +13,10 @@
       <point x="78" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="376" y="0" type="line" name=".hr01"/>
+      <point x="376" y="0" type="line"/>
       <point x="518" y="0" type="line"/>
       <point x="518" y="700" type="line"/>
       <point x="376" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="-8" y="777" type="curve" smooth="yes"/>
-      <point x="35" y="777"/>
-      <point x="70" y="810"/>
-      <point x="70" y="855" type="curve" smooth="yes"/>
-      <point x="70" y="900"/>
-      <point x="35" y="933"/>
-      <point x="-8" y="933" type="curve" smooth="yes"/>
-      <point x="-51" y="933"/>
-      <point x="-86" y="900"/>
-      <point x="-86" y="855" type="curve" smooth="yes"/>
-      <point x="-86" y="810"/>
-      <point x="-51" y="777"/>
-    </contour>
-    <contour>
-      <point x="196" y="777" type="curve" smooth="yes"/>
-      <point x="239" y="777"/>
-      <point x="274" y="810"/>
-      <point x="274" y="855" type="curve" smooth="yes"/>
-      <point x="274" y="900"/>
-      <point x="239" y="933"/>
-      <point x="196" y="933" type="curve" smooth="yes"/>
-      <point x="153" y="933"/>
-      <point x="118" y="900"/>
-      <point x="118" y="855" type="curve" smooth="yes"/>
-      <point x="118" y="810"/>
-      <point x="153" y="777"/>
-    </contour>
-    <contour>
-      <point x="400" y="777" type="curve" smooth="yes"/>
-      <point x="443" y="777"/>
-      <point x="478" y="810"/>
-      <point x="478" y="855" type="curve" smooth="yes"/>
-      <point x="478" y="900"/>
-      <point x="443" y="933"/>
-      <point x="400" y="933" type="curve" smooth="yes"/>
-      <point x="357" y="933"/>
-      <point x="322" y="900"/>
-      <point x="322" y="855" type="curve" smooth="yes"/>
-      <point x="322" y="810"/>
-      <point x="357" y="777"/>
-    </contour>
-    <contour>
-      <point x="604" y="777" type="curve" smooth="yes"/>
-      <point x="647" y="777"/>
-      <point x="682" y="810"/>
-      <point x="682" y="855" type="curve" smooth="yes"/>
-      <point x="682" y="900"/>
-      <point x="647" y="933"/>
-      <point x="604" y="933" type="curve" smooth="yes"/>
-      <point x="561" y="933"/>
-      <point x="526" y="900"/>
-      <point x="526" y="855" type="curve" smooth="yes"/>
-      <point x="526" y="810"/>
-      <point x="561" y="777"/>
     </contour>
   </outline>
   <lib>
@@ -80,7 +28,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>668c1e5255bae30b13ffa19420f694e051db339eb34e80d8c188b8d456df33200858fa6475859853f9273013d4128b2e0128a9005318235ace3e9bab87594ae0</string>
+    <string>w596m78,0l220,0l220,700l78,700m376,0l518,0l518,700l376,700</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -88,22 +36,12 @@
         <array>
           <string>hstem 21 -21</string>
           <string>hstem 790 150</string>
-          <string>vstem 78 142</string>
+          <string>vstem 0 518</string>
+          <string>vstem 0 220</string>
+          <string>vstem 69 50</string>
           <string>vstem 273 50</string>
           <string>vstem 477 50</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 790 150</string>
-          <string>vstem 376 142</string>
-          <string>vstem 69 50</string>
-          <string>vstem 273 50</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

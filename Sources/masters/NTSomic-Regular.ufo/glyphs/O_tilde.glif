@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Otilde" format="2">
-  <advance width="829"/>
+  <advance width="830"/>
   <unicode hex="00D5"/>
   <outline>
     <component base="O"/>
@@ -8,6 +8,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>O+~tilde.case</string>
   </dict>

@@ -5,21 +5,14 @@
   <key>public.kern1._A2</key>
   <array>
     <string>A</string>
-    <string>Aacute</string>
     <string>Abreve</string>
-    <string>Acircumflex</string>
     <string>Acyr</string>
-    <string>Adieresis</string>
-    <string>Agrave</string>
     <string>Amacron</string>
     <string>Aogonek</string>
-    <string>Aring</string>
-    <string>Atilde</string>
   </array>
   <key>public.kern1._C_left</key>
   <array>
     <string>C</string>
-    <string>Cacute</string>
     <string>Ccaron</string>
     <string>Ccedilla</string>
     <string>Ccircumflex</string>
@@ -31,13 +24,9 @@
   <array>
     <string>AE</string>
     <string>E</string>
-    <string>Eacute</string>
     <string>Ebreve</string>
     <string>Ecaron</string>
-    <string>Ecircumflex</string>
-    <string>Edieresis</string>
     <string>Edotaccent</string>
-    <string>Egrave</string>
     <string>Emacron</string>
     <string>Eogonek</string>
     <string>Iecyr</string>
@@ -85,14 +74,9 @@
     <string>Gbreve</string>
     <string>Gcircumflex</string>
     <string>O</string>
-    <string>Oacute</string>
     <string>Obreve</string>
-    <string>Ocircumflex</string>
     <string>Ocyr</string>
-    <string>Odieresis</string>
-    <string>Ograve</string>
     <string>Omacron</string>
-    <string>Otilde</string>
     <string>Q</string>
     <string>Schwa</string>
     <string>Schwacyr</string>
@@ -118,13 +102,11 @@
   <array>
     <string>Ucyr</string>
     <string>Ushortcyr</string>
-    <string>Yacute</string>
   </array>
   <key>public.kern1._Ycyr_left1</key>
   <array>
     <string>Ucyr</string>
     <string>Ushortcyr</string>
-    <string>Yacute</string>
   </array>
   <key>public.kern1._a_left</key>
   <array>
@@ -236,16 +218,10 @@
   <key>public.kern2._A</key>
   <array>
     <string>A</string>
-    <string>Aacute</string>
     <string>Abreve</string>
-    <string>Acircumflex</string>
     <string>Acyr</string>
-    <string>Adieresis</string>
-    <string>Agrave</string>
     <string>Amacron</string>
     <string>Aogonek</string>
-    <string>Aring</string>
-    <string>Atilde</string>
   </array>
   <key>public.kern2._Geupcyr2_right</key>
   <array>
@@ -272,7 +248,6 @@
   <key>public.kern2._O_right</key>
   <array>
     <string>C</string>
-    <string>Cacute</string>
     <string>Ccaron</string>
     <string>Ccedilla</string>
     <string>Ccircumflex</string>

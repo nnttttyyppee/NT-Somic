@@ -30,7 +30,6 @@ languagesystem cyrl dflt; # Cyrillic default
 #
 # Feature definitions
 #
-
 feature aalt {
 # Access All Alternates
 
@@ -51,8 +50,6 @@ feature liga {
   sub yukrcyr yukrcyr by yukrcyr_yukrcyr;
 
 } liga;
-
-
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
@@ -75,8 +72,6 @@ sub aring by aring.ss01;
 sub atilde by atilde.ss01;
 
 } ss01;
-
-
 feature dlig {
 # GSUB feature: Discretionary Ligatures
 # Lookups: 1
@@ -86,8 +81,6 @@ feature dlig {
   sub yukrcyr yukrcyr by yukrcyr_yukrcyr;
 
 } dlig;
-
-
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1

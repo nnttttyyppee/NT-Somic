@@ -2,10 +2,11 @@
 <glyph name="A" format="2">
   <advance width="690"/>
   <unicode hex="0041"/>
+  <anchor x="345" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="167" y="150" type="line"/>
-      <point x="531" y="150" type="line"/>
+      <point x="167" y="149" type="line"/>
+      <point x="531" y="149" type="line"/>
       <point x="531" y="274" type="line"/>
       <point x="167" y="274" type="line"/>
     </contour>
@@ -27,14 +28,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w690m167,150l531,150l531,274l167,274m419,700l271,700l18,0l164,0l367,606l319,606l522,0l672,0</string>
+    <string>w690m167,149l531,149l531,274l167,274m419,700l271,700l18,0l164,0l367,606l319,606l522,0l672,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 21 -21</string>
-          <string>hstem 150 124</string>
+          <string>hstem 149 125</string>
           <string>hstem 700 -20</string>
         </array>
       </dict>

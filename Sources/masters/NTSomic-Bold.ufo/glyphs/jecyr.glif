@@ -3,12 +3,15 @@
   <advance width="250"/>
   <unicode hex="0458"/>
   <outline>
-    <component base="j" xOffset="1"/>
+    <component base="dotlessj"/>
+    <component base="dotaccent"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>j%</string>
+  <string>dotlessj+dotaccent</string>
   </dict>
   </lib>
 </glyph>

@@ -13,9 +13,9 @@
     <key>com.fontlab.layer.locked</key>
     <false/>
     <key>com.fontlab.layer.service</key>
-    <true/>
+    <false/>
     <key>com.fontlab.layer.wireframe</key>
-    <true/>
+    <false/>
   </dict>
 </dict>
 </plist>

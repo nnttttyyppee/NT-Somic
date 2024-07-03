@@ -4,12 +4,14 @@
   <unicode hex="0403"/>
   <outline>
     <component base="Gecyr"/>
-    <component base="acute.case" xOffset="221"/>
+    <component base="acute.case" xOffset="177"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>afii10020+acute</string>
+  <string>afii10020+acute.case</string>
   </dict>
   </lib>
 </glyph>

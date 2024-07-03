@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde" format="2">
-  <advance width="575"/>
+  <advance width="576"/>
   <unicode hex="00F1"/>
   <outline>
-    <component base="n" xOffset="-2"/>
-    <component base="tilde" xOffset="67"/>
+    <component base="n"/>
+    <component base="tilde" xOffset="80"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>n+tilde</string>
   </dict>

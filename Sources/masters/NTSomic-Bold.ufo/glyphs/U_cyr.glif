@@ -2,18 +2,19 @@
 <glyph name="Ucyr" format="2">
   <advance width="634"/>
   <unicode hex="0423"/>
+  <anchor x="327" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="165" y="0" type="line"/>
+      <point x="163" y="0" type="line"/>
       <point x="309" y="0" type="line"/>
       <point x="616" y="700" type="line"/>
-      <point x="466" y="700" type="line"/>
-      <point x="308" y="312" type="line"/>
+      <point x="468" y="700" type="line"/>
+      <point x="307" y="312" type="line"/>
       <point x="292" y="288" type="line"/>
     </contour>
     <contour>
       <point x="263" y="191" type="line"/>
-      <point x="328" y="342" type="line"/>
+      <point x="335" y="342" type="line"/>
       <point x="172" y="700" type="line"/>
       <point x="18" y="700" type="line"/>
     </contour>
@@ -25,7 +26,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w634m165,0l309,0l616,700l466,700l308,312l292,288m263,191l328,342l172,700l18,700</string>
+    <string>w634m163,0l309,0l616,700l468,700l307,312l292,288m263,191l335,342l172,700l18,700</string>
     <key>hintSetList</key>
     <array>
       <dict>

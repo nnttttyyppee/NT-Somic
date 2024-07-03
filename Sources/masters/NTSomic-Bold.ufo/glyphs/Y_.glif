@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Y" format="2">
-  <advance width="650"/>
+  <advance width="658"/>
   <unicode hex="0059"/>
+  <anchor x="329" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="253" y="0" type="line"/>
-      <point x="397" y="0" type="line"/>
-      <point x="397" y="273" type="line"/>
-      <point x="632" y="700" type="line"/>
-      <point x="481" y="700" type="line"/>
-      <point x="321" y="386" type="line"/>
-      <point x="331" y="386" type="line"/>
-      <point x="171" y="700" type="line"/>
+      <point x="257" y="0" type="line"/>
+      <point x="401" y="0" type="line"/>
+      <point x="401" y="247" type="line"/>
+      <point x="640" y="700" type="line"/>
+      <point x="485" y="700" type="line"/>
+      <point x="325" y="386" type="line"/>
+      <point x="335" y="386" type="line"/>
+      <point x="175" y="700" type="line"/>
       <point x="18" y="700" type="line"/>
-      <point x="253" y="273" type="line"/>
+      <point x="257" y="247" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +24,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w650m253,0l397,0l397,273l632,700l481,700l321,386l331,386l171,700l18,700l253,273</string>
+    <string>w658m257,0l401,0l401,247l640,700l485,700l325,386l335,386l175,700l18,700l257,247</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -31,7 +32,7 @@
         <array>
           <string>hstem 21 -21</string>
           <string>hstem 700 -20</string>
-          <string>vstem 257 139</string>
+          <string>vstem 261 139</string>
         </array>
       </dict>
     </array>

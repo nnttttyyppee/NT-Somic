@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ring.case" format="2">
   <advance width="312"/>
+  <anchor x="156" y="700" name="_top"/>
   <outline>
     <contour>
       <point x="156" y="776" type="curve" smooth="yes"/>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Pecyr" format="2">
-  <advance width="740"/>
+  <advance width="736"/>
   <unicode hex="041F"/>
   <outline>
     <contour>
       <point x="78" y="0" type="line"/>
       <point x="222" y="0" type="line"/>
       <point x="222" y="568" type="line"/>
-      <point x="518" y="568" type="line"/>
-      <point x="518" y="0" type="line"/>
-      <point x="662" y="0" type="line"/>
-      <point x="662" y="700" type="line"/>
+      <point x="514" y="568" type="line"/>
+      <point x="514" y="0" type="line"/>
+      <point x="658" y="0" type="line"/>
+      <point x="658" y="700" type="line"/>
       <point x="78" y="700" type="line"/>
     </contour>
   </outline>
@@ -21,7 +21,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w740m78,0l222,0l222,568l518,568l518,0l662,0l662,700l78,700</string>
+    <string>w736m78,0l222,0l222,568l514,568l514,0l658,0l658,700l78,700</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -30,7 +30,7 @@
           <string>hstem 21 -21</string>
           <string>hstem 568 132</string>
           <string>vstem 78 144</string>
-          <string>vstem 518 144</string>
+          <string>vstem 514 144</string>
         </array>
       </dict>
     </array>

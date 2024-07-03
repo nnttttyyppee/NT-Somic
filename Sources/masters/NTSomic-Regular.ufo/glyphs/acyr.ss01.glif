@@ -4,4 +4,10 @@
   <outline>
     <component base="a.ss01"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

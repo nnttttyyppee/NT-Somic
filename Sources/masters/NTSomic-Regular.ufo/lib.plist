@@ -307,34 +307,8 @@
     <string>tilde.case</string>
     <string>macron</string>
     <string>uni000A</string>
-    <string>Agrave</string>
-    <string>Aacute</string>
-    <string>Acircumflex</string>
-    <string>Atilde</string>
-    <string>Adieresis</string>
-    <string>Aring</string>
-    <string>Egrave</string>
-    <string>Eacute</string>
-    <string>Ecircumflex</string>
-    <string>Edieresis</string>
-    <string>Igrave</string>
-    <string>Iacute</string>
-    <string>Icircumflex</string>
-    <string>Idieresis</string>
-    <string>Ntilde</string>
-    <string>Ograve</string>
-    <string>Oacute</string>
-    <string>Ocircumflex</string>
-    <string>Otilde</string>
-    <string>Odieresis</string>
-    <string>Ugrave</string>
-    <string>Uacute</string>
-    <string>Ucircumflex</string>
-    <string>Udieresis</string>
-    <string>Yacute</string>
     <string>Abreve</string>
     <string>abreve</string>
-    <string>Cacute</string>
     <string>cacute</string>
     <string>Ccircumflex</string>
     <string>ccircumflex</string>
@@ -415,6 +389,61 @@
     <string>zdotaccent</string>
     <string>sacute</string>
     <string>numero</string>
+    <string>uni000D</string>
+    <string>Cacute</string>
+    <string>Agrave</string>
+    <string>Aacute</string>
+    <string>Acircumflex</string>
+    <string>Atilde</string>
+    <string>Adieresis</string>
+    <string>Aring</string>
+    <string>Egrave</string>
+    <string>Eacute</string>
+    <string>Ecircumflex</string>
+    <string>Edieresis</string>
+    <string>Igrave</string>
+    <string>Iacute</string>
+    <string>Icircumflex</string>
+    <string>Idieresis</string>
+    <string>Ntilde</string>
+    <string>Ograve</string>
+    <string>Oacute</string>
+    <string>Ocircumflex</string>
+    <string>Otilde</string>
+    <string>Odieresis</string>
+    <string>Ugrave</string>
+    <string>Uacute</string>
+    <string>Ucircumflex</string>
+    <string>Udieresis</string>
+    <string>Yacute</string>
+    <string>dotlessj</string>
+    <string>Zacute</string>
+    <string>Zdotaccent</string>
+    <string>Gdotaccent</string>
+    <string>gdotaccent</string>
+    <string>Nacute</string>
+    <string>Utilde</string>
+    <string>utilde</string>
+    <string>Umacron</string>
+    <string>umacron</string>
+    <string>ubreve</string>
+    <string>Ubreve</string>
+    <string>Uring</string>
+    <string>Wcircumflex</string>
+    <string>wcircumflex</string>
+    <string>iebrevecyr</string>
+    <string>Iebrevecyr</string>
+    <string>adieresiscyr</string>
+    <string>Adieresiscyr</string>
+    <string>abrevecyr</string>
+    <string>Abrevecyr</string>
+    <string>zhedieresiscyr</string>
+    <string>Zhedieresiscyr</string>
+    <string>obarcyr</string>
+    <string>Obarcyr</string>
+    <string>dotaccentsmoll</string>
+    <string>Idotaccent</string>
+    <string>dotaccentsmoll.case</string>
   </array>
 </dict>
 </plist>

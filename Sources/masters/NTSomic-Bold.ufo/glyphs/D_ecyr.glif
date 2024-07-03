@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Decyr" format="2">
-  <advance width="792"/>
+  <advance width="781"/>
   <unicode hex="0414"/>
   <outline>
     <contour>
-      <point x="34" y="-146" type="line"/>
-      <point x="178" y="-146" type="line"/>
-      <point x="178" y="0" type="line"/>
-      <point x="614" y="0" type="line"/>
-      <point x="614" y="-146" type="line"/>
-      <point x="758" y="-146" type="line"/>
-      <point x="758" y="132" type="line"/>
-      <point x="664" y="132" type="line" name=".hr01"/>
-      <point x="664" y="701" type="line"/>
-      <point x="151" y="701" type="line"/>
-      <point x="151" y="500" type="line" smooth="yes"/>
-      <point x="151" y="341.408"/>
-      <point x="136.797" y="194.189"/>
-      <point x="96.4238" y="132" type="curve"/>
-      <point x="34" y="132" type="line" name=".hr02"/>
-    </contour>
-    <contour>
-      <point x="248.926" y="132" type="line"/>
-      <point x="278.065" y="194.438"/>
-      <point x="294" y="322.181" name=".hr03"/>
-      <point x="294" y="479" type="curve" smooth="yes"/>
-      <point x="294" y="569" type="line"/>
-      <point x="518" y="569" type="line"/>
-      <point x="518" y="132" type="line"/>
+      <point x="30" y="-148" type="line"/>
+      <point x="172" y="-148" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="605" y="0" type="line"/>
+      <point x="605" y="-148" type="line"/>
+      <point x="747" y="-148" type="line"/>
+      <point x="747" y="132" type="line"/>
+      <point x="651" y="132" type="line"/>
+      <point x="651" y="700" type="line"/>
+      <point x="143" y="700" type="line"/>
+      <point x="143" y="499" type="line" smooth="yes"/>
+      <point x="143" y="287"/>
+      <point x="125" y="179"/>
+      <point x="81" y="125" type="curve"/>
+      <point x="231" y="117" type="line"/>
+      <point x="268" y="195"/>
+      <point x="283" y="299"/>
+      <point x="283" y="478" type="curve" smooth="yes"/>
+      <point x="283" y="568" type="line"/>
+      <point x="507" y="568" type="line"/>
+      <point x="507" y="132" type="line"/>
+      <point x="30" y="132" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,54 +35,20 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b8ab551ea6b490b58eff667fe5af40bef2989eacdc35b082ba558817ac5b36aae4e928c1116b924ff2a60dafad613a93318609e9e95f260fec28b5201c8a4c35</string>
+    <string>2188ae5c57b6cebc60171d0f81d79a5ebc90668c71d79a0d41fde005305272a38ac037276fd069832f4184a946437727872d897b28100e442878303a28555f6d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -125 -21</string>
-          <string>vstem 34 144</string>
           <string>hstem 0 132</string>
+          <string>hstem 569 132</string>
+          <string>vstem 34 144</string>
+          <string>vstem 151 143</string>
+          <string>vstem 510 154</string>
           <string>vstem 614 144</string>
-          <string>hstem 569 132</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 132</string>
-          <string>vstem 518 146</string>
-          <string>hstem 569 132</string>
-          <string>vstem 151 143</string>
-          <string>hstem -125 -21</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 132</string>
-          <string>vstem 34 144</string>
-          <string>hstem -125 -21</string>
-          <string>hstem 569 132</string>
-          <string>vstem 518 146</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 151 143</string>
-          <string>hstem 569 132</string>
-          <string>vstem 518 146</string>
-          <string>hstem 0 132</string>
-          <string>hstem -125 -21</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr03</string>
       </dict>
     </array>
   </dict>

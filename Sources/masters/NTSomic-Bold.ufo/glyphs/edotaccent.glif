@@ -4,10 +4,12 @@
   <unicode hex="0117"/>
   <outline>
     <component base="e"/>
-    <component base="dotaccent" xOffset="178"/>
+    <component base="dotaccent" xOffset="171"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>e+dotaccent</string>
   </dict>

@@ -4,10 +4,12 @@
   <unicode hex="0178"/>
   <outline>
     <component base="Y"/>
-    <component base="dieresis" xOffset="114" yOffset="200"/>
+    <component base="dieresis" xOffset="116" yOffset="200"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>Y+dieresis</string>
   </dict>

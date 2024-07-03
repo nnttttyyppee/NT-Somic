@@ -1,54 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="2">
-  <advance width="233"/>
+  <advance width="232"/>
   <unicode hex="006A"/>
   <outline>
+    <component base="dotlessj"/>
     <component base="dotaccent"/>
-    <contour>
-      <point x="76" y="0" type="line" smooth="yes"/>
-      <point x="76" y="-96"/>
-      <point x="51" y="-128"/>
-      <point x="-21" y="-128" type="curve" smooth="yes"/>
-      <point x="-41" y="-128" type="line"/>
-      <point x="-41" y="-206" type="line"/>
-      <point x="-12" y="-206" type="line" smooth="yes"/>
-      <point x="100" y="-206"/>
-      <point x="157" y="-141" name=".hr01"/>
-      <point x="157" y="-12" type="curve" smooth="yes"/>
-      <point x="157" y="500" type="line"/>
-      <point x="76" y="500" type="line"/>
-    </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w233m76,0c76,-96 51,-128 -21,-128l-41,-128l-41,-206l-12,-206c100,-206 157,-141 157,-12l157,500l76,500</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -200 77</string>
-          <string>hstem 584 121</string>
-          <string>vstem 56 122</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -200 77</string>
-          <string>hstem 584 121</string>
-          <string>vstem -44 201</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessj+dotaccent</string>
   </dict>
   </lib>
 </glyph>

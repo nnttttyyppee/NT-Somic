@@ -2,18 +2,19 @@
 <glyph name="Y" format="2">
   <advance width="612"/>
   <unicode hex="0059"/>
+  <anchor x="306" y="700" name="top"/>
   <outline>
     <contour>
       <point x="263" y="0" type="line"/>
       <point x="349" y="0" type="line"/>
-      <point x="349" y="288" type="line"/>
+      <point x="349" y="278" type="line"/>
       <point x="586" y="700" type="line"/>
       <point x="488" y="700" type="line"/>
       <point x="300" y="358" type="line"/>
       <point x="312" y="358" type="line"/>
       <point x="124" y="700" type="line"/>
       <point x="26" y="700" type="line"/>
-      <point x="263" y="288" type="line"/>
+      <point x="263" y="278" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +24,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w612m263,0l349,0l349,288l586,700l488,700l300,358l312,358l124,700l26,700l263,288</string>
+    <string>w612m263,0l349,0l349,278l586,700l488,700l300,358l312,358l124,700l26,700l263,278</string>
     <key>hintSetList</key>
     <array>
       <dict>

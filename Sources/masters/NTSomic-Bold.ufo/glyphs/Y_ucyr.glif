@@ -6,10 +6,10 @@
     <contour>
       <point x="78" y="0" type="line"/>
       <point x="222" y="0" type="line"/>
-      <point x="222" y="300" type="line"/>
-      <point x="440" y="300" type="line"/>
-      <point x="440" y="436" type="line"/>
-      <point x="222" y="436" type="line"/>
+      <point x="222" y="302" type="line"/>
+      <point x="440" y="302" type="line"/>
+      <point x="440" y="434" type="line"/>
+      <point x="222" y="434" type="line"/>
       <point x="222" y="700" type="line"/>
       <point x="78" y="700" type="line"/>
     </contour>
@@ -49,14 +49,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>608fd585b78d8a2d8c7d7cf4c5474dff4742a3d1ff68394fb5ecffd30f435e02d400e8472fc0218284c6671204d71f04d9c30966834778261d0074df7b42d2cc</string>
+    <string>ee083eb275f86c6da229a773c9a7584a2f194800d1e31062da4a56381dc30f3a6098bf14d1df39d0f36bdeca3c5c6f0a57d15ad0ca2fb2e81912b789756052f1</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -14 138</string>
-          <string>hstem 300 136</string>
+          <string>hstem 302 132</string>
           <string>hstem 576 138</string>
           <string>vstem 78 144</string>
           <string>vstem 931 144</string>

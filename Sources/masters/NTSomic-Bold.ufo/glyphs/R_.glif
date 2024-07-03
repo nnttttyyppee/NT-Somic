@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="78" y="0" type="line"/>
-      <point x="216" y="0" type="line"/>
-      <point x="216" y="238" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="220" y="238" type="line"/>
       <point x="362" y="238" type="line" smooth="yes"/>
       <point x="506" y="238"/>
       <point x="603" y="325"/>
@@ -17,15 +17,15 @@
       <point x="78" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="216" y="366" type="line"/>
-      <point x="216" y="572" type="line"/>
-      <point x="359" y="572" type="line" smooth="yes"/>
-      <point x="413" y="572"/>
-      <point x="460" y="530"/>
-      <point x="460" y="467" type="curve" smooth="yes"/>
-      <point x="460" y="404"/>
-      <point x="413" y="366"/>
-      <point x="359" y="366" type="curve" smooth="yes"/>
+      <point x="220" y="366" type="line"/>
+      <point x="220" y="572" type="line"/>
+      <point x="358" y="572" type="line" smooth="yes"/>
+      <point x="412" y="572"/>
+      <point x="459" y="530"/>
+      <point x="459" y="467" type="curve" smooth="yes"/>
+      <point x="459" y="404"/>
+      <point x="412" y="366"/>
+      <point x="358" y="366" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="325" y="263" type="line"/>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3262e025fc293015ac765ab0d8464a2bc2f4b943acefb0e129356403b52f2fdbbb749e7fdd044e816ff364f082abfa0955ce445994807389cd5a1a543430fe8c</string>
+    <string>e29042f06506a67f43a1696142b255bf506dc7059cc5e8cad60a3e46416cc4591bc01eb3757419acf8d108b3934ef2ee81c6b0ec8ae6daaa6b2976da3f707214</string>
     <key>hintSetList</key>
     <array>
       <dict>

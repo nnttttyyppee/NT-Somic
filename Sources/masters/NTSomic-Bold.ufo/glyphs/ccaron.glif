@@ -2,12 +2,15 @@
 <glyph name="ccaron" format="2">
   <advance width="566"/>
   <unicode hex="010D"/>
+  <anchor x="304" y="0" name="bottom"/>
   <outline>
     <component base="c"/>
-    <component base="caron" xOffset="85"/>
+    <component base="caron" xOffset="88"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>c+caron</string>
   </dict>

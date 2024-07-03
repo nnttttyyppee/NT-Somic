@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhedieresiscyr" format="2">
+  <advance width="962"/>
+  <unicode hex="04DC"/>
+  <outline>
+    <component base="Zhecyr"/>
+    <component base="dieresis.case" xOffset="289"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>afii10024+~dieresis.case</string>
+  </dict>
+  </lib>
+</glyph>

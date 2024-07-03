@@ -3,13 +3,15 @@
   <advance width="506"/>
   <unicode hex="045E"/>
   <outline>
-    <component base="ucyr"/>
-    <component base="breve" xOffset="59"/>
+    <component base="y"/>
+    <component base="breve" xOffset="61"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>afii10085+breve</string>
+  <string>y+breve</string>
   </dict>
   </lib>
 </glyph>

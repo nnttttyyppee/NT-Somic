@@ -4,10 +4,12 @@
   <unicode hex="04E2"/>
   <outline>
     <component base="Icyr"/>
-    <component base="macron.case" xOffset="195"/>
+    <component base="macron.case" xOffset="178"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>afii10026+~macron.case</string>
   </dict>

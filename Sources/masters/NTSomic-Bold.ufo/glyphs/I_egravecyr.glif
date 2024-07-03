@@ -3,13 +3,15 @@
   <advance width="588"/>
   <unicode hex="0400"/>
   <outline>
-    <component base="Iecyr"/>
-    <component base="grave" xOffset="3" yOffset="200"/>
+    <component base="E"/>
+    <component base="grave.case" xOffset="154"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>afii10022+grave</string>
+  <string>E+grave.case</string>
   </dict>
   </lib>
 </glyph>

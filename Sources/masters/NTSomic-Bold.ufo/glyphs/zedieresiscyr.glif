@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zedieresiscyr" format="2">
-  <advance width="500"/>
+  <advance width="491"/>
   <unicode hex="04DF"/>
   <outline>
-    <component base="zecyr" xOffset="9"/>
-    <component base="dieresis" xOffset="36"/>
+    <component base="zecyr"/>
+    <component base="dieresis" xOffset="37"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>afii10073+dieresis</string>
   </dict>

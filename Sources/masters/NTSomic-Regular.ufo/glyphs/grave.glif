@@ -2,6 +2,7 @@
 <glyph name="grave" format="2">
   <advance width="256"/>
   <unicode hex="0060"/>
+  <anchor x="128" y="500" name="_top"/>
   <outline>
     <contour>
       <point x="207" y="565" type="line"/>
@@ -17,7 +18,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w256m187,565l226,627l31,749l-10,687</string>
+    <string>w256m207,565l246,627l51,749l10,687</string>
     <key>hintSetList</key>
     <array>
       <dict>

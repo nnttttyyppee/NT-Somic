@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcircumflex" format="2">
-  <advance width="802"/>
+  <advance width="795"/>
   <unicode hex="011C"/>
   <outline>
     <component base="G"/>
-    <component base="circumflex.case" xOffset="158"/>
+    <component base="circumflex.case" xOffset="157"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>G+~circumflex.case</string>
   </dict>

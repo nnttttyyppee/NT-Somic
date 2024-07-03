@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Elcyr" format="2">
-  <advance width="725"/>
+  <advance width="722"/>
   <unicode hex="041B"/>
   <outline>
     <contour>
       <point x="18" y="-8" type="line"/>
       <point x="38" y="-8" type="line" smooth="yes"/>
       <point x="212" y="-8"/>
-      <point x="283" y="87"/>
-      <point x="283" y="416" type="curve" smooth="yes"/>
-      <point x="283" y="568" type="line"/>
-      <point x="503" y="568" type="line"/>
-      <point x="503" y="0" type="line"/>
-      <point x="647" y="0" type="line"/>
-      <point x="647" y="700" type="line"/>
+      <point x="280" y="87"/>
+      <point x="280" y="416" type="curve" smooth="yes"/>
+      <point x="280" y="568" type="line"/>
+      <point x="500" y="568" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="644" y="0" type="line"/>
+      <point x="644" y="700" type="line"/>
       <point x="140" y="700" type="line"/>
-      <point x="140" y="445" type="line" smooth="yes"/>
-      <point x="140" y="205"/>
-      <point x="116" y="138"/>
-      <point x="30" y="138" type="curve" smooth="yes"/>
-      <point x="18" y="138" type="line"/>
+      <point x="140" y="444" type="line" smooth="yes"/>
+      <point x="140" y="197"/>
+      <point x="116" y="132"/>
+      <point x="30" y="132" type="curve" smooth="yes"/>
+      <point x="18" y="132" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w725m18,-8l38,-8c212,-8 283,87 283,416l283,568l503,568l503,0l647,0l647,700l140,700l140,445c140,205 116,138 30,138l18,138</string>
+    <string>w722m18,-8l38,-8c212,-8 280,87 280,416l280,568l500,568l500,0l644,0l644,700l140,700l140,444c140,197 116,132 30,132l18,132</string>
     <key>hintSetList</key>
     <array>
       <dict>

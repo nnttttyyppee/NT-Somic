@@ -4,14 +4,14 @@
   <unicode hex="003C"/>
   <outline>
     <contour>
-      <point x="68" y="320" type="line"/>
-      <point x="459" y="107" type="line"/>
-      <point x="487" y="171" type="line"/>
-      <point x="128" y="362" type="line"/>
-      <point x="128" y="348" type="line"/>
-      <point x="487" y="539" type="line"/>
-      <point x="459" y="603" type="line"/>
-      <point x="68" y="390" type="line"/>
+      <point x="68" y="318" type="line"/>
+      <point x="458" y="106" type="line"/>
+      <point x="489" y="175" type="line"/>
+      <point x="134" y="364" type="line"/>
+      <point x="134" y="346" type="line"/>
+      <point x="489" y="535" type="line"/>
+      <point x="458" y="604" type="line"/>
+      <point x="68" y="392" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w527m68,320l459,107l487,171l128,362l128,348l487,539l459,603l68,390</string>
+    <string>w527m68,318l458,106l489,175l134,364l134,346l489,535l458,604l68,392</string>
     <key>hintSetList</key>
     <array>
       <dict>
