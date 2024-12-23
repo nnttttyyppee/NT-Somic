@@ -1,37 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ylongcyr" format="2">
-  <advance width="729"/>
+  <advance width="730"/>
   <unicode hex="044B"/>
+  <anchor x="365" y="500" name="top"/>
   <outline>
     <contour>
-      <point x="539" y="500" type="line"/>
-      <point x="669" y="500" type="line"/>
-      <point x="669" y="0" type="line"/>
-      <point x="539" y="0" type="line"/>
+      <point x="540" y="0" type="line"/>
+      <point x="670" y="0" type="line"/>
+      <point x="670" y="500" type="line"/>
+      <point x="540" y="500" type="line"/>
     </contour>
     <contour>
       <point x="182" y="109" type="line"/>
-      <point x="270" y="109" type="line" smooth="yes"/>
-      <point x="323" y="109"/>
-      <point x="351" y="138"/>
-      <point x="351" y="180" type="curve" smooth="yes"/>
-      <point x="351" y="222"/>
-      <point x="323" y="251"/>
-      <point x="270" y="251" type="curve" smooth="yes"/>
       <point x="182" y="251" type="line"/>
+      <point x="270" y="251" type="line" smooth="yes"/>
+      <point x="323" y="251"/>
+      <point x="351" y="222"/>
+      <point x="351" y="180" type="curve" smooth="yes"/>
+      <point x="351" y="138"/>
+      <point x="323" y="109"/>
+      <point x="270" y="109" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="288" y="0" type="curve" smooth="yes"/>
       <point x="60" y="0" type="line"/>
-      <point x="60" y="500" type="line"/>
-      <point x="182" y="500" type="line"/>
-      <point x="182" y="360" type="line"/>
-      <point x="288" y="360" type="line" smooth="yes"/>
-      <point x="403" y="360"/>
-      <point x="475" y="283"/>
-      <point x="475" y="180" type="curve" smooth="yes"/>
-      <point x="475" y="77"/>
+      <point x="288" y="0" type="line" smooth="yes"/>
       <point x="403" y="0"/>
+      <point x="475" y="77"/>
+      <point x="475" y="180" type="curve" smooth="yes"/>
+      <point x="475" y="283"/>
+      <point x="403" y="360"/>
+      <point x="288" y="360" type="curve" smooth="yes"/>
+      <point x="182" y="360" type="line"/>
+      <point x="182" y="500" type="line"/>
+      <point x="60" y="500" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +42,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a279caf09beb75ab36f693f71e5b3e0665d5c4000385edf6ce6125363a85e983ec2310673d382255a42364d25aea88d8770bb6aa7baafb578a4036841a4a4631</string>
+    <string>20b769a84c1aeccd0d3bbfe041a7301c50eb2d6e9579a9f9fe5d89ac0cebbe52fe00ff8d02d30ec3ba4a7484eb2225bfe0321214e6540b00416d993513e46114</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -52,7 +53,7 @@
           <string>hstem 500 -20</string>
           <string>vstem 60 122</string>
           <string>vstem 351 124</string>
-          <string>vstem 539 130</string>
+          <string>vstem 540 130</string>
         </array>
       </dict>
     </array>

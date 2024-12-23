@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acyr.ss01" format="2">
   <advance width="622"/>
+  <anchor x="305" y="500" name="top"/>
+  <anchor x="562" y="0" name="bottom"/>
   <outline>
     <component base="a.ss01"/>
   </outline>
@@ -8,6 +10,8 @@
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a.ss01</string>
   </dict>
   </lib>
 </glyph>

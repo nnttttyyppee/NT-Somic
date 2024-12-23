@@ -2,7 +2,15 @@
 <glyph name="acyr" format="2">
   <advance width="540"/>
   <unicode hex="0430"/>
+  <anchor x="263" y="500" name="top"/>
+  <anchor x="470" y="0" name="bottom"/>
   <outline>
     <component base="a"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Shchacyr" format="2">
-  <advance width="1028"/>
+  <advance width="1026"/>
   <unicode hex="0429"/>
   <outline>
     <contour>
       <point x="78" y="0" type="line"/>
-      <point x="852" y="0" type="line"/>
-      <point x="852" y="-148" type="line"/>
-      <point x="994" y="-148" type="line"/>
-      <point x="994" y="132" type="line"/>
+      <point x="850" y="0" type="line"/>
+      <point x="850" y="-148" type="line"/>
+      <point x="992" y="-148" type="line"/>
+      <point x="992" y="132" type="line"/>
       <point x="898" y="132" type="line"/>
       <point x="898" y="700" type="line"/>
       <point x="754" y="700" type="line"/>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>40e0249b9d68201cc4549314cabfb5c85b92f0155ca20924353345e511f20c1e841aaf606fc3c44f11c3dee2682787ea8dda4770835bf0b03712c01403195dbb</string>
+    <string>e6d5cbe1af938865889e921581c1239214cf749885c0daf2b6ad1e7b78ad4607167c9e1506bf4ae0f51b3d55490b7c140cd380c07cf8e2b4d46de8ece96f7eae</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -41,7 +41,7 @@
           <string>vstem 78 144</string>
           <string>vstem 416 144</string>
           <string>vstem 754 144</string>
-          <string>vstem 852 142</string>
+          <string>vstem 850 142</string>
         </array>
       </dict>
     </array>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecyr" format="2">
+  <advance width="388"/>
+  <anchor x="194" y="500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="194" y="581" type="curve" smooth="yes"/>
+      <point x="285" y="581"/>
+      <point x="348" y="631"/>
+      <point x="362" y="711" type="curve"/>
+      <point x="287" y="724" type="line"/>
+      <point x="278" y="673"/>
+      <point x="246" y="648"/>
+      <point x="194" y="648" type="curve" smooth="yes"/>
+      <point x="142" y="648"/>
+      <point x="110" y="673"/>
+      <point x="101" y="724" type="curve"/>
+      <point x="26" y="711" type="line"/>
+      <point x="40" y="631"/>
+      <point x="103" y="581"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w388m194,581c285,581 348,631 362,711l287,724c278,673 246,648 194,648c142,648 110,673 101,724l26,711c40,631 103,581 194,581</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 571 56</string>
+          <string>hstem 703 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

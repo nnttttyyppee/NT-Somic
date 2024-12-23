@@ -5,15 +5,15 @@
   <anchor x="289" y="500" name="top"/>
   <outline>
     <contour>
-      <point x="157" y="500" type="line"/>
-      <point x="157" y="120" type="line"/>
-      <point x="420" y="500" type="line"/>
-      <point x="502" y="500" type="line"/>
-      <point x="502" y="0" type="line"/>
-      <point x="421" y="0" type="line"/>
-      <point x="421" y="380" type="line"/>
-      <point x="158" y="0" type="line"/>
       <point x="76" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="421" y="380" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="502" y="0" type="line"/>
+      <point x="502" y="500" type="line"/>
+      <point x="420" y="500" type="line"/>
+      <point x="157" y="120" type="line"/>
+      <point x="157" y="500" type="line"/>
       <point x="76" y="500" type="line"/>
     </contour>
   </outline>
@@ -24,7 +24,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w578m157,500l157,120l420,500l502,500l502,0l421,0l421,380l158,0l76,0l76,500</string>
+    <string>w578m76,0l158,0l421,380l421,0l502,0l502,500l420,500l157,120l157,500l76,500</string>
     <key>hintSetList</key>
     <array>
       <dict>

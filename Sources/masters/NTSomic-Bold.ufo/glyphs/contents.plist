@@ -332,6 +332,8 @@
   <string>abreve.ss01.glif</string>
   <key>abrevecyr</key>
   <string>abrevecyr.glif</string>
+  <key>abrevecyr.ss01</key>
+  <string>abrevecyr.ss01.glif</string>
   <key>acircumflex</key>
   <string>acircumflex.glif</string>
   <key>acircumflex.ss01</key>
@@ -350,6 +352,8 @@
   <string>adieresis.ss01.glif</string>
   <key>adieresiscyr</key>
   <string>adieresiscyr.glif</string>
+  <key>adieresiscyr.ss01</key>
+  <string>adieresiscyr.ss01.glif</string>
   <key>ae</key>
   <string>ae.glif</string>
   <key>agrave</key>
@@ -404,6 +408,10 @@
   <string>breve.glif</string>
   <key>breve.case</key>
   <string>breve.case.glif</string>
+  <key>brevecyr</key>
+  <string>brevecyr.glif</string>
+  <key>brevecyr.case</key>
+  <string>brevecyr.case.glif</string>
   <key>c</key>
   <string>c.glif</string>
   <key>cacute</key>
@@ -544,6 +552,8 @@
   <string>gcircumflex.ss02.glif</string>
   <key>gdotaccent</key>
   <string>gdotaccent.glif</string>
+  <key>gdotaccent.ss02</key>
+  <string>gdotaccent.ss02.glif</string>
   <key>gecyr</key>
   <string>gecyr.glif</string>
   <key>geupcyr</key>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tecyr" format="2">
-  <advance width="464"/>
+  <advance width="463"/>
   <unicode hex="0442"/>
   <outline>
     <contour>
-      <point x="444" y="500" type="line"/>
-      <point x="444" y="426" type="line"/>
-      <point x="272" y="426" type="line"/>
+      <point x="443" y="500" type="line"/>
+      <point x="443" y="425" type="line"/>
+      <point x="272" y="425" type="line"/>
       <point x="272" y="0" type="line"/>
-      <point x="192" y="0" type="line"/>
-      <point x="192" y="426" type="line"/>
-      <point x="20" y="426" type="line"/>
+      <point x="191" y="0" type="line"/>
+      <point x="191" y="425" type="line"/>
+      <point x="20" y="425" type="line"/>
       <point x="20" y="500" type="line"/>
     </contour>
   </outline>
@@ -21,7 +21,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w464m444,500l444,426l272,426l272,0l192,0l192,426l20,426l20,500</string>
+    <string>w463m443,500l443,425l272,425l272,0l191,0l191,425l20,425l20,500</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -29,7 +29,7 @@
         <array>
           <string>hstem 21 -21</string>
           <string>hstem 423 77</string>
-          <string>vstem 111.5 80.5</string>
+          <string>vstem 110.5 80.5</string>
         </array>
       </dict>
     </array>

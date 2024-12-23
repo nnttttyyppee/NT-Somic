@@ -1,36 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aogonek" format="2">
-  <advance width="546"/>
+  <advance width="545"/>
   <unicode hex="0105"/>
+  <anchor x="268" y="500" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="ogonek" xOffset="267"/>
+    <component base="ogonek" xOffset="266"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>a+>~ogonek</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w546</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -14 104</string>
-          <string>hstem 217 90</string>
-          <string>hstem 220 84.5</string>
-          <string>hstem 410 104</string>
-          <string>vstem 32 126</string>
-          <string>vstem 366 124</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

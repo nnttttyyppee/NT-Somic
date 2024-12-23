@@ -4,32 +4,32 @@
   <anchor x="145" y="700" name="_top"/>
   <outline>
     <contour>
-      <point x="145" y="786" type="curve" smooth="yes"/>
-      <point x="80" y="786"/>
-      <point x="31" y="833"/>
-      <point x="31" y="898" type="curve" smooth="yes"/>
-      <point x="31" y="963"/>
-      <point x="80" y="1010"/>
-      <point x="145" y="1010" type="curve" smooth="yes"/>
-      <point x="210" y="1010"/>
-      <point x="259" y="963"/>
-      <point x="259" y="898" type="curve" smooth="yes"/>
-      <point x="259" y="833"/>
-      <point x="210" y="786"/>
+      <point x="145" y="766" type="curve" smooth="yes"/>
+      <point x="210" y="766"/>
+      <point x="259" y="813"/>
+      <point x="259" y="878" type="curve" smooth="yes"/>
+      <point x="259" y="943"/>
+      <point x="210" y="990"/>
+      <point x="145" y="990" type="curve" smooth="yes"/>
+      <point x="80" y="990"/>
+      <point x="31" y="943"/>
+      <point x="31" y="878" type="curve" smooth="yes"/>
+      <point x="31" y="813"/>
+      <point x="80" y="766"/>
     </contour>
     <contour>
-      <point x="145" y="842" type="curve" smooth="yes"/>
-      <point x="175" y="842"/>
-      <point x="199" y="866"/>
-      <point x="199" y="898" type="curve" smooth="yes"/>
-      <point x="199" y="930"/>
-      <point x="175" y="954"/>
-      <point x="145" y="954" type="curve" smooth="yes"/>
-      <point x="115" y="954"/>
-      <point x="91" y="930"/>
-      <point x="91" y="898" type="curve" smooth="yes"/>
-      <point x="91" y="866"/>
-      <point x="115" y="842"/>
+      <point x="145" y="822" type="curve" smooth="yes"/>
+      <point x="115" y="822"/>
+      <point x="91" y="846"/>
+      <point x="91" y="878" type="curve" smooth="yes"/>
+      <point x="91" y="910"/>
+      <point x="115" y="934"/>
+      <point x="145" y="934" type="curve" smooth="yes"/>
+      <point x="175" y="934"/>
+      <point x="199" y="910"/>
+      <point x="199" y="878" type="curve" smooth="yes"/>
+      <point x="199" y="846"/>
+      <point x="175" y="822"/>
     </contour>
   </outline>
   <lib>

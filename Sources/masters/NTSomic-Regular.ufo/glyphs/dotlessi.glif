@@ -5,10 +5,10 @@
   <anchor x="116" y="500" name="top"/>
   <outline>
     <contour>
-      <point x="76" y="500" type="line"/>
-      <point x="156" y="500" type="line"/>
-      <point x="156" y="0" type="line"/>
       <point x="76" y="0" type="line"/>
+      <point x="156" y="0" type="line"/>
+      <point x="156" y="500" type="line"/>
+      <point x="76" y="500" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w232m76,500l156,500l156,0l76,0</string>
+    <string>w232m76,0l156,0l156,500l76,500</string>
     <key>hintSetList</key>
     <array>
       <dict>

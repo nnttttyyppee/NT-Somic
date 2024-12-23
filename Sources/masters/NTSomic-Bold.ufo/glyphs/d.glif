@@ -3,7 +3,40 @@
   <advance width="622"/>
   <unicode hex="0064"/>
   <outline>
-    <component base="b" xScale="-1" xOffset="622"/>
+    <contour>
+      <point x="432" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="562" y="722" type="line"/>
+      <point x="432" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="268.194" y="-14" type="curve" smooth="yes"/>
+      <point x="397" y="-14"/>
+      <point x="483" y="87"/>
+      <point x="483" y="250.477" type="curve" smooth="yes"/>
+      <point x="483" y="413"/>
+      <point x="398" y="514"/>
+      <point x="269.194" y="514" type="curve" smooth="yes"/>
+      <point x="136" y="514"/>
+      <point x="36" y="406"/>
+      <point x="36" y="249.608" type="curve" smooth="yes"/>
+      <point x="36" y="94"/>
+      <point x="135" y="-14"/>
+    </contour>
+    <contour>
+      <point x="299" y="106" type="curve" smooth="yes"/>
+      <point x="224" y="106"/>
+      <point x="168" y="166"/>
+      <point x="168" y="250" type="curve" smooth="yes"/>
+      <point x="168" y="334"/>
+      <point x="224" y="394"/>
+      <point x="299" y="394" type="curve" smooth="yes"/>
+      <point x="376" y="394"/>
+      <point x="432" y="334"/>
+      <point x="432" y="250" type="curve" smooth="yes"/>
+      <point x="432" y="166"/>
+      <point x="376" y="106"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -12,7 +45,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w622</string>
+    <string>47d8cf780ebaba1688e734f72e8943117fed7a5fe45427c02a63f1f6863316c8ef128872de56fd52449d9bc533d5802a336cc1401f99b0feba5825964871ff13</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -21,8 +54,13 @@
           <string>hstem -14 124</string>
           <string>hstem 390 124</string>
           <string>hstem 514 -20</string>
+          <string>hstem 700 -20</string>
+          <string>vstem -40 128</string>
+          <string>vstem 32 122</string>
           <string>vstem 44 122</string>
+          <string>vstem 362 126</string>
           <string>vstem 444 128</string>
+          <string>vstem 456 126</string>
         </array>
       </dict>
     </array>

@@ -362,5 +362,51 @@
     <string>y</string>
     <string>ydieresis</string>
   </array>
+  <key>ss01</key>
+  <array>
+    <string>a</string>
+    <string>acyr</string>
+    <string>acircumflex</string>
+    <string>agrave</string>
+    <string>aacute</string>
+    <string>atilde</string>
+    <string>adieresis</string>
+    <string>aring</string>
+    <string>amacron</string>
+    <string>abreve</string>
+    <string>aogonek</string>
+    <string>adieresiscyr</string>
+    <string>abrevecyr</string>
+  </array>
+  <key>ss012</key>
+  <array>
+    <string>a.ss01</string>
+    <string>acyr.ss01</string>
+    <string>acircumflex.ss01</string>
+    <string>agrave.ss01</string>
+    <string>aacute.ss01</string>
+    <string>atilde.ss01</string>
+    <string>adieresis.ss01</string>
+    <string>aring.ss01</string>
+    <string>amacron.ss01</string>
+    <string>abreve.ss01</string>
+    <string>aogonek.ss01</string>
+    <string>adieresiscyr.ss01</string>
+    <string>abrevecyr.ss01</string>
+  </array>
+  <key>ss02</key>
+  <array>
+    <string>g</string>
+    <string>gcircumflex</string>
+    <string>gbreve</string>
+    <string>gdotaccent</string>
+  </array>
+  <key>ss022</key>
+  <array>
+    <string>g.ss02</string>
+    <string>gcircumflex.ss02</string>
+    <string>gbreve.ss02</string>
+    <string>gdotaccent.ss02</string>
+  </array>
 </dict>
 </plist>

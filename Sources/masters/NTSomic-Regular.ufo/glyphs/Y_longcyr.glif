@@ -5,34 +5,34 @@
   <anchor x="432" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="772" y="700" type="line"/>
-      <point x="772" y="0" type="line"/>
       <point x="685" y="0" type="line"/>
+      <point x="772" y="0" type="line"/>
+      <point x="772" y="700" type="line"/>
       <point x="685" y="700" type="line"/>
     </contour>
     <contour>
       <point x="92" y="0" type="line"/>
-      <point x="92" y="700" type="line"/>
-      <point x="179" y="700" type="line"/>
-      <point x="179" y="444" type="line"/>
-      <point x="349" y="444" type="line" smooth="yes"/>
-      <point x="490" y="444"/>
-      <point x="581" y="354"/>
-      <point x="581" y="222" type="curve" smooth="yes"/>
-      <point x="581" y="90"/>
+      <point x="349" y="0" type="line" smooth="yes"/>
       <point x="490" y="0"/>
-      <point x="349" y="0" type="curve" smooth="yes"/>
+      <point x="581" y="90"/>
+      <point x="581" y="222" type="curve" smooth="yes"/>
+      <point x="581" y="354"/>
+      <point x="490" y="444"/>
+      <point x="349" y="444" type="curve" smooth="yes"/>
+      <point x="179" y="444" type="line"/>
+      <point x="179" y="700" type="line"/>
+      <point x="92" y="700" type="line"/>
     </contour>
     <contour>
       <point x="179" y="81" type="line"/>
-      <point x="339" y="81" type="line" smooth="yes"/>
-      <point x="433" y="81"/>
-      <point x="493" y="135"/>
-      <point x="493" y="222" type="curve" smooth="yes"/>
-      <point x="493" y="309"/>
-      <point x="433" y="363"/>
-      <point x="339" y="363" type="curve" smooth="yes"/>
       <point x="179" y="363" type="line"/>
+      <point x="339" y="363" type="line" smooth="yes"/>
+      <point x="433" y="363"/>
+      <point x="493" y="309"/>
+      <point x="493" y="222" type="curve" smooth="yes"/>
+      <point x="493" y="135"/>
+      <point x="433" y="81"/>
+      <point x="339" y="81" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9160a17bf54775cfdc44b7324f08ac4794b72e0c28c271c4173043f1e16116d07d94ed9f15ab8e441c1d1e83a051587271e4fa345c54ffbe1389e2c694e4f6d4</string>
+    <string>301f9215902ec0c277f139f08a3b55cf8b8d49235f71537e7325f98cdb6602feae4d92d3d5d9a3c0eb1d98c2bc6c1615faaf6f7c88e70d41d757e4179a1ff3a8</string>
     <key>hintSetList</key>
     <array>
       <dict>

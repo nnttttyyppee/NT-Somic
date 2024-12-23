@@ -4,12 +4,14 @@
   <unicode hex="0439"/>
   <outline>
     <component base="icyr"/>
-    <component base="breve" xOffset="95"/>
+    <component base="brevecyr" xOffset="95"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>afii10074+brevecyr</string>
   </dict>
   </lib>
 </glyph>

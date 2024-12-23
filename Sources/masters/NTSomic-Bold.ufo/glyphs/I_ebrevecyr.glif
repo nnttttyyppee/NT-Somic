@@ -4,14 +4,14 @@
   <unicode hex="04D6"/>
   <outline>
     <component base="E"/>
-    <component base="breve.case" xOffset="80"/>
+    <component base="brevecyr.case" xOffset="80"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>E+breve.case</string>
+  <string>E+brevecyr.case</string>
   </dict>
   </lib>
 </glyph>

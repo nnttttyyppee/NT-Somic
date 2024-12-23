@@ -444,6 +444,11 @@
     <string>dotaccentsmoll</string>
     <string>Idotaccent</string>
     <string>dotaccentsmoll.case</string>
+    <string>brevecyr</string>
+    <string>brevecyr.case</string>
+    <string>abrevecyr.ss01</string>
+    <string>adieresiscyr.ss01</string>
+    <string>gdotaccent.ss02</string>
   </array>
 </dict>
 </plist>

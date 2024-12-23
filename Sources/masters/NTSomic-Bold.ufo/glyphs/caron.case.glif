@@ -4,11 +4,11 @@
   <anchor x="248" y="700" name="_top"/>
   <outline>
     <contour>
-      <point x="95" y="971" type="line"/>
-      <point x="248" y="876" type="line"/>
-      <point x="401" y="971" type="line"/>
-      <point x="459" y="880" type="line"/>
       <point x="248" y="752" type="line"/>
+      <point x="459" y="880" type="line"/>
+      <point x="401" y="971" type="line"/>
+      <point x="248" y="876" type="line"/>
+      <point x="95" y="971" type="line"/>
       <point x="37" y="880" type="line"/>
     </contour>
   </outline>

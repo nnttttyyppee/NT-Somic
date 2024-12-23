@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Shchacyr" format="2">
-  <advance width="1003"/>
+  <advance width="999"/>
   <unicode hex="0429"/>
   <outline>
     <contour>
       <point x="92" y="0" type="line"/>
-      <point x="875" y="0" type="line"/>
-      <point x="875" y="-154" type="line"/>
-      <point x="961" y="-154" type="line"/>
-      <point x="961" y="80" type="line"/>
-      <point x="861" y="80" type="line"/>
+      <point x="871" y="0" type="line"/>
+      <point x="871" y="-154" type="line"/>
+      <point x="957" y="-154" type="line"/>
+      <point x="957" y="81" type="line"/>
+      <point x="861" y="81" type="line"/>
       <point x="861" y="700" type="line"/>
       <point x="774" y="700" type="line"/>
-      <point x="774" y="80" type="line"/>
-      <point x="520" y="80" type="line"/>
+      <point x="774" y="81" type="line"/>
+      <point x="520" y="81" type="line"/>
       <point x="520" y="700" type="line"/>
       <point x="433" y="700" type="line"/>
-      <point x="433" y="80" type="line"/>
-      <point x="179" y="80" type="line"/>
+      <point x="433" y="81" type="line"/>
+      <point x="179" y="81" type="line"/>
       <point x="179" y="700" type="line"/>
       <point x="92" y="700" type="line"/>
     </contour>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1003m92,0l875,0l875,-154l961,-154l961,80l861,80l861,700l774,700l774,80l520,80l520,700l433,700l433,80l179,80l179,700l92,700</string>
+    <string>w999m92,0l871,0l871,-154l957,-154l957,81l861,81l861,700l774,700l774,81l520,81l520,700l433,700l433,81l179,81l179,700l92,700</string>
     <key>hintSetList</key>
     <array>
       <dict>

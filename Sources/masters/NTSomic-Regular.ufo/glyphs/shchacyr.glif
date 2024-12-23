@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shchacyr" format="2">
-  <advance width="783"/>
+  <advance width="789"/>
   <unicode hex="0449"/>
   <outline>
     <contour>
@@ -16,10 +16,10 @@
       <point x="598" y="500" type="line"/>
       <point x="679" y="500" type="line"/>
       <point x="679" y="75" type="line"/>
-      <point x="757" y="75" type="line"/>
-      <point x="757" y="-130" type="line"/>
-      <point x="677" y="-130" type="line"/>
-      <point x="677" y="0" type="line"/>
+      <point x="761" y="75" type="line"/>
+      <point x="761" y="-130" type="line"/>
+      <point x="681" y="-130" type="line"/>
+      <point x="681" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w783m76,0l76,500l157,500l157,75l337,75l337,500l418,500l418,75l598,75l598,500l679,500l679,75l757,75l757,-130l677,-130l677,0</string>
+    <string>w789m76,0l76,500l157,500l157,75l337,75l337,500l418,500l418,75l598,75l598,500l679,500l679,75l761,75l761,-130l681,-130l681,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

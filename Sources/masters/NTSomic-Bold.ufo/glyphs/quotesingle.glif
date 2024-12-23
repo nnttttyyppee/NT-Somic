@@ -4,10 +4,10 @@
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="54" y="700" type="line"/>
-      <point x="164" y="700" type="line"/>
-      <point x="153" y="402" type="line"/>
-      <point x="65" y="402" type="line"/>
+      <point x="55" y="405" type="line"/>
+      <point x="163" y="405" type="line"/>
+      <point x="174" y="700" type="line"/>
+      <point x="44" y="700" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="653"/>
@@ -18,7 +18,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w218m54,700l164,700l153,402l65,402</string>
+    <string>w218m55,405l163,405l174,700l44,700</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -26,7 +26,7 @@
         <array>
           <string>hstem 423 -21</string>
           <string>hstem 700 -20</string>
-          <string>vstem 58 97.5</string>
+          <string>vstem -136 97.5</string>
         </array>
       </dict>
     </array>

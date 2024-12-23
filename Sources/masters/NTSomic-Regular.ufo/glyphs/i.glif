@@ -1,37 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="2">
-  <advance width="233"/>
+  <advance width="232"/>
   <unicode hex="0069"/>
   <outline>
+    <component base="dotlessi"/>
     <component base="dotaccent"/>
-    <contour>
-      <point x="76" y="500" type="line"/>
-      <point x="157" y="500" type="line"/>
-      <point x="157" y="0" type="line"/>
-      <point x="76" y="0" type="line"/>
-    </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w233m76,500l157,500l157,0l76,0</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 594 108</string>
-          <string>vstem -46 108</string>
-          <string>vstem 0 157</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+dotaccent</string>
   </dict>
   </lib>
 </glyph>

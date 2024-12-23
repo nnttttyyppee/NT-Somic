@@ -33,10 +33,10 @@
       <point x="573" y="66"/>
     </contour>
     <contour>
-      <point x="108" y="328" type="line"/>
-      <point x="722" y="328" type="line"/>
-      <point x="722" y="406" type="line"/>
-      <point x="108" y="406" type="line"/>
+      <point x="108" y="323" type="line"/>
+      <point x="722" y="323" type="line"/>
+      <point x="722" y="401" type="line"/>
+      <point x="108" y="401" type="line"/>
     </contour>
   </outline>
   <lib>

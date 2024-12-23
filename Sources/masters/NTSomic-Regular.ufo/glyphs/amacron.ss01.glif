@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="amacron.ss01" format="2">
   <advance width="633"/>
+  <anchor x="557" y="0" name="bottom"/>
   <outline>
-    <component base="macron" xOffset="148" yOffset="4"/>
     <component base="a.ss01"/>
+    <component base="macron" xOffset="142"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>a+macron</string>
+  <string>a.ss01+macron</string>
   </dict>
   </lib>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="2">
-  <advance width="248"/>
+  <advance width="250"/>
   <unicode hex="0131"/>
-  <anchor x="124" y="500" name="top"/>
+  <anchor x="125" y="500" name="top"/>
   <outline>
     <contour>
-      <point x="60" y="500" type="line"/>
-      <point x="188" y="500" type="line"/>
-      <point x="188" y="0" type="line"/>
       <point x="60" y="0" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="190" y="500" type="line"/>
+      <point x="60" y="500" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w248m60,500l188,500l188,0l60,0</string>
+    <string>w250m60,0l190,0l190,500l60,500</string>
     <key>hintSetList</key>
     <array>
       <dict>

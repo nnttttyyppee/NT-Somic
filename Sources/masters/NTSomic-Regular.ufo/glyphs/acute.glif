@@ -4,7 +4,12 @@
   <unicode hex="00B4"/>
   <anchor x="128" y="500" name="_top"/>
   <outline>
-    <component base="grave" xScale="-1" xOffset="256"/>
+    <contour>
+      <point x="49" y="565" type="line"/>
+      <point x="246" y="687" type="line"/>
+      <point x="205" y="749" type="line"/>
+      <point x="10" y="627" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

@@ -3,19 +3,12 @@
   <advance width="736"/>
   <unicode hex="041D"/>
   <outline>
-    <contour>
-      <point x="78" y="0" type="line"/>
-      <point x="222" y="0" type="line"/>
-      <point x="222" y="305" type="line"/>
-      <point x="514" y="305" type="line"/>
-      <point x="514" y="0" type="line"/>
-      <point x="658" y="0" type="line"/>
-      <point x="658" y="700" type="line"/>
-      <point x="514" y="700" type="line"/>
-      <point x="514" y="437" type="line"/>
-      <point x="222" y="437" type="line"/>
-      <point x="222" y="700" type="line"/>
-      <point x="78" y="700" type="line"/>
-    </contour>
+    <component base="H"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

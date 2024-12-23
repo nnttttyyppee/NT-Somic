@@ -3,35 +3,15 @@
   <advance width="250"/>
   <unicode hex="0069"/>
   <outline>
+    <component base="dotlessi"/>
     <component base="dotaccent"/>
-    <contour>
-      <point x="60" y="500" type="line"/>
-      <point x="190" y="500" type="line"/>
-      <point x="190" y="0" type="line"/>
-      <point x="60" y="0" type="line"/>
-    </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w250m60,500l190,500l190,0l60,0</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 585 154</string>
-          <string>vstem 0 190</string>
-          <string>vstem 47 152</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+dotaccent</string>
   </dict>
   </lib>
 </glyph>

@@ -2,26 +2,4 @@
 <glyph name="onesuperior" format="2">
   <advance width="218"/>
   <unicode hex="00B9"/>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w218</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 419.76 -21</string>
-          <string>hstem 788.8 -20</string>
-          <string>vstem 120.76 75.04</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

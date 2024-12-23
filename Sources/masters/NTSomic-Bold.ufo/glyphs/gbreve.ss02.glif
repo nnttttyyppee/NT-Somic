@@ -3,12 +3,14 @@
   <advance width="608"/>
   <outline>
     <component base="g.ss02"/>
-    <component base="breve" xOffset="96"/>
+    <component base="breve" xOffset="90"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>g+breve</string>
+  <string>g.ss02+breve</string>
   </dict>
   </lib>
 </glyph>

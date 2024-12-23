@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abrevecyr.ss01" format="2">
+  <advance width="633"/>
+  <anchor x="557" y="0" name="bottom"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="brevecyr" xOffset="114"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a.ss01+brevecyr</string>
+  </dict>
+  </lib>
+</glyph>

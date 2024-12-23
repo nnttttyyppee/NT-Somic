@@ -2,16 +2,17 @@
 <glyph name="Abrevecyr" format="2">
   <advance width="662"/>
   <unicode hex="04D0"/>
+  <anchor x="636" y="0" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="breve.case" xOffset="115"/>
+    <component base="brevecyr.case" xOffset="115"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>A+breve.case</string>
+  <string>A+brevecyr.case</string>
   </dict>
   </lib>
 </glyph>

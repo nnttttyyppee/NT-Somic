@@ -2,10 +2,10 @@
 <glyph name="scaron" format="2">
   <advance width="503"/>
   <unicode hex="0161"/>
-  <anchor x="265" y="0" name="bottom"/>
+  <anchor x="257" y="0" name="bottom"/>
   <outline>
     <component base="s"/>
-    <component base="caron" xOffset="55"/>
+    <component base="caron" xOffset="53"/>
   </outline>
   <lib>
   <dict>

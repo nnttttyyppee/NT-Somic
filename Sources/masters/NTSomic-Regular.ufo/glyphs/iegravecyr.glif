@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iegravecyr" format="2">
-  <advance width="586"/>
+  <advance width="580"/>
   <unicode hex="0450"/>
   <outline>
     <component base="iecyr"/>
-    <component base="grave" xOffset="169"/>
+    <component base="grave" xOffset="170"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>afii10070+grave</string>
   </dict>

@@ -2,36 +2,37 @@
 <glyph name="ylongcyr" format="2">
   <advance width="698"/>
   <unicode hex="044B"/>
+  <anchor x="349" y="500" name="top"/>
   <outline>
     <contour>
-      <point x="541" y="500" type="line"/>
-      <point x="622" y="500" type="line"/>
-      <point x="622" y="0" type="line"/>
       <point x="541" y="0" type="line"/>
+      <point x="622" y="0" type="line"/>
+      <point x="622" y="500" type="line"/>
+      <point x="541" y="500" type="line"/>
     </contour>
     <contour>
       <point x="157" y="73" type="line"/>
-      <point x="271" y="73" type="line" smooth="yes"/>
-      <point x="334" y="73"/>
-      <point x="373" y="110"/>
-      <point x="373" y="167" type="curve" smooth="yes"/>
-      <point x="373" y="223"/>
-      <point x="334" y="259"/>
-      <point x="271" y="259" type="curve" smooth="yes"/>
       <point x="157" y="259" type="line"/>
+      <point x="271" y="259" type="line" smooth="yes"/>
+      <point x="334" y="259"/>
+      <point x="373" y="223"/>
+      <point x="373" y="167" type="curve" smooth="yes"/>
+      <point x="373" y="110"/>
+      <point x="334" y="73"/>
+      <point x="271" y="73" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="283" y="0" type="curve" smooth="yes"/>
       <point x="76" y="0" type="line"/>
-      <point x="76" y="500" type="line"/>
-      <point x="157" y="500" type="line"/>
-      <point x="157" y="332" type="line"/>
-      <point x="281" y="332" type="line" smooth="yes"/>
-      <point x="385" y="332"/>
-      <point x="455" y="265"/>
-      <point x="455" y="166" type="curve" smooth="yes"/>
-      <point x="455" y="69"/>
+      <point x="283" y="0" type="line" smooth="yes"/>
       <point x="386" y="0"/>
+      <point x="455" y="69"/>
+      <point x="455" y="166" type="curve" smooth="yes"/>
+      <point x="455" y="265"/>
+      <point x="385" y="332"/>
+      <point x="281" y="332" type="curve" smooth="yes"/>
+      <point x="157" y="332" type="line"/>
+      <point x="157" y="500" type="line"/>
+      <point x="76" y="500" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +42,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>dd396dcd21924a5ca38b3f597d0944540bef9def9f9e1d2eee59c415b08488623aba137da974fda7240c5271b344055d12f54a9c3073008d4f0d25020ea9cf0f</string>
+    <string>7d13e43832ee791028061b6fce44ab7547e80343fb9f8cfc123ad06cff89befa0eb2fd0bfe718ffd9af918f3629a577e98379c8bf5adf065b0cba3de50c2ad86</string>
     <key>hintSetList</key>
     <array>
       <dict>

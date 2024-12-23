@@ -4,10 +4,12 @@
   <unicode hex="04E5"/>
   <outline>
     <component base="icyr"/>
-    <component base="dieresis" xOffset="98"/>
+    <component base="dieresis" xOffset="99"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>afii10074+dieresis</string>
   </dict>

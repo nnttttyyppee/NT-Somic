@@ -17,9 +17,9 @@
       <point x="123" y="500" type="line"/>
       <point x="123" y="316" type="line" smooth="yes"/>
       <point x="123" y="129"/>
-      <point x="105" y="76"/>
-      <point x="36" y="76" type="curve" smooth="yes"/>
-      <point x="24" y="76" type="line"/>
+      <point x="104" y="79"/>
+      <point x="36" y="79" type="curve" smooth="yes"/>
+      <point x="24" y="79" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w562m24,-2l44,-2c161,-2 203,76 203,296l203,425l405,425l405,0l486,0l486,500l123,500l123,316c123,129 105,76 36,76l24,76</string>
+    <string>w562m24,-2l44,-2c161,-2 203,76 203,296l203,425l405,425l405,0l486,0l486,500l123,500l123,316c123,129 104,79 36,79l24,79</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -8,14 +8,14 @@
       <point x="232.171" y="-14" type="curve" smooth="yes"/>
       <point x="350" y="-14"/>
       <point x="431" y="46"/>
-      <point x="431" y="140.926" type="curve" smooth="yes"/>
-      <point x="431" y="214"/>
-      <point x="383" y="264"/>
-      <point x="306" y="272" type="curve"/>
-      <point x="306" y="254" type="line"/>
-      <point x="380" y="268"/>
-      <point x="419" y="309"/>
-      <point x="419" y="371.998" type="curve" smooth="yes"/>
+      <point x="431" y="139.231" type="curve" smooth="yes"/>
+      <point x="431" y="211"/>
+      <point x="383" y="261"/>
+      <point x="306" y="269" type="curve"/>
+      <point x="306" y="251" type="line"/>
+      <point x="380" y="265"/>
+      <point x="419" y="306"/>
+      <point x="419" y="370.275" type="curve" smooth="yes"/>
       <point x="419" y="457"/>
       <point x="348" y="514"/>
       <point x="237.152" y="514" type="curve" smooth="yes"/>
@@ -28,16 +28,16 @@
       <point x="234.951" y="444" type="curve" smooth="yes"/>
       <point x="301" y="444"/>
       <point x="344" y="412"/>
-      <point x="344" y="366.047" type="curve" smooth="yes"/>
-      <point x="344" y="324"/>
-      <point x="308" y="299"/>
-      <point x="254" y="299" type="curve" smooth="yes"/>
-      <point x="148" y="299" type="line"/>
-      <point x="148" y="228" type="line"/>
-      <point x="254" y="228" type="line" smooth="yes"/>
-      <point x="313" y="228"/>
-      <point x="355" y="196"/>
-      <point x="355" y="145.522" type="curve" smooth="yes"/>
+      <point x="344" y="364.48" type="curve" smooth="yes"/>
+      <point x="344" y="321"/>
+      <point x="308" y="296"/>
+      <point x="254" y="296" type="curve" smooth="yes"/>
+      <point x="148" y="296" type="line"/>
+      <point x="148" y="226" type="line"/>
+      <point x="254" y="226" type="line" smooth="yes"/>
+      <point x="313" y="226"/>
+      <point x="355" y="194"/>
+      <point x="355" y="144.484" type="curve" smooth="yes"/>
       <point x="355" y="91"/>
       <point x="306" y="56"/>
       <point x="232.331" y="56" type="curve" smooth="yes"/>
@@ -56,7 +56,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0707c977170499ecd01256362c5ce64c616ee0a777505b2e3e4b706d3fc577e8bfbdded2dc2747ef44cc3e7527ba249ad7efc1b8ec2dc4f233736c7b13004e24</string>
+    <string>03566de508e4ff568990f292e3ca35882f2d045197f50ff9c87583522bfad0933b0f7aea95e2754cd4d326a9c790c27c297f7fcd857c121387dac7fb2a118515</string>
     <key>hintSetList</key>
     <array>
       <dict>

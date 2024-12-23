@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="2">
-  <advance width="201"/>
+  <advance width="199"/>
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="63" y="700" type="line"/>
-      <point x="135" y="700" type="line"/>
-      <point x="130" y="470" type="line"/>
-      <point x="68" y="470" type="line"/>
+      <point x="64" y="454" type="line"/>
+      <point x="135" y="454" type="line"/>
+      <point x="138" y="700" type="line"/>
+      <point x="61" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,7 +17,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w201m63,700l135,700l130,470l68,470</string>
+    <string>w199m64,454l135,454l138,700l61,700</string>
     <key>hintSetList</key>
     <array>
       <dict>

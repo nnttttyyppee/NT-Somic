@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ylongdieresiscyr" format="2">
-  <advance width="729"/>
+  <advance width="730"/>
   <unicode hex="04F9"/>
   <outline>
     <component base="ylongcyr"/>
@@ -8,6 +8,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>afii10093+dieresis</string>
   </dict>

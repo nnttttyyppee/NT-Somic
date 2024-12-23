@@ -4,10 +4,10 @@
   <unicode hex="0025"/>
   <outline>
     <contour>
-      <point x="132" y="45" type="line"/>
-      <point x="611" y="716" type="line"/>
-      <point x="701" y="655" type="line"/>
       <point x="222" y="-16" type="line"/>
+      <point x="701" y="655" type="line"/>
+      <point x="611" y="716" type="line"/>
+      <point x="132" y="45" type="line"/>
     </contour>
     <contour>
       <point x="198" y="338" type="curve" smooth="yes"/>
@@ -73,7 +73,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b5dfc1da4c08ea5921e779b20571053d4eba79b79018e0e30bfec69cfd3384060c16178921cc0bb853a41a2d1c6797ecdc931c5aba6678143ca0fe387697444d</string>
+    <string>47afb72f156dbac4b77ad26befb4c4abf0f575b3b08eb9cc4ea923a22bd6ffef31bd2438fa13ad97c1cf894cf8826770cad2efeb877fed09f858e59c023339f3</string>
     <key>hintSetList</key>
     <array>
       <dict>

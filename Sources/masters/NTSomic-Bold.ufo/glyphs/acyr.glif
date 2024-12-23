@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acyr" format="2">
-  <advance width="546"/>
+  <advance width="545"/>
   <unicode hex="0430"/>
+  <anchor x="268" y="500" name="top"/>
+  <anchor x="489" y="0" name="bottom"/>
   <outline>
     <component base="a"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

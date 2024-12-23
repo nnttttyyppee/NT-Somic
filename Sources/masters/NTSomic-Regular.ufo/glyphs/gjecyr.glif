@@ -4,12 +4,14 @@
   <unicode hex="0453"/>
   <outline>
     <component base="gecyr"/>
-    <component base="acute" xOffset="123"/>
+    <component base="acute" xOffset="111"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>gecyr+acutecomb</string>
+  <string>gecyr+acute</string>
   </dict>
   </lib>
 </glyph>

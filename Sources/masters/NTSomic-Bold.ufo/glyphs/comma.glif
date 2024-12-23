@@ -4,26 +4,26 @@
   <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="28" y="74.0213" type="curve" smooth="yes"/>
-      <point x="28" y="120"/>
-      <point x="64" y="154"/>
-      <point x="110.127" y="154" type="curve" smooth="yes"/>
-      <point x="162" y="154"/>
-      <point x="200" y="111"/>
-      <point x="200" y="43.8011" type="curve" smooth="yes"/>
-      <point x="200" y="-26"/>
-      <point x="159" y="-104"/>
-      <point x="87" y="-167" type="curve"/>
-      <point x="32" y="-114" type="line"/>
-      <point x="79" y="-71"/>
-      <point x="106" y="-34"/>
-      <point x="118" y="7" type="curve"/>
-      <point x="137" y="0" type="line"/>
-      <point x="132" y="-2"/>
-      <point x="122" y="-6"/>
       <point x="106.75" y="-6" type="curve" smooth="yes"/>
-      <point x="61" y="-6"/>
+      <point x="122" y="-6"/>
+      <point x="132" y="-2"/>
+      <point x="137" y="0" type="curve"/>
+      <point x="118" y="7" type="line"/>
+      <point x="106" y="-34"/>
+      <point x="79" y="-71"/>
+      <point x="32" y="-114" type="curve"/>
+      <point x="87" y="-167" type="line"/>
+      <point x="159" y="-104"/>
+      <point x="200" y="-26"/>
+      <point x="200" y="43.8011" type="curve" smooth="yes"/>
+      <point x="200" y="111"/>
+      <point x="162" y="154"/>
+      <point x="110.127" y="154" type="curve" smooth="yes"/>
+      <point x="64" y="154"/>
+      <point x="28" y="120"/>
+      <point x="28" y="74.0213" type="curve" smooth="yes"/>
       <point x="28" y="30"/>
+      <point x="61" y="-6"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5d27a0c8bab316f2563374435feed60ce96e700b00c72c5953e48ca0986a1e3b4068aa74b1b0a84c253b39d6ae65e398a6fcb144ee370eba3ec9346ee6c1743c</string>
+    <string>30e0444a6cc8cb259bf94183f282cf4a56994c8aa295ed7a4050c0c66ab2cc5362738aec0f6783970e6b3dd68a75da23b650b15c4033cbe37ffc998b96e51e93</string>
     <key>hintSetList</key>
     <array>
       <dict>

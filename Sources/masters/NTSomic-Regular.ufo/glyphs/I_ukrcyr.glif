@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iukrcyr" format="2">
-  <advance width="268"/>
+  <advance width="270"/>
   <unicode hex="0406"/>
+  <anchor x="135" y="700" name="top"/>
   <outline>
-    <component base="I" xOffset="-1"/>
+    <component base="I"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

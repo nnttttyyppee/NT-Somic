@@ -1,3 +1,12 @@
+#> classes
+#/> otclasses
+@ss01 = [a acyr acircumflex agrave aacute atilde adieresis aring amacron abreve aogonek adieresiscyr abrevecyr];
+@ss012 = [a.ss01 acyr.ss01 acircumflex.ss01 agrave.ss01 aacute.ss01 atilde.ss01 adieresis.ss01 aring.ss01 amacron.ss01 abreve.ss01 aogonek.ss01 adieresiscyr.ss01 abrevecyr.ss01];
+@ss02 = [g gcircumflex gbreve gdotaccent];
+@ss022 = [g.ss02 gcircumflex.ss02 gbreve.ss02 gdotaccent.ss02];
+#/< otclasses
+#< classes
+
 ###
 # OpenType Layout feature definitions
 # Format: Adobe FDK for OpenType (AFDKO) version 2.5
@@ -56,20 +65,9 @@ feature ss01 {
 
   featureNames {
     name "Alt a";
-    name 1 "Alt a";
   };
 
-sub a by a.ss01;
-sub acyr by acyr.ss01;
-sub aacute by aacute.ss01;
-sub abreve by abreve.ss01;
-sub acircumflex by acircumflex.ss01;
-sub adieresis by adieresis.ss01;
-sub agrave by agrave.ss01;
-sub amacron by amacron.ss01;
-sub aogonek by aogonek.ss01;
-sub aring by aring.ss01;
-sub atilde by atilde.ss01;
+  sub @ss01 by @ss012;
 
 } ss01;
 feature dlig {
@@ -87,12 +85,9 @@ feature ss02 {
 
   featureNames {
     name "Alt g";
-    name 1 "Alt g";
   };
 
-sub g by g.ss02;
-sub gbreve by gbreve.ss02;
-sub gcircumflex by gcircumflex.ss02;
+  sub @ss02 by @ss022;
 
 } ss02;
 feature sups {
@@ -109,6 +104,7 @@ feature ordn {
 
 #> feature
   sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+  sub N o period by numero;
 #< feature
 } ordn;
 feature salt {
@@ -119,9 +115,11 @@ feature salt {
   sub a from [a.ss01];
   sub aacute from [aacute.ss01];
   sub abreve from [abreve.ss01];
+  sub abrevecyr from [abrevecyr.ss01];
   sub acircumflex from [acircumflex.ss01];
   sub acyr from [acyr.ss01];
   sub adieresis from [adieresis.ss01];
+  sub adieresiscyr from [adieresiscyr.ss01];
   sub agrave from [agrave.ss01];
   sub amacron from [amacron.ss01];
   sub aogonek from [aogonek.ss01];
@@ -130,6 +128,7 @@ feature salt {
   sub g from [g.ss02];
   sub gbreve from [gbreve.ss02];
   sub gcircumflex from [gcircumflex.ss02];
+  sub gdotaccent from [gdotaccent.ss02];
 #< feature
 } salt;
 feature case {
@@ -138,10 +137,13 @@ feature case {
 #> feature
   sub acute by acute.case;
   sub breve by breve.case;
+  sub brevecyr by brevecyr.case;
   sub caron by caron.case;
+  sub cedilla by cedilla.case;
   sub circumflex by circumflex.case;
   sub dieresis by dieresis.case;
   sub dotaccent by dotaccent.case;
+  sub dotaccentsmoll by dotaccentsmoll.case;
   sub grave by grave.case;
   sub macron by macron.case;
   sub ring by ring.case;

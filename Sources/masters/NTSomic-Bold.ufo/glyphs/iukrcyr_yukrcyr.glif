@@ -6,16 +6,16 @@
     <component base="dotaccentsmoll" xOffset="180"/>
     <component base="dotaccentsmoll" xOffset="-14"/>
     <contour>
-      <point x="60" y="500" type="line"/>
-      <point x="188" y="500" type="line"/>
-      <point x="188" y="0" type="line"/>
       <point x="60" y="0" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="188" y="500" type="line"/>
+      <point x="60" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="308" y="500" type="line"/>
-      <point x="436" y="500" type="line"/>
-      <point x="436" y="0" type="line"/>
       <point x="308" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="436" y="500" type="line"/>
+      <point x="308" y="500" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w508m60,500l188,500l188,0l60,0m308,500l436,500l436,0l308,0</string>
+    <string>w508m60,0l188,0l188,500l60,500m308,0l436,0l436,500l308,500</string>
     <key>hintSetList</key>
     <array>
       <dict>

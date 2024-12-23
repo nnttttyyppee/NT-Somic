@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tsecyr" format="2">
-  <advance width="612"/>
+  <advance width="616"/>
   <unicode hex="0446"/>
   <outline>
     <contour>
@@ -12,10 +12,10 @@
       <point x="382" y="500" type="line"/>
       <point x="512" y="500" type="line"/>
       <point x="512" y="118" type="line"/>
-      <point x="586" y="118" type="line"/>
-      <point x="586" y="-124" type="line"/>
-      <point x="458" y="-124" type="line"/>
-      <point x="458" y="0" type="line"/>
+      <point x="590" y="118" type="line"/>
+      <point x="590" y="-124" type="line"/>
+      <point x="462" y="-124" type="line"/>
+      <point x="462" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w612m60,0l60,500l190,500l190,118l382,118l382,500l512,500l512,118l586,118l586,-124l458,-124l458,0</string>
+    <string>w616m60,0l60,500l190,500l190,118l382,118l382,500l512,500l512,118l590,118l590,-124l462,-124l462,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -36,7 +36,7 @@
           <string>hstem 500 -20</string>
           <string>vstem 60 130</string>
           <string>vstem 382 130</string>
-          <string>vstem 458 128</string>
+          <string>vstem 462 128</string>
         </array>
       </dict>
     </array>

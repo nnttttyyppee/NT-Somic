@@ -2,29 +2,4 @@
 <glyph name="ordfeminine" format="2">
   <advance width="312"/>
   <unicode hex="00AA"/>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w312</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 327.16 58.8</string>
-          <string>hstem 456.52 50.4</string>
-          <string>hstem 458.2 47.32</string>
-          <string>hstem 564.04 58.8</string>
-          <string>vstem 33.92 70.56</string>
-          <string>vstem 220.96 69.44</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

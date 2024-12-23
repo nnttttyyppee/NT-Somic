@@ -3,7 +3,40 @@
   <advance width="622"/>
   <unicode hex="0071"/>
   <outline>
-    <component base="p" xScale="-1" xOffset="622"/>
+    <contour>
+      <point x="432" y="-200" type="line"/>
+      <point x="562" y="-200" type="line"/>
+      <point x="562" y="500" type="line"/>
+      <point x="432" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="268.194" y="-14" type="curve" smooth="yes"/>
+      <point x="397" y="-14"/>
+      <point x="483" y="87"/>
+      <point x="483" y="250.477" type="curve" smooth="yes"/>
+      <point x="483" y="413"/>
+      <point x="398" y="514"/>
+      <point x="269.194" y="514" type="curve" smooth="yes"/>
+      <point x="136" y="514"/>
+      <point x="36" y="406"/>
+      <point x="36" y="249.608" type="curve" smooth="yes"/>
+      <point x="36" y="94"/>
+      <point x="135" y="-14"/>
+    </contour>
+    <contour>
+      <point x="299" y="106" type="curve" smooth="yes"/>
+      <point x="224" y="106"/>
+      <point x="168" y="166"/>
+      <point x="168" y="250" type="curve" smooth="yes"/>
+      <point x="168" y="334"/>
+      <point x="224" y="394"/>
+      <point x="299" y="394" type="curve" smooth="yes"/>
+      <point x="376" y="394"/>
+      <point x="432" y="334"/>
+      <point x="432" y="250" type="curve" smooth="yes"/>
+      <point x="432" y="166"/>
+      <point x="376" y="106"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -12,16 +45,21 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w622</string>
+    <string>77b11ae5734df727b305e4cfa40efbf23db184e2be89748d121da182e7376a4044d4a6cf00b555313e38aea758c8b98e6ba45f7a854e4ca578d5ddfc0788f861</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -179 -21</string>
+          <string>hstem -14 120</string>
           <string>hstem 0 120</string>
           <string>hstem 21 -21</string>
+          <string>hstem 394 120</string>
           <string>vstem -53 128</string>
           <string>vstem -53 126</string>
+          <string>vstem -12 128</string>
+          <string>vstem 390 126</string>
         </array>
       </dict>
     </array>

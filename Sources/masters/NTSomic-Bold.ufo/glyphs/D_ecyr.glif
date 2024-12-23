@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Decyr" format="2">
-  <advance width="781"/>
+  <advance width="784"/>
   <unicode hex="0414"/>
   <outline>
     <contour>
-      <point x="30" y="-148" type="line"/>
-      <point x="172" y="-148" type="line"/>
-      <point x="172" y="0" type="line"/>
-      <point x="605" y="0" type="line"/>
-      <point x="605" y="-148" type="line"/>
-      <point x="747" y="-148" type="line"/>
-      <point x="747" y="132" type="line"/>
-      <point x="651" y="132" type="line"/>
-      <point x="651" y="700" type="line"/>
-      <point x="143" y="700" type="line"/>
-      <point x="143" y="499" type="line" smooth="yes"/>
-      <point x="143" y="287"/>
-      <point x="125" y="179"/>
-      <point x="81" y="125" type="curve"/>
-      <point x="231" y="117" type="line"/>
-      <point x="268" y="195"/>
-      <point x="283" y="299"/>
-      <point x="283" y="478" type="curve" smooth="yes"/>
-      <point x="283" y="568" type="line"/>
-      <point x="507" y="568" type="line"/>
-      <point x="507" y="132" type="line"/>
-      <point x="30" y="132" type="line"/>
+      <point x="32" y="-148" type="line"/>
+      <point x="174" y="-148" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="608" y="0" type="line"/>
+      <point x="608" y="-148" type="line"/>
+      <point x="750" y="-148" type="line"/>
+      <point x="750" y="132" type="line"/>
+      <point x="656" y="132" type="line"/>
+      <point x="656" y="700" type="line"/>
+      <point x="146" y="700" type="line"/>
+      <point x="146" y="542" type="line" smooth="yes"/>
+      <point x="146" y="297"/>
+      <point x="131" y="188"/>
+      <point x="90" y="132" type="curve"/>
+      <point x="32" y="132" type="line"/>
+    </contour>
+    <contour>
+      <point x="240" y="132" type="line"/>
+      <point x="274" y="205"/>
+      <point x="286" y="317"/>
+      <point x="286" y="518" type="curve" smooth="yes"/>
+      <point x="286" y="568" type="line"/>
+      <point x="512" y="568" type="line"/>
+      <point x="512" y="132" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +37,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2188ae5c57b6cebc60171d0f81d79a5ebc90668c71d79a0d41fde005305272a38ac037276fd069832f4184a946437727872d897b28100e442878303a28555f6d</string>
+    <string>e60f30eaec7549c16f88b73ff042f0e761a19f1bc857476165727ec81211c9a84bcb1bf75e37bcaf2a99a983b3b24bb6be6398cd50c1220c974a193a9ca33fcf</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -46,7 +48,7 @@
           <string>hstem 569 132</string>
           <string>vstem 34 144</string>
           <string>vstem 151 143</string>
-          <string>vstem 510 154</string>
+          <string>vstem 513 151</string>
           <string>vstem 614 144</string>
         </array>
       </dict>

@@ -2,14 +2,15 @@
 <glyph name="gecyr" format="2">
   <advance width="414"/>
   <unicode hex="0433"/>
+  <anchor x="240" y="500" name="top"/>
   <outline>
     <contour>
-      <point x="60" y="500" type="line"/>
-      <point x="396" y="500" type="line"/>
-      <point x="396" y="382" type="line"/>
-      <point x="190" y="382" type="line"/>
-      <point x="190" y="0" type="line"/>
       <point x="60" y="0" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="190" y="382" type="line"/>
+      <point x="396" y="382" type="line"/>
+      <point x="396" y="500" type="line"/>
+      <point x="60" y="500" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -19,7 +20,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w414m60,500l396,500l396,382l190,382l190,0l60,0</string>
+    <string>w414m60,0l190,0l190,382l396,382l396,500l60,500</string>
     <key>hintSetList</key>
     <array>
       <dict>

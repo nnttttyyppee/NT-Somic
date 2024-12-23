@@ -3,12 +3,14 @@
   <advance width="608"/>
   <outline>
     <component base="g.ss02"/>
-    <component base="circumflex" xOffset="82"/>
+    <component base="circumflex" xOffset="84"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>g+circumflex</string>
+  <string>g.ss02+circumflex</string>
   </dict>
   </lib>
 </glyph>

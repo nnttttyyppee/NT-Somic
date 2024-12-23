@@ -4,12 +4,33 @@
   <unicode hex="00B4"/>
   <anchor x="153" y="500" name="_top"/>
   <outline>
-    <component base="grave" xScale="-1" xOffset="306"/>
+    <contour>
+      <point x="68" y="546" type="line"/>
+      <point x="296" y="687" type="line"/>
+      <point x="236" y="778" type="line"/>
+      <point x="10" y="635" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
   <string>space+acutecomb</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w306m68,546l296,687l236,778l10,635</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 154</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

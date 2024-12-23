@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shchacyr" format="2">
-  <advance width="814"/>
+  <advance width="818"/>
   <unicode hex="0449"/>
   <outline>
     <contour>
       <point x="60" y="0" type="line"/>
       <point x="60" y="500" type="line"/>
       <point x="190" y="500" type="line"/>
-      <point x="190" y="117" type="line"/>
-      <point x="322" y="117" type="line"/>
+      <point x="190" y="118" type="line"/>
+      <point x="322" y="118" type="line"/>
       <point x="322" y="500" type="line"/>
       <point x="452" y="500" type="line"/>
-      <point x="452" y="117" type="line"/>
-      <point x="584" y="117" type="line"/>
+      <point x="452" y="118" type="line"/>
+      <point x="584" y="118" type="line"/>
       <point x="584" y="500" type="line"/>
       <point x="714" y="500" type="line"/>
-      <point x="714" y="117" type="line"/>
-      <point x="788" y="117" type="line"/>
-      <point x="788" y="-124" type="line"/>
-      <point x="660" y="-124" type="line"/>
-      <point x="660" y="0" type="line"/>
+      <point x="714" y="118" type="line"/>
+      <point x="792" y="118" type="line"/>
+      <point x="792" y="-124" type="line"/>
+      <point x="664" y="-124" type="line"/>
+      <point x="664" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,19 +29,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a4a1d21b7953adfe011b84aa9a96aafb41abe1337493f88d2ffa44c351e50888479a1855c095401f71fe3692837e00f277662f62f78b77b913764e3385c9d6e9</string>
+    <string>b30c7714603343b4c1b0573a515db588ae4fb7120f30caf9dcf75c26faa7b6fdbf0993557fd6d089a0841de25fbddf3ca777ed5499fa5794e895ff3002150dac</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -124 241</string>
-          <string>hstem 0 117</string>
+          <string>hstem -124 242</string>
+          <string>hstem 0 118</string>
           <string>hstem 500 -20</string>
           <string>vstem 60 130</string>
           <string>vstem 322 130</string>
           <string>vstem 584 130</string>
-          <string>vstem 660 128</string>
+          <string>vstem 664 128</string>
         </array>
       </dict>
     </array>

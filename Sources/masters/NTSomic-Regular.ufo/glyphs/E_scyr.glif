@@ -2,7 +2,15 @@
 <glyph name="Escyr" format="2">
   <advance width="760"/>
   <unicode hex="0421"/>
+  <anchor x="413" y="700" name="top"/>
+  <anchor x="421" y="0" name="bottom"/>
   <outline>
     <component base="C"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

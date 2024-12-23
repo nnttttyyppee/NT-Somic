@@ -4,6 +4,14 @@
   <unicode hex="02C7"/>
   <anchor x="190" y="500" name="_top"/>
   <outline>
-    <component base="circumflex" yScale="-1" yOffset="1318"/>
+    <contour>
+      <point x="190" y="566" type="line"/>
+      <point x="364" y="698" type="line"/>
+      <point x="322" y="752" type="line"/>
+      <point x="177" y="643" type="line"/>
+      <point x="203" y="643" type="line"/>
+      <point x="58" y="752" type="line"/>
+      <point x="16" y="698" type="line"/>
+    </contour>
   </outline>
 </glyph>

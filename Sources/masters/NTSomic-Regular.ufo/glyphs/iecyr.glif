@@ -2,7 +2,14 @@
 <glyph name="iecyr" format="2">
   <advance width="580"/>
   <unicode hex="0435"/>
+  <anchor x="298" y="500" name="top"/>
   <outline>
     <component base="e"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>
