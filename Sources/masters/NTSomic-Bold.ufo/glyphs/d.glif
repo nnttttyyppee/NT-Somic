@@ -4,22 +4,23 @@
   <unicode hex="0064"/>
   <outline>
     <contour>
+      <point x="268" y="-14" type="curve" smooth="yes"/>
+      <point x="342" y="-14"/>
+      <point x="403" y="20"/>
+      <point x="441" y="80" type="curve"/>
+      <point x="432" y="86" type="line"/>
       <point x="432" y="0" type="line"/>
       <point x="562" y="0" type="line"/>
       <point x="562" y="722" type="line"/>
       <point x="432" y="722" type="line"/>
-    </contour>
-    <contour>
-      <point x="268.194" y="-14" type="curve" smooth="yes"/>
-      <point x="397" y="-14"/>
-      <point x="483" y="87"/>
-      <point x="483" y="250.477" type="curve" smooth="yes"/>
-      <point x="483" y="413"/>
-      <point x="398" y="514"/>
-      <point x="269.194" y="514" type="curve" smooth="yes"/>
+      <point x="432" y="414" type="line"/>
+      <point x="441" y="420" type="line"/>
+      <point x="403" y="480"/>
+      <point x="343" y="514"/>
+      <point x="269" y="514" type="curve" smooth="yes"/>
       <point x="136" y="514"/>
       <point x="36" y="406"/>
-      <point x="36" y="249.608" type="curve" smooth="yes"/>
+      <point x="36" y="250" type="curve" smooth="yes"/>
       <point x="36" y="94"/>
       <point x="135" y="-14"/>
     </contour>
@@ -45,22 +46,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>47d8cf780ebaba1688e734f72e8943117fed7a5fe45427c02a63f1f6863316c8ef128872de56fd52449d9bc533d5802a336cc1401f99b0feba5825964871ff13</string>
+    <string>8f92a1aa86e753509ac64d18b002ee7b54eee5cde63812b8de296239b4bde2b3f6316536aef4a88e0c5c62073cdc56f4842b88ded1cc044432471cdc4cc70ed8</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -14 124</string>
-          <string>hstem 390 124</string>
-          <string>hstem 514 -20</string>
+          <string>hstem -14 120</string>
+          <string>hstem 394 120</string>
           <string>hstem 700 -20</string>
-          <string>vstem -40 128</string>
-          <string>vstem 32 122</string>
-          <string>vstem 44 122</string>
-          <string>vstem 362 126</string>
-          <string>vstem 444 128</string>
-          <string>vstem 456 126</string>
+          <string>vstem 36 132</string>
+          <string>vstem 432 130</string>
         </array>
       </dict>
     </array>

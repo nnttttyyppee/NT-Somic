@@ -21,6 +21,7 @@
           <string>hstem -14 118</string>
           <string>hstem 199 104</string>
           <string>hstem 398 118</string>
+          <string>vstem 36 125</string>
         </array>
       </dict>
     </array>

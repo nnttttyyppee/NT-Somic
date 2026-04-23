@@ -25,6 +25,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>k</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

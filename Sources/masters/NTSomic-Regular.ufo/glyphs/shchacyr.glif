@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shchacyr" format="2">
-  <advance width="789"/>
+  <advance width="805"/>
   <unicode hex="0449"/>
   <outline>
     <contour>
@@ -8,18 +8,18 @@
       <point x="76" y="500" type="line"/>
       <point x="157" y="500" type="line"/>
       <point x="157" y="75" type="line"/>
-      <point x="337" y="75" type="line"/>
-      <point x="337" y="500" type="line"/>
-      <point x="418" y="500" type="line"/>
-      <point x="418" y="75" type="line"/>
-      <point x="598" y="75" type="line"/>
-      <point x="598" y="500" type="line"/>
-      <point x="679" y="500" type="line"/>
-      <point x="679" y="75" type="line"/>
-      <point x="761" y="75" type="line"/>
-      <point x="761" y="-130" type="line"/>
-      <point x="681" y="-130" type="line"/>
-      <point x="681" y="0" type="line"/>
+      <point x="347" y="75" type="line"/>
+      <point x="347" y="500" type="line"/>
+      <point x="428" y="500" type="line"/>
+      <point x="428" y="75" type="line"/>
+      <point x="618" y="75" type="line"/>
+      <point x="618" y="500" type="line"/>
+      <point x="699" y="500" type="line"/>
+      <point x="699" y="75" type="line"/>
+      <point x="777" y="75" type="line"/>
+      <point x="777" y="-130" type="line"/>
+      <point x="697" y="-130" type="line"/>
+      <point x="697" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,19 +29,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w789m76,0l76,500l157,500l157,75l337,75l337,500l418,500l418,75l598,75l598,500l679,500l679,75l761,75l761,-130l681,-130l681,0</string>
+    <string>w805m76,0l76,500l157,500l157,75l347,75l347,500l428,500l428,75l618,75l618,500l699,500l699,75l777,75l777,-130l697,-130l697,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -126 203</string>
-          <string>hstem 0 77</string>
+          <string>hstem 0 75</string>
           <string>hstem 500 -20</string>
-          <string>vstem 16 79.5</string>
-          <string>vstem 226.5 80.5</string>
-          <string>vstem 519.5 79.5</string>
-          <string>vstem 606 75</string>
+          <string>vstem 96 81</string>
+          <string>vstem 276 81</string>
+          <string>vstem 537 81</string>
+          <string>vstem 621 80</string>
         </array>
       </dict>
     </array>

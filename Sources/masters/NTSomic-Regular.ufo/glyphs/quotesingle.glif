@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="2">
-  <advance width="199"/>
+  <advance width="197"/>
   <unicode hex="0027"/>
+  <anchor x="29" y="577" name="#entry"/>
+  <anchor x="168" y="577" name="#exit"/>
   <outline>
     <contour>
-      <point x="64" y="454" type="line"/>
-      <point x="135" y="454" type="line"/>
-      <point x="138" y="700" type="line"/>
-      <point x="61" y="700" type="line"/>
+      <point x="63" y="454" type="line"/>
+      <point x="134" y="454" type="line"/>
+      <point x="137" y="700" type="line"/>
+      <point x="60" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,13 +19,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w199m64,454l135,454l138,700l61,700</string>
+    <string>w197m63,454l134,454l137,700l60,700</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 553.5 -21</string>
+          <string>hstem 554 -21</string>
           <string>hstem 742 -20</string>
         </array>
       </dict>

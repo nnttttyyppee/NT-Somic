@@ -4,10 +4,10 @@
   <unicode hex="042D"/>
   <outline>
     <contour>
-      <point x="217" y="316" type="line"/>
-      <point x="656" y="316" type="line"/>
-      <point x="656" y="392" type="line"/>
-      <point x="217" y="392" type="line"/>
+      <point x="217" y="313" type="line"/>
+      <point x="656" y="313" type="line"/>
+      <point x="656" y="395" type="line"/>
+      <point x="217" y="395" type="line"/>
     </contour>
     <contour>
       <point x="343.115" y="-16" type="curve" smooth="yes"/>
@@ -45,15 +45,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d145ddf5756c3a56be2aaaedd0c84acd5b0d62a97fa50b037578814eebf0b9d606f7a86ca598075ee44f5b4807696c3c482017d5a6c4445f48edc599e70c1c2e</string>
+    <string>8b1b0f79f7f7e955dfcf5a0116ebbd300ba2f5ee5db070119a191742005916437459b6ea4e585ceeb3f4f9becad1cc9392e1f753c3736879c24caf81cc187db6</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -14 82.5</string>
-          <string>hstem 306 87.5</string>
-          <string>hstem 629 85</string>
+          <string>hstem -16 82</string>
+          <string>hstem 314 80</string>
+          <string>hstem 634 82</string>
+          <string>vstem 612 88</string>
         </array>
       </dict>
     </array>

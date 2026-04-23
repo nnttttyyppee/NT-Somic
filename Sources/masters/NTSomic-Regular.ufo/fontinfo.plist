@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>1010</integer>
+  <integer>950</integer>
   <key>capHeight</key>
   <integer>700</integer>
   <key>copyright</key>
   <string>Copyright 2023 The NT Somic project</string>
   <key>descender</key>
-  <integer>-200</integer>
+  <integer>-250</integer>
   <key>familyName</key>
   <string>NT Somic</string>
   <key>guidelines</key>
@@ -133,11 +133,11 @@ https://scripts.sil.org/OFL
     <integer>2</integer>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>1010</integer>
+  <integer>950</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-200</integer>
+  <integer>-250</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>100</integer>
+  <integer>-0</integer>
   <key>openTypeOS2VendorID</key>
   <string>NNTT</string>
   <key>openTypeOS2WeightClass</key>
@@ -145,9 +145,9 @@ https://scripts.sil.org/OFL
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>800</integer>
+  <integer>950</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>200</integer>
+  <integer>250</integer>
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>

@@ -23,6 +23,24 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>j%</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w232m76,0c76,-96 51,-128 -21,-128l-41,-128l-41,-206l-12,-206c100,-206 156,-141 156,-12l156,500l76,500</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -206 76</string>
+          <string>hstem 500 -20</string>
+          <string>vstem 76 80</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

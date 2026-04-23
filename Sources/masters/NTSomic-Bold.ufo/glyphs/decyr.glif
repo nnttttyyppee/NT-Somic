@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="decyr" format="2">
-  <advance width="623"/>
+  <advance width="625"/>
   <unicode hex="0434"/>
   <outline>
     <contour>
-      <point x="24" y="-124" type="line"/>
-      <point x="152" y="-124" type="line"/>
-      <point x="152" y="0" type="line"/>
-      <point x="469" y="0" type="line"/>
-      <point x="469" y="-124" type="line"/>
-      <point x="597" y="-124" type="line"/>
-      <point x="597" y="118" type="line"/>
-      <point x="519" y="118" type="line"/>
-      <point x="519" y="500" type="line"/>
-      <point x="111" y="500" type="line"/>
-      <point x="111" y="368" type="line" smooth="yes"/>
-      <point x="111" y="225"/>
-      <point x="99" y="154"/>
+      <point x="20" y="-124" type="line"/>
+      <point x="148" y="-124" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="473" y="0" type="line"/>
+      <point x="473" y="-124" type="line"/>
+      <point x="601" y="-124" type="line"/>
+      <point x="601" y="118" type="line"/>
+      <point x="527" y="118" type="line"/>
+      <point x="527" y="500" type="line"/>
+      <point x="119" y="500" type="line"/>
+      <point x="119" y="373" type="line" smooth="yes"/>
+      <point x="119" y="232"/>
+      <point x="103" y="154"/>
       <point x="70" y="118" type="curve"/>
-      <point x="24" y="118" type="line"/>
+      <point x="20" y="118" type="line"/>
     </contour>
     <contour>
       <point x="204" y="118" type="line"/>
-      <point x="228" y="171"/>
-      <point x="237" y="232"/>
-      <point x="237" y="345" type="curve" smooth="yes"/>
-      <point x="237" y="382" type="line"/>
-      <point x="389" y="382" type="line"/>
-      <point x="389" y="118" type="line"/>
+      <point x="232" y="171"/>
+      <point x="245" y="239"/>
+      <point x="245" y="350" type="curve" smooth="yes"/>
+      <point x="245" y="382" type="line"/>
+      <point x="397" y="382" type="line"/>
+      <point x="397" y="118" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,19 +37,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d38cc5851af191fd5f87bf36831d3c30b8b8d7e55164199826e52c94b581fe7993c56fc9beb49d8d6027cb484c927fbd7121c05c2f109e04ad2831878b7eb764</string>
+    <string>9e9090458f9a3b6d1ba59ce4cb4c858343f98c4d559ad7654884e67fffc4b6ac98c6617b63f3268109627eb87c189868e65583315961298c9490ded2300c927f</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -124 242</string>
           <string>hstem 0 118</string>
-          <string>hstem 384 116</string>
-          <string>vstem 26 128</string>
-          <string>vstem 121 120</string>
-          <string>vstem 393 128</string>
-          <string>vstem 467 128</string>
+          <string>hstem 382 118</string>
+          <string>vstem 28 128</string>
+          <string>vstem 115 126</string>
+          <string>vstem 393 130</string>
+          <string>vstem 473 128</string>
         </array>
       </dict>
     </array>

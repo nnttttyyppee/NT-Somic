@@ -4,12 +4,7 @@
   <unicode hex="042F"/>
   <outline>
     <contour>
-      <point x="337" y="263" type="line"/>
-      <point x="229" y="329" type="line"/>
-      <point x="18" y="0" type="line"/>
-      <point x="172" y="0" type="line"/>
-    </contour>
-    <contour>
+      <point x="442" y="0" type="line"/>
       <point x="584" y="0" type="line"/>
       <point x="584" y="700" type="line"/>
       <point x="300" y="700" type="line" smooth="yes"/>
@@ -20,18 +15,23 @@
       <point x="156" y="238"/>
       <point x="300" y="238" type="curve" smooth="yes"/>
       <point x="442" y="238" type="line"/>
-      <point x="442" y="0" type="line"/>
     </contour>
     <contour>
       <point x="442" y="366" type="line"/>
-      <point x="304" y="366" type="line" smooth="yes"/>
-      <point x="250" y="366"/>
-      <point x="203" y="404"/>
-      <point x="203" y="467" type="curve" smooth="yes"/>
-      <point x="203" y="530"/>
-      <point x="250" y="572"/>
-      <point x="304" y="572" type="curve" smooth="yes"/>
+      <point x="307" y="366" type="line" smooth="yes"/>
+      <point x="248" y="366"/>
+      <point x="203" y="406"/>
+      <point x="203" y="469" type="curve" smooth="yes"/>
+      <point x="203" y="532"/>
+      <point x="248" y="572"/>
+      <point x="307" y="572" type="curve" smooth="yes"/>
       <point x="442" y="572" type="line"/>
+    </contour>
+    <contour>
+      <point x="14" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="342" y="263" type="line"/>
+      <point x="237" y="329" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,17 +41,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5af5d9be52c3ac53735aa38dce89971697b909b787d151c913c71a48b96753df3eeb01c373b9cabab93ff8b077656623fd3d00aab8ca1f37d38c135612f34581</string>
+    <string>d9b7235205e524bdb5c4313c391b279f3a9c4192374487d34d8866b74761dec0ab9634f67aac6c5604c6e37aaafbfaf0740ad3c7f78bd7142dd74c830be86e33</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 21 -21</string>
-          <string>hstem 234 132</string>
-          <string>hstem 568 132</string>
-          <string>vstem -24 24</string>
-          <string>vstem 387 142</string>
+          <string>hstem 238 128</string>
+          <string>hstem 572 128</string>
+          <string>vstem 59 144</string>
+          <string>vstem 442 142</string>
         </array>
       </dict>
     </array>

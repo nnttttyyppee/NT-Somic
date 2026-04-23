@@ -20,18 +20,18 @@
     </contour>
     <contour>
       <point x="936" y="0" type="line"/>
-      <point x="713" y="368" type="line"/>
+      <point x="707" y="368" type="line"/>
       <point x="925" y="700" type="line"/>
       <point x="821" y="700" type="line"/>
-      <point x="615" y="366" type="line"/>
+      <point x="609" y="366" type="line"/>
       <point x="832" y="0" type="line"/>
     </contour>
     <contour>
       <point x="130" y="0" type="line"/>
-      <point x="347" y="366" type="line"/>
+      <point x="353" y="366" type="line"/>
       <point x="141" y="700" type="line"/>
       <point x="37" y="700" type="line"/>
-      <point x="249" y="368" type="line"/>
+      <point x="255" y="368" type="line"/>
       <point x="26" y="0" type="line"/>
     </contour>
   </outline>
@@ -42,7 +42,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>565f8a3273b42e2a676432d5c67d72b384e6a5c66fb92126b6a47774e86d40ad4d46269599539788f5c2ad8905ebc7c93ca3aba8fb1f2eae4ccb508d7769865e</string>
+    <string>b94c0e4ebb475b7d64b19eba50d8f3a6a0ae26ea989fd3d18f118845e8ce89ddf281bd44748fefc33a50737ce55206f2c098b0897b09e371eedd9fbdfb79fde1</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -51,7 +51,7 @@
           <string>hstem 21 -21</string>
           <string>hstem 325 82.5</string>
           <string>hstem 700 -20</string>
-          <string>vstem -151 86</string>
+          <string>vstem 437 87</string>
         </array>
       </dict>
     </array>

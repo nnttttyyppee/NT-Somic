@@ -8,6 +8,10 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|n</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -19,10 +23,10 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -14 73.5</string>
+          <string>hstem -14 76</string>
           <string>hstem 500 -20</string>
-          <string>vstem 36 79.5</string>
-          <string>vstem 304.5 79.5</string>
+          <string>vstem 70 81</string>
+          <string>vstem 336 81</string>
         </array>
       </dict>
     </array>

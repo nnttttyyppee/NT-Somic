@@ -31,11 +31,11 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 80</string>
+          <string>hstem 0 81</string>
           <string>hstem 700 -20</string>
-          <string>vstem 74 102</string>
-          <string>vstem 435 102</string>
-          <string>vstem 796 102</string>
+          <string>vstem 92 87</string>
+          <string>vstem 433 87</string>
+          <string>vstem 774 87</string>
         </array>
       </dict>
     </array>

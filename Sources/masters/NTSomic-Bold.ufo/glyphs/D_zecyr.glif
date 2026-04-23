@@ -2,11 +2,15 @@
 <glyph name="Dzecyr" format="2">
   <advance width="626"/>
   <unicode hex="0405"/>
+  <anchor x="313" y="700" name="top"/>
+  <anchor x="314" y="0" name="bottom"/>
   <outline>
     <component base="S"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>S%</string>
   </dict>

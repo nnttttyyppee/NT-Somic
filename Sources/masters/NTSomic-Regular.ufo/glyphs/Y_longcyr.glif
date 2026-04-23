@@ -48,12 +48,12 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 80.5</string>
-          <string>hstem 374 80.5</string>
+          <string>hstem 0 81</string>
+          <string>hstem 363 80.5</string>
           <string>hstem 700 -20</string>
-          <string>vstem 87 86</string>
-          <string>vstem 429.5 83.5</string>
-          <string>vstem 678 86</string>
+          <string>vstem 92 87</string>
+          <string>vstem 405 88</string>
+          <string>vstem 685 87</string>
         </array>
       </dict>
     </array>

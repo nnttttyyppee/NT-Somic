@@ -47,18 +47,18 @@
       <point x="53" y="444"/>
     </contour>
     <contour>
-      <point x="128" y="345" type="curve" smooth="yes"/>
-      <point x="128" y="406"/>
-      <point x="177" y="444"/>
-      <point x="256" y="444" type="curve" smooth="yes"/>
-      <point x="334" y="444"/>
-      <point x="384" y="406"/>
-      <point x="384" y="345" type="curve" smooth="yes"/>
-      <point x="384" y="284"/>
-      <point x="334" y="246"/>
-      <point x="256" y="246" type="curve" smooth="yes"/>
-      <point x="177" y="246"/>
-      <point x="128" y="284"/>
+      <point x="129" y="345" type="curve" smooth="yes"/>
+      <point x="129" y="407"/>
+      <point x="178" y="445"/>
+      <point x="256" y="445" type="curve" smooth="yes"/>
+      <point x="333" y="445"/>
+      <point x="383" y="407"/>
+      <point x="383" y="345" type="curve" smooth="yes"/>
+      <point x="383" y="283"/>
+      <point x="333" y="245"/>
+      <point x="256" y="245" type="curve" smooth="yes"/>
+      <point x="178" y="245"/>
+      <point x="129" y="283"/>
     </contour>
     <contour>
       <point x="99" y="-67.7772" type="curve" smooth="yes"/>
@@ -88,17 +88,20 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>65a2e2012970cb59348f2b6199e465c42af67741f16d326022b220b55c01a3840acf4a427d3eb9096d4151c939c95a921551c9922d8a1aafdf05caca681a72ff</string>
+    <string>3436e1d8f52b31d4f378f8efa3ed89fcf2b433c259a9bd83b03550ba9d06f9f71749ae53b59ab2f9171dc89e85b3f08bad63256991cc1b2320f5e3515241321b</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -214 76.5</string>
-          <string>hstem 16 78</string>
-          <string>hstem 436 78</string>
-          <string>vstem 10 81.5</string>
-          <string>vstem 424 80.5</string>
+          <string>hstem -214 72</string>
+          <string>hstem 12 70</string>
+          <string>hstem 176 69</string>
+          <string>hstem 445 69</string>
+          <string>vstem 22 77</string>
+          <string>vstem 53 76</string>
+          <string>vstem 383 80.5</string>
+          <string>vstem 424 76</string>
         </array>
       </dict>
     </array>

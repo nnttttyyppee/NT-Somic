@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shacyr" format="2">
-  <advance width="755"/>
+  <advance width="775"/>
   <unicode hex="0448"/>
   <outline>
     <contour>
@@ -8,14 +8,14 @@
       <point x="76" y="500" type="line"/>
       <point x="157" y="500" type="line"/>
       <point x="157" y="75" type="line"/>
-      <point x="337" y="75" type="line"/>
-      <point x="337" y="500" type="line"/>
-      <point x="418" y="500" type="line"/>
-      <point x="418" y="75" type="line"/>
-      <point x="598" y="75" type="line"/>
-      <point x="598" y="500" type="line"/>
-      <point x="679" y="500" type="line"/>
-      <point x="679" y="0" type="line"/>
+      <point x="347" y="75" type="line"/>
+      <point x="347" y="500" type="line"/>
+      <point x="428" y="500" type="line"/>
+      <point x="428" y="75" type="line"/>
+      <point x="618" y="75" type="line"/>
+      <point x="618" y="500" type="line"/>
+      <point x="699" y="500" type="line"/>
+      <point x="699" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,17 +25,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w755m76,0l76,500l157,500l157,75l337,75l337,500l418,500l418,75l598,75l598,500l679,500l679,0</string>
+    <string>w775m76,0l76,500l157,500l157,75l347,75l347,500l428,500l428,75l618,75l618,500l699,500l699,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 77</string>
+          <string>hstem 0 75</string>
           <string>hstem 500 -20</string>
-          <string>vstem -23.5 79.5</string>
-          <string>vstem 256.5 80.5</string>
-          <string>vstem 618 79.5</string>
+          <string>vstem 5 81</string>
+          <string>vstem 266 81</string>
+          <string>vstem 608 81</string>
         </array>
       </dict>
     </array>

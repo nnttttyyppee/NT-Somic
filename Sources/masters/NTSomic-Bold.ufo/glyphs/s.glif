@@ -9,26 +9,26 @@
       <point x="261.379" y="-14" type="curve" smooth="yes"/>
       <point x="390" y="-14"/>
       <point x="474" y="52"/>
-      <point x="474" y="151.185" type="curve" smooth="yes"/>
+      <point x="474" y="151.076" type="curve" smooth="yes"/>
       <point x="474" y="338"/>
-      <point x="176" y="287"/>
-      <point x="176" y="362.154" type="curve" smooth="yes"/>
-      <point x="176" y="386"/>
-      <point x="206" y="406"/>
-      <point x="254.677" y="406" type="curve" smooth="yes"/>
-      <point x="308" y="406"/>
-      <point x="348" y="382"/>
-      <point x="371" y="337" type="curve"/>
-      <point x="468" y="399" type="line"/>
-      <point x="426" y="475"/>
-      <point x="353" y="514"/>
-      <point x="255.675" y="514" type="curve" smooth="yes"/>
-      <point x="131" y="514"/>
-      <point x="52" y="450"/>
-      <point x="52" y="355.303" type="curve" smooth="yes"/>
-      <point x="52" y="172"/>
+      <point x="175" y="287"/>
+      <point x="175" y="362.185" type="curve" smooth="yes"/>
+      <point x="175" y="386"/>
+      <point x="205" y="406"/>
+      <point x="253.677" y="406" type="curve" smooth="yes"/>
+      <point x="307" y="406"/>
+      <point x="347" y="382"/>
+      <point x="370" y="337" type="curve"/>
+      <point x="467" y="399" type="line"/>
+      <point x="425" y="475"/>
+      <point x="352" y="514"/>
+      <point x="254.675" y="514" type="curve" smooth="yes"/>
+      <point x="130" y="514"/>
+      <point x="51" y="450"/>
+      <point x="51" y="355.408" type="curve" smooth="yes"/>
+      <point x="51" y="172"/>
       <point x="348" y="226"/>
-      <point x="348" y="143.218" type="curve" smooth="yes"/>
+      <point x="348" y="143.184" type="curve" smooth="yes"/>
       <point x="348" y="116"/>
       <point x="316" y="95"/>
       <point x="262.67" y="95" type="curve" smooth="yes"/>
@@ -47,16 +47,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ec2dfae85e92f84eea6c77b7b2c90ae5382467e23a0e964558c2c43f5c1f41b38e98a37493c01d6ad2130b4a379763f4721b39803af23de33109b55a68502a1a</string>
+    <string>1c103f8cd3778e019c385b661ee06211b6e2ba3255c90ab10a77563118f92cda0d3c44c7127625f13b2e44eba7e47b2c79e88492d7e9a0d75a8270d72534e430</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -14 108</string>
+          <string>hstem -14 109</string>
           <string>hstem 406 108</string>
-          <string>vstem 105 126</string>
-          <string>vstem 407 126</string>
+          <string>vstem 51 124</string>
+          <string>vstem 348 126</string>
         </array>
       </dict>
     </array>
